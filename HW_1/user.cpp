@@ -56,3 +56,4 @@ std::set<int> &User::getFriends()
 {
     return friends_;
 }
+

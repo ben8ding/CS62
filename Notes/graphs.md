@@ -1,3 +1,5 @@
+**Graphs Lecture**
+
 * A graph is a collection of vertices and edges
 * Node <-> Vertex
 * Vertex 0 and Vertex 1 are adjacent
@@ -36,4 +38,21 @@ AdjLists[1] = set<int> {0,2,3,4}
 AdjLists[2] = set<int> {1,3}
 AdjLists[3] = set<int> {1,2,4}
 AdjLists[4] = set<int> {0,1,3}
+```
+
+* Adjacency lists are more efficient for social networks because of sparse connections. Save on memory usage.
+
+Sample User Adjacency List:
+
+```c++
+// Adjacency lists
+// AdjLists[i] contains the neighbors of vertex i
+class User {
+private:
+set<int> friends;
+};
+class Network {
+private:
+vector<User> users;
+};
 ```

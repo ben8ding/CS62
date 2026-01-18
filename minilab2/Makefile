@@ -19,17 +19,39 @@
 #	rm *.o output
 
 # Part 3
+#output: main.o class1.o class2.o
+#	g++ $< -o $@
+
+#main.o: main.cpp
+#	g++ -c $^ -o $@
+
+#class1.o: class1.cpp
+#	g++ -c $< -o $@
+
+#class2.o: class2.cpp
+#	g++ -c $< -o $@
+
+#clean:
+#	rm *.o output
+
+# Part 4
+#output: main.o class1.o class2.o
+#	g++ $^ -o $@
+
+#%.o: %.cpp
+#	g++ -c $< -o $@
+
+#clean:
+#	rm *.o output
+
+# Part 5
+COMP=g++
+FLAGS=-Wall -std=c++11
 output: main.o class1.o class2.o
-	g++ $ˆ -o $@
+	$(COMP) $(FLAGS) $^ -o $@
 
-main.o: main.cpp
-	g++ -c $< -o $@
-
-class1.o: class1.cpp
-	g++ -c $< -o $@
-
-class2.o: class2.cpp
-	g++ -c $< -o $@
+%.o: %.cpp
+	$(COMP) $(FLAGS) -c $< -o $@
 
 clean:
 	rm *.o output
