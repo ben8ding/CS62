@@ -1,0 +1,86 @@
+#include <iostream>
+#include <string>
+#include <vector>
+#include "network.h"
+#include "user.h"
+
+using namespace std;
+
+void printMenu() {
+    cout << "\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" << endl;
+    cout << "@ Selection an option:                   @" << endl;
+    cout << "@ 1. Add a user                          @" << endl;
+    cout << "@ 2. Add friend connection               @" << endl;
+    cout << "@ 3. Delete friend connection            @" << endl;
+    cout << "@ 4. Write to file                       @" << endl;
+    cout << "@ 5+. Exit                               @" << endl;
+    cout << "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" << endl;
+    cout << "Option: ";
+}
+
+int main(int argc, char* argv[]) {
+    if (argc < 2) {
+        cerr << "Usage: " << argv[0] << " [user_file.txt]" << endl;
+        return 1;
+    }
+
+    Network net;
+    net.readUsers(argv[1]);
+
+    int option;
+    while (true) {
+        printMenu();
+        if (!(cin >> option)) break; // unexpected input closes function
+
+        if (option == 1) {
+            string first, last;
+            int year, zip;
+            cin >> first >> last >> year >> zip;
+            
+            string fullName = first + " " + last;
+            
+            // empty friends to add into constructor
+            std::set<int> friends;
+            // assigns id based off number of users
+            User* newUser = new User(net.numUsers(), fullName, year, zip, friends);
+            net.addUser(newUser);
+            cout << "User added: " << fullName << endl;
+
+        } else if (option == 2) {
+            string f1, l1, f2, l2;
+            cin >> f1 >> l1 >> f2 >> l2;
+            
+            int result = net.addConnection(f1 + " " + l1, f2 + " " + l2);
+            if (result == -1) {
+                cout << "Error: One or both users do not exist." << endl;
+            } else {
+                cout << "Connection added successfully." << endl;
+            }
+
+        } else if (option == 3) {
+            string f1, l1, f2, l2;
+            cin >> f1 >> l1 >> f2 >> l2;
+            
+            int result = net.deleteConnection(f1 + " " + l1, f2 + " " + l2);
+            if (result == -1) {
+                cout << "Error: Connection could not be deleted." << endl;
+            } else {
+                cout << "Connection removed successfully." << endl;
+            }
+
+        } else if (option == 4) {
+            // todo prompt user to input file name instead of just blank
+            string outFileName;
+            cin >> outFileName;
+            net.writeUsers(outFileName.c_str());
+            cout << "Successfully wrote " << net.numUsers() << " users to " << outFileName << endl;
+
+        } else {
+            // catchall stuff
+            cout << "Exiting program..." << endl;
+            break;
+        }
+    }
+
+    return 0;
+}

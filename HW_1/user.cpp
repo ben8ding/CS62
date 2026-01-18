@@ -20,12 +20,13 @@ User::User(int id, std::string name, int year, int zip, std::set<int> friends)
     friends_ = friends;
 }
 
-// todo: more comments 
+// adds friend with the given id
 void User::addFriend(int id)
 {
     friends_.insert(id);
 }
 
+// deletes friend of the given id
 void User::deleteFriend(int id)
 {
     friends_.erase(id);

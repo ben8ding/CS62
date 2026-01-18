@@ -23,11 +23,11 @@ public:
     std::set<int> &getFriends();
 
    
-    //Pre: The ID of the friend to be added
-    //Post: friends_ is inserted with the ID of the 
+    //pre: the id of the friend to be added
+    //post: friends_ is inserted with the id of the 
     void addFriend(int id);
-    //Pre: The ID of the friend to be removed
-    //Post: If the friend in friends_ has a matching ID, it is removed from the set
+    //pre: the id of the friend to be removed
+    //post: if the friend in friends_ has a matching id, it is removed from the set
     void deleteFriend(int id);
 
 private:
