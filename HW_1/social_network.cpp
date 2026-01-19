@@ -7,15 +7,12 @@
 using namespace std;
 
 void printMenu() {
-    cout << "\n@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" << endl;
-    cout << "@ Selection an option:                   @" << endl;
-    cout << "@ 1. Add a user                          @" << endl;
-    cout << "@ 2. Add friend connection               @" << endl;
-    cout << "@ 3. Delete friend connection            @" << endl;
-    cout << "@ 4. Write to file                       @" << endl;
-    cout << "@ 5+. Exit                               @" << endl;
-    cout << "@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@" << endl;
-    cout << "Option: ";
+    cout << "Select an option:" << endl;
+    cout << "1. Add a user" << endl;
+    cout << "2. Add friend connection" << endl;
+    cout << "3. Delete friend connection" << endl;
+    cout << "4. Write to file" << endl;
+    cout << "Enter any other input to exit." << endl;
 }
 
 int main(int argc, char* argv[]) {
@@ -24,6 +21,7 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
+    // initialize and read file for network
     Network net;
     net.readUsers(argv[1]);
 
@@ -35,11 +33,12 @@ int main(int argc, char* argv[]) {
         if (option == 1) {
             string first, last;
             int year, zip;
+            cout << "Enter user information in the order of first, last, year, and zip." << endl;
             cin >> first >> last >> year >> zip;
             
             string fullName = first + " " + last;
             
-            // empty friends to add into constructor
+            // empty friends set to add into constructor
             std::set<int> friends;
             // assigns id based off number of users
             User* newUser = new User(net.numUsers(), fullName, year, zip, friends);
@@ -48,6 +47,7 @@ int main(int argc, char* argv[]) {
 
         } else if (option == 2) {
             string f1, l1, f2, l2;
+            cout << "Enter the two friends to create a connection in the order of first and last name of friend one and first and last name of friend two." << endl;
             cin >> f1 >> l1 >> f2 >> l2;
             
             int result = net.addConnection(f1 + " " + l1, f2 + " " + l2);
@@ -59,6 +59,7 @@ int main(int argc, char* argv[]) {
 
         } else if (option == 3) {
             string f1, l1, f2, l2;
+            cout << "Enter the two friends to delete the connection in the order of first and last name of friend one and first and last name of friend two." << endl;
             cin >> f1 >> l1 >> f2 >> l2;
             
             int result = net.deleteConnection(f1 + " " + l1, f2 + " " + l2);
@@ -69,7 +70,7 @@ int main(int argc, char* argv[]) {
             }
 
         } else if (option == 4) {
-            // todo prompt user to input file name instead of just blank
+            cout << "Enter name of file to write." << endl;
             string outFileName;
             cin >> outFileName;
             net.writeUsers(outFileName.c_str());

@@ -1,0 +1,23 @@
+1. In the Network class, we stored the users as a vector of User pointers, rather than a
+vector of Users. Explain one main advantage of this.
+    - Any mutations to the user object will be reflected in subsequent access, rather than us having to manually fish out the user object and modify it each time. Also saves memory space
+2. In the User class, the getFriends returns a reference to the set of friends. Explain the
+main advantage the returning a reference has over returning the set without reference.
+    - Prevents another function from directly modifying the friends set outside of going through the official add and delete friends function
+3. Explain one main advantage of storing the friends as a set, rather than a vector, in the
+User class.
+    - Set does not allow multiple values of the same type, so adding repeats will be automatically skipped whereas vector will require a search that increases runtime
+4. You might have tried implementing readUsers by pushing pointers to Users allocated
+on the stack, rather than pointers to Users on the heap, such as below. Explain why
+this will not work.
+    - Stack allocation will cause the user object to be garbaged once the loop iterates, leading to further access of the user to be pointed towards the garbage heap. Using the 'new' keyword ensures the object is allocated to the heap and will not be deleted until the program ends.
+5. Using big-O notation, in terms of the number of vertices n and/or the number of edges
+m, describe the runtime of the following methods: User::addFriend, Network::addConnection,
+Network::deleteConnection, Network::numUsers.
+    - User::addFriend(int id) === O(log(n))
+    - Network::addConnection(string s1, string s2) === O(n)
+    - Network::deleteConnection(string s1, string s2) === O(n)
+    - Network::numUsers === O(1)
+6. In hours, (approximately) how much time did you spend on this assignment? (there
+are no wrong answers, obviously)
+    - 4-5 Hours
