@@ -120,3 +120,28 @@ void Network::writeUsers(const char* fname) {
     }
     ofs.close();
 }
+
+std::vector<int> Network::shortestPath(int from, int to)
+{
+    std::queue<int> q;
+    std::vector<bool> visited(users_.size(), false);
+    std::vector<int> prev(users_.size(), -1);
+
+    visited[from] = true;
+    q.push(from);
+
+    while (q.size() > 0)
+    {
+        int cur = q.front();
+        q.pop();
+        for (auto neighbor : users_[cur]->getFriends())
+        {
+            if (!visited[neighbor])
+            {
+                prev[neighbor] = cur; 
+                visited[neighbor] = true;
+                q.push(neighbor);
+            }
+        }
+    }
+}

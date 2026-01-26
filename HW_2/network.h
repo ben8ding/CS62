@@ -33,6 +33,11 @@ public:
     void readUsers(const char* fname);
     void writeUsers(const char* fname);
 
+    //pre:
+    //post:
+    std::vector<int> Network::shortestPath(int from, int to);
+
+
 
 private:
     // stored users

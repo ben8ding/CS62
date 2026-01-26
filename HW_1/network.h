@@ -35,10 +35,7 @@ public:
     //post: a file with the given name is created with all users formatted in the file
     void writeUsers(const char* fname);
 
-    //pre:
-    //post:
-    std::vector<int> Network::shortestPath(int from, int to);
-
+    
 
 private:
     // stored users

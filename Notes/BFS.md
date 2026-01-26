@@ -1,4 +1,4 @@
-**BFS Notes**
+# BFS Notes
 
 * Breadth First Search
 * DFS = Depth First Search
