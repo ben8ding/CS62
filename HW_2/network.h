@@ -28,16 +28,10 @@ public:
     int getId(std::string name);
     int numUsers();
 
-    //pre: the filename of the text file with the users to be imported
-    //post: a network object is created and every user in the file is imported
-    void readUsers(const char* fname);
-    //pre: the name of the file to output and the network object
-    //post: a file with the given name is created with all users formatted in the file
-    void writeUsers(const char* fname);
-
     //pre:
     //post:
-    std::vector<int> Network::shortestPath(int from, int to);
+    void readUsers(const char* fname);
+    void writeUsers(const char* fname);
 
 
 private:
