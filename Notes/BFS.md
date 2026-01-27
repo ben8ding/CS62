@@ -22,7 +22,6 @@ void Graph::BFS(int source)
     while (q.size() > 0) //O(n+m)
     {
         int cur = q.front();
-        cout << cur << endl;
         q.pop();
         for (int neighbor : adjLists_[cur])
         {
@@ -48,10 +47,7 @@ vector<int> shortestPath(int from, int to) {
     visited[from] = true;
     q.push(from);
 
-    for (int i = 0; i < n(); i ++) {
-      cout << prev[i] << " ";
-    }
-    cout << endl;
+    
 
     while (q.size() > 0) {
       int cur = q.front();
@@ -64,10 +60,7 @@ vector<int> shortestPath(int from, int to) {
         }
       }
 
-      for (int i = 0; i < n(); i ++) {
-        cout << prev[i] << " ";
-      }
-      cout << endl;
+      
     }
     vector<int> output;
     int cur = to;

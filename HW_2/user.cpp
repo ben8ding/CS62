@@ -58,3 +58,12 @@ std::set<int> &User::getFriends()
     return friends_;
 }
 
+bool User::isFriend(int user)
+{
+    for(int friendos : friends_){
+        if(friendos == user)
+            return true;
+    }
+    return false;
+}
+

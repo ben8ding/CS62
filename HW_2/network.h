@@ -28,20 +28,34 @@ public:
     int getId(std::string name);
     int numUsers();
 
-    //pre:
-    //post:
+    //pre: the filename of the text file with the users to be imported
+    //post: a network object is created and every user in the file is imported
     void readUsers(const char* fname);
+    //pre: the name of the file to output and the network object
+    //post: a file with the given name is created with all users formatted in the file
     void writeUsers(const char* fname);
 
     //pre:
     //post:
     std::vector<int> Network::shortestPath(int from, int to);
 
+    //pre:
+    //post:
+    std::vector<int> Network::distanceUser(int from, int& to, int distance);
 
+    //pre:
+    //post:
+    std::vector<int> Network::suggestFriends(int who, int& score);
+
+    //pre:
+    //post:
+    std::vector<std::vector<int> > Network::groups();
 
 private:
     // stored users
     std::vector<User*> users_;
+
+    void Network::groupsHelper(int curr, std::vector<bool>& visited, std::vector<int>& component);
 };
 
 #endif

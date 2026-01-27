@@ -29,6 +29,10 @@ public:
     //pre: the id of the friend to be removed
     //post: if the friend in friends_ has a matching id, it is removed from the set
     void deleteFriend(int id);
+    
+    //pre:
+    //post:
+    bool isFriend(int);
 
 private:
     // user fields
