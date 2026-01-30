@@ -2,6 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <algorithm>
+#include <iostream>
 
 // default constructor
 Network::Network() {}
@@ -185,13 +186,14 @@ std::vector<int> Network::shortestPath(int from, int to)
     return output;
 }
 
-std::vector<int> Network::distanceUser(int from, int& to, int distance){
-    if (distance == 0) {
+std::vector<int> Network::distanceUser(int from, int &to, int distance)
+{
+    if (distance == 0)
+    {
         to = from;
         return {from};
     }
 
-   
     std::vector<int> prev(users_.size(), -1);
     std::vector<int> dist(users_.size(), -1); // distance vector for each node to check, also allows us to replace visited since we assign a distance to each visited node
     std::queue<int> q;
@@ -204,12 +206,12 @@ std::vector<int> Network::distanceUser(int from, int& to, int distance){
         int cur = q.front();
         q.pop();
 
-        //process first node we find that is at the target distance
+        // process first node we find that is at the target distance
         if (dist[cur] == distance)
         {
             to = cur;
             std::vector<int> output;
-            int temp = to;
+            int temp = cur; // not reusing to for loop because we want to keep to reference clean
             while (temp != -1)
             {
                 output.push_back(temp);
@@ -223,59 +225,73 @@ std::vector<int> Network::distanceUser(int from, int& to, int distance){
         {
             if (dist[neighbor] == -1)
             {
-                //assigning distance to all found nodes
-                dist[cur] = dist[neighbor]++;
+                // assigning distance to all found nodes
+                dist[neighbor] = dist[cur] + 1;
                 prev[neighbor] = cur;
                 q.push(neighbor);
             }
         }
-
-
     }
     // return if not found
     to = -1;
     return {};
 }
 
-std::vector<int> Network::suggestFriends(int who, int& score){
-    //find list of friends of friends
+std::vector<int> Network::suggestFriends(int who, int &score)
+{
+    // find list of friends of friends
     std::vector<int> suggestions;
-    for(auto fri1 : users_[who]->getFriends()){
-        for(auto fof : users_[fri1]->getFriends()){
-            if(!users_[who]->isFriend(fof)){
+    for (auto fri1 : users_[who]->getFriends())
+    {
+        for (auto fof : users_[fri1]->getFriends())
+        {
+            if (!users_[who]->isFriend(fof) && who != fof)
+            {
                 suggestions.push_back(fof);
             }
         }
     }
 
-    //initialize scores vector to create a score for each friend of friend found
+    if(suggestions.size() == 0){
+        score = -1;
+        return {};
+    }
+
+    // initialize scores vector to create a score for each friend of friend found
     std::vector<int> scores(suggestions.size(), 0);
-    for(auto sug : suggestions){
-        for(auto fri2 : users_[who]->getFriends()){
-            if(users_[fri2]->isFriend(sug)){
-                scores[sug]++;
+    for (int i = 0; i < suggestions.size(); i++)
+    {
+        for (auto fri2 : users_[who]->getFriends())
+        {
+            if (users_[fri2]->isFriend(suggestions[i]))
+            {
+                scores[i]++;
             }
         }
     }
 
-    //find max score and process
+    // find max score and process
     score = *std::max_element(scores.begin(), scores.end());
     std::vector<int> results;
-    for(int s = 0; s < scores.size(); s++){
-        if(scores[s] == score)
+    for (int s = 0; s < scores.size(); s++)
+    {
+        if (scores[s] == score)
             results.push_back(suggestions[s]);
     }
-
+    return suggestions;
 }
 
-std::vector<std::vector<int>> Network::groups() {
+std::vector<std::vector<int>> Network::groups()
+{
     std::vector<std::vector<int>> allComponents;
     std::vector<bool> visited(users_.size(), false);
 
-    for (int i = 0; i < (int)users_.size(); ++i) {
-        if (!visited[i]) {
+    for (int i = 0; i < (int)users_.size(); ++i)
+    {
+        if (!visited[i])
+        {
             std::vector<int> component;
- 
+
             groupsHelper(i, visited, component);
             allComponents.push_back(component);
         }
@@ -283,14 +299,17 @@ std::vector<std::vector<int>> Network::groups() {
     return allComponents;
 }
 
-void Network::groupsHelper(int curr, std::vector<bool>& visited, std::vector<int>& component) {
+void Network::groupsHelper(int curr, std::vector<bool> &visited, std::vector<int> &component)
+{
     visited[curr] = true;
     component.push_back(curr);
 
-    const std::set<int>& friends = users_[curr]->getFriends();
-    for (int neighbor : friends) {
-        if (!visited[neighbor]) {
+    const std::set<int> &friends = users_[curr]->getFriends();
+    for (int neighbor : friends)
+    {
+        if (!visited[neighbor])
+        {
             groupsHelper(neighbor, visited, component);
+        }
     }
-}
 }

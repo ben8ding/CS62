@@ -37,25 +37,25 @@ public:
 
     //pre:
     //post:
-    std::vector<int> Network::shortestPath(int from, int to);
+    std::vector<int> shortestPath(int from, int to);
 
     //pre:
     //post:
-    std::vector<int> Network::distanceUser(int from, int& to, int distance);
+    std::vector<int> distanceUser(int from, int& to, int distance);
 
     //pre:
     //post:
-    std::vector<int> Network::suggestFriends(int who, int& score);
+    std::vector<int> suggestFriends(int who, int& score);
 
     //pre:
     //post:
-    std::vector<std::vector<int> > Network::groups();
+    std::vector<std::vector<int> > groups();
 
 private:
     // stored users
     std::vector<User*> users_;
 
-    void Network::groupsHelper(int curr, std::vector<bool>& visited, std::vector<int>& component);
+    void groupsHelper(int curr, std::vector<bool>& visited, std::vector<int>& component);
 };
 
 #endif
