@@ -237,6 +237,7 @@ std::vector<int> Network::distanceUser(int from, int &to, int distance)
     return {};
 }
 
+
 std::vector<int> Network::suggestFriends(int who, int &score)
 {
     // find list of friends of friends
@@ -245,7 +246,13 @@ std::vector<int> Network::suggestFriends(int who, int &score)
     {
         for (auto fof : users_[fri1]->getFriends())
         {
-            if (!users_[who]->isFriend(fof) && who != fof)
+            bool isDupe = false;
+            for(int dupeCheck : suggestions){
+                if(dupeCheck == fof)
+                    isDupe = true;
+            }
+
+            if (!users_[who]->isFriend(fof) && who != fof && !isDupe)
             {
                 suggestions.push_back(fof);
             }
