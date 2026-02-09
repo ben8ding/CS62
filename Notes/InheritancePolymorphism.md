@@ -111,3 +111,9 @@ int main(){
   }
 }
   ```
+
+  * Child class does not have to inherit all virtual functions in parent class
+  * Pure virtual method
+  * Class becomes abstract class, cannot be instantiated and can only be implemented through child classes
+  * Opposite of abstract class: concrete
+  * Child class can inherit from multiple parents

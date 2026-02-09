@@ -1,0 +1,48 @@
+#ifndef POST_H
+#define POST_H
+
+#include <string>
+
+class Post{
+    public:
+
+        // constructors
+        Post();
+        Post(int profileId, int authorId, std::string message, int likes);
+
+        // getters and setters
+        int getMessageId();
+        void setMessageId(int id);
+        int getProfileId();
+        int getAuthorId();
+        std::string getMessage();
+        int getLikes();
+        
+        // virtual methods
+        virtual std::string getURL();
+        virtual std::string toString();
+
+    private:
+
+        //fields
+        int messageId_;
+        int profileId_;
+        int authorId_;
+        std::string message_;
+        int likes_;
+
+};
+
+class LinkPost : public Post{
+    public:
+        LinkPost();
+        LinkPost(int profileId, int authorId, std::string message, int likes, std::string url);
+
+        std::string getURL();
+        std::string toString();
+
+    private:
+        std::string url_;
+
+};
+#endif
