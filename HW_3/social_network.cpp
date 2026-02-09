@@ -3,6 +3,7 @@
 #include <vector>
 #include "network.h"
 #include "user.h"
+#include "post.h"
 
 using namespace std;
 
@@ -12,18 +13,21 @@ void printMenu() {
     cout << "2. Add friend connection" << endl;
     cout << "3. Delete friend connection" << endl;
     cout << "4. Write to file" << endl;
+    cout << "5. Print the last x posts of given user" << endl;
     cout << "Enter any other input to exit." << endl;
 }
 
 int main(int argc, char* argv[]) {
-    if (argc < 2) {
-        cerr << "Usage: " << argv[0] << " [user_file.txt]" << endl;
+    if (argc < 3) {
+        cerr << "Usage: " << argv[0] << " [user_file.txt] [posts_file.txt]" << endl;
         return 1;
     }
 
     // initialize and read file for network
     Network net;
     net.readUsers(argv[1]);
+    net.readPosts(argv[2]);
+    //todo: possibly catch if readPosts actually works and change main to function differently if true or not
 
     int option;
     while (true) {
@@ -75,7 +79,17 @@ int main(int argc, char* argv[]) {
             cin >> outFileName;
             net.writeUsers(outFileName.c_str());
             cout << "Successfully wrote " << net.numUsers() << " users to " << outFileName << endl;
+        } else if (option == 5) {
+            string first, last;
+            int howMany;
+            cin >> first >> last >> howMany;
 
+            int id= net.getId(first + " " + last);
+            if(id == -1)
+                cout << "User not found." << endl;
+            else{
+                cout << net.getPostsString(id, howMany);
+            }
         } else {
             // catchall stuff
             cout << "Exiting program..." << endl;

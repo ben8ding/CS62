@@ -1,0 +1,4 @@
+1. So we can point to both normal posts and linkposts
+2. Child classes cannot access private fields of parent classes
+3. Virtual, in the parent class function declaration
+4. 6

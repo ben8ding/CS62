@@ -80,6 +80,8 @@ private:
     // stored users
     std::vector<User*> users_;
     std::vector<std::vector<Post*>> posts_;
+    // int to keep track of message count for ID purposes
+    int globalMessageId;
 
     void groupsHelper(int curr, std::vector<bool>& visited, std::vector<int>& component);
 };

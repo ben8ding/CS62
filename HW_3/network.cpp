@@ -4,8 +4,14 @@
 #include <algorithm>
 #include <iostream>
 
+bool compareMessageId(Post* a, Post* b){
+    return a->getMessageId() < b->getMessageId();
+}
+
 // default constructor
-Network::Network() {}
+Network::Network() {
+    globalMessageId = 0;
+}
 
 // adds user
 void Network::addUser(User *u)
@@ -327,7 +333,8 @@ void Network::groupsHelper(int curr, std::vector<bool> &visited, std::vector<int
 
 void Network::addPost(Post *post)
 {
-    post->setMessageId(posts_[post->getProfileId()].size());
+    post->setMessageId(globalMessageId);
+    globalMessageId++;
     posts_[post->getProfileId()].push_back(post);
 }
 
@@ -400,6 +407,8 @@ int Network::readPosts(char *fname)
         }
         else
         {
+            //remove tab from reading
+            url.erase(std::remove(url.begin(), url.end(), '\t'), url.end());
             newPost = new LinkPost(pId, aId, message, likes, url);
         }
 
@@ -424,20 +433,29 @@ int Network::writePosts(char* fname)
 
     ofs << totalPosts << std::endl;
 
+    // move all posts into a single vector to sort
+    std::vector<Post*> sortVector;
     for(int i = 0; i < posts_.size(); i++) {
         for(Post* p : posts_[i]){
-            ofs << p->getMessageId() << std::endl;
-            ofs << "\t" << p->getMessage() << std::endl;
-            ofs << p->getProfileId() << " " << p->getAuthorId() << " " << p->getLikes() << std::endl;
-            std::string url = p->getURL();
-            if (url.empty()) {
-                ofs << std::endl;
-            } else {
-                ofs << "\t" << url << std::endl;
-            }
+            sortVector.push_back(p);
         }
     }
+    std::sort(sortVector.begin(), sortVector.end(), compareMessageId);
+
+    for(Post* p : sortVector){
+        ofs << p->getMessageId() << std::endl;
+        ofs << "\t" << p->getMessage() << std::endl;
+        ofs << "\t" << p->getProfileId() << "\n\t" << p->getAuthorId() << "\n\t" << p->getLikes() << std::endl;
+        std::string url = p->getURL();
+        if (url.empty()) {
+        ofs << std::endl;
+        } else {
+            ofs << "\t" << url << std::endl;
+        }
+    }
+        
 
     ofs.close();
     return 0;
 }
+

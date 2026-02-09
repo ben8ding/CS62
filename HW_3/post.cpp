@@ -3,8 +3,8 @@
 Post::Post()
 {
     messageId_ = -1;
-    profileId_ = -1;
-    authorId_ = -1;
+    profileId_ = 0;
+    authorId_ = 0;
     message_ = "";
     likes_ = 0;
 }
