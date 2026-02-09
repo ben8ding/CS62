@@ -4,6 +4,7 @@
 #include <algorithm>
 #include <iostream>
 
+//global helper function for sorting
 bool compareMessageId(Post* a, Post* b){
     return a->getMessageId() < b->getMessageId();
 }
