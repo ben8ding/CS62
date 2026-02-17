@@ -3,6 +3,7 @@
 #include <sstream>
 #include <algorithm>
 #include <iostream>
+#include <QDebug>
 
 //global helper function for sorting
 bool compareMessageId(Post* a, Post* b){
@@ -89,6 +90,7 @@ void Network::readUsers(const char *fname)
     int numUsers;
     if (!(ifs >> numUsers))
         return;
+
 
     for (int i = 0; i < numUsers; ++i)
     {

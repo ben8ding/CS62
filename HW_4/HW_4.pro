@@ -13,7 +13,6 @@ SOURCES += \
     mainwindow.cpp \
     network.cpp \
     post.cpp \
-    social_network.cpp \
     user.cpp
 
 HEADERS += \
@@ -29,3 +28,8 @@ FORMS += \
 qnx: target.path = /tmp/$${TARGET}/bin
 else: unix:!android: target.path = /opt/$${TARGET}/bin
 !isEmpty(target.path): INSTALLS += target
+
+DISTFILES += \
+    cycle5.txt \
+    posts.txt \
+    users.txt
