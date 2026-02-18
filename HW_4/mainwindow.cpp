@@ -12,17 +12,19 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     //setup network
-    network_.readUsers("users.txt");
-    network_.readPosts("posts.txt");
+    network_.readUsers("cycle5.txt");
+    //network_.readPosts("posts.txt");
 
     loggedInUser_ = nullptr;
     currentUser_ = nullptr;
 
     ui->profileFriendList->setColumnCount(1);
-    ui->profileFriendList->setRowCount(6);
+    //dynamic resize friendlist to name length
+    ui->profileFriendList->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
+    ui->profileFriendSuggest->horizontalHeader()->setSectionResizeMode(QHeaderView::Stretch);
 
-    QTableWidgetItem *tempHeader = new QTableWidgetItem("Friend list:");
-    ui->profileFriendList->setItem(0, 0, tempHeader);
+    ui->profileFriendSuggest->setColumnCount(1);
+
 
     toggleProfile(0);
 
@@ -73,18 +75,32 @@ void MainWindow::toggleLogin(int tog){
 
 void MainWindow::toggleProfile(int tog){
     ui->profileTitle->setVisible(tog);
+    ui->profileFriendListLabel->setVisible(tog);
     ui->profileFriendList->setVisible(tog);
+    ui->profileFriendSuggest->setVisible(tog);
+    ui->profileFriendSuggestLabel->setVisible(tog);
 }
 
 void MainWindow::updateCurrentProfile(){
-    int numFriends = currentUser_->getFriends().size() + 1;
+    //friendlist updater
+    int numFriends = currentUser_->getFriends().size();
     ui->profileFriendList->setRowCount(numFriends);
-    int iterator = 1;
+    int iterator = 0;
     for(int friends : currentUser_->getFriends()){
         QTableWidgetItem *tempFriend = new QTableWidgetItem(QString::fromStdString(network_.getUser(friends)->getName()));
         ui->profileFriendList->setItem(iterator, 0, tempFriend);
         iterator++;
     }
+    //friend suggestions updater
+    int score;
+    std::vector<int> friendSuggestions = network_.suggestFriends(currentUser_->getId(), score);
+    ui->profileFriendSuggest->setRowCount(friendSuggestions.size());
+
+    for(int i = 0; i < friendSuggestions.size(); i++){
+        QTableWidgetItem *tempFriend = new QTableWidgetItem(QString::fromStdString(network_.getUser(friendSuggestions[i])->getName()));
+        ui->profileFriendSuggest->setItem(i, 0, tempFriend);
+    }
+
 }
 
 MainWindow::~MainWindow()
