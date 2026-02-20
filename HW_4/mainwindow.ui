@@ -92,9 +92,9 @@
    <widget class="QLabel" name="profileTitle">
     <property name="geometry">
      <rect>
-      <x>380</x>
+      <x>290</x>
       <y>60</y>
-      <width>61</width>
+      <width>251</width>
       <height>16</height>
      </rect>
     </property>
@@ -146,6 +146,81 @@
       <width>131</width>
       <height>191</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="profileReturnButton">
+    <property name="geometry">
+     <rect>
+      <x>659</x>
+      <y>0</y>
+      <width>121</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Return to Profile</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="profilePosts">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>100</y>
+      <width>381</width>
+      <height>301</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Posts go here</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="profilePostsLabel">
+    <property name="geometry">
+     <rect>
+      <x>230</x>
+      <y>80</y>
+      <width>91</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Profile Posts:</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="profileAddFriendButton">
+    <property name="geometry">
+     <rect>
+      <x>670</x>
+      <y>50</y>
+      <width>100</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add Friend</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="profilePostEdit">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>420</y>
+      <width>401</width>
+      <height>41</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="profileAddPostButton">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>470</y>
+      <width>100</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Add Post</string>
     </property>
    </widget>
   </widget>
