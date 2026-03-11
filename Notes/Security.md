@@ -32,4 +32,4 @@ EX
 * n = 7957
 * e = 11
 * p = 73, q = 109
-* Private key/d = 707 : (d * 11 - 1) is divisible by (72 * 108)
+* Private key (d) = 707 : (d * 11 - 1) is divisible by (72 * 108)

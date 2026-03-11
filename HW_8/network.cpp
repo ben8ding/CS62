@@ -5,26 +5,24 @@
 #include <iostream>
 #include <QDebug>
 
-//global helper function for sorting
+//Global helper function for sorting
 bool compareMessageId(Post* a, Post* b){
     return a->getMessageId() < b->getMessageId();
 }
 
-// default constructor
+//Default constructor
 Network::Network() {
     globalMessageId = 0;
 }
 
-// adds user
 void Network::addUser(User *u)
 {
     users_.push_back(u);
-    // allocate posts_ vector to have a vector of posts for every user
+    //Allocate posts_ vector to have a vector of posts for every user
     std::vector<Post *> temp;
     posts_.push_back(temp);
 }
 
-// gets user in users_ with id id
 User *Network::getUser(int id)
 {
     if (id < 0 || id >= (int)users_.size())
@@ -34,7 +32,6 @@ User *Network::getUser(int id)
     return users_[id];
 }
 
-// searches users_ for user with same name as name, and returns an id if found.
 int Network::getId(std::string name)
 {
     for (size_t i = 0; i < users_.size(); ++i)
@@ -47,7 +44,6 @@ int Network::getId(std::string name)
     return -1;
 }
 
-// adds a connection between two users if their ids are found
 int Network::addConnection(std::string s1, std::string s2)
 {
     int id1 = getId(s1);
@@ -61,7 +57,6 @@ int Network::addConnection(std::string s1, std::string s2)
     return 0;
 }
 
-// removes a connection between two users if their ids are found
 int Network::deleteConnection(std::string s1, std::string s2)
 {
     int id1 = getId(s1);
@@ -75,13 +70,12 @@ int Network::deleteConnection(std::string s1, std::string s2)
     return 0;
 }
 
-// returns size of users_
 int Network::numUsers()
 {
     return users_.size();
 }
 
-
+//Global helper function to remove leading tabs
 void trimLeadingWhitespace(std::string &s) {
     size_t first = s.find_first_not_of(" \t\r\n");
     if (first != std::string::npos) {
@@ -109,19 +103,19 @@ void Network::readUsers(const char *fname)
         ifs >> id;
         ifs.ignore();
 
-        // read name
+        //Read name
         std::getline(ifs, name);
         trimLeadingWhitespace(name);
 
-        // read year and then zip
+        //Read year and then zip
         ifs >> year >> zip;
         ifs.ignore(); // use newline to prepare to read friend ids
 
-        // read the entire line of friend ids for stringstream
+        //Read the entire line of friend ids for stringstream
         std::getline(ifs, line);
         std::stringstream ss(line);
 
-        // keeps reading vals until the end of the stream
+        //Keeps reading vals until the end of the stream
         int friendId;
         while (ss >> friendId)
         {
@@ -155,7 +149,7 @@ void Network::writeUsers(const char *fname)
         ofs << "\t" << u->getZip() << std::endl;
 
         ofs << "\t";
-        // iterate through the set of friends
+        //Iterate through the set of friends
         const std::set<int> &friends = u->getFriends();
         for (auto it = friends.begin(); it != friends.end(); ++it)
         {
@@ -196,7 +190,7 @@ std::vector<int> Network::shortestPath(int from, int to)
 
     if (!visited[to])
     {
-        return {}; // Return an empty vector if no path exists
+        return {}; //Return an empty vector if no path exists
     }
 
     std::vector<int> output;
@@ -220,7 +214,7 @@ std::vector<int> Network::distanceUser(int from, int &to, int distance)
     }
 
     std::vector<int> prev(users_.size(), -1);
-    std::vector<int> dist(users_.size(), -1); // distance vector for each node to check, also allows us to replace visited since we assign a distance to each visited node
+    std::vector<int> dist(users_.size(), -1); //Distance vector for each node to check, also allows us to replace visited since we assign a distance to each visited node
     std::queue<int> q;
 
     dist[from] = 0;
@@ -231,12 +225,12 @@ std::vector<int> Network::distanceUser(int from, int &to, int distance)
         int cur = q.front();
         q.pop();
 
-        // process first node we find that is at the target distance
+        //Process first node we find that is at the target distance
         if (dist[cur] == distance)
         {
             to = cur;
             std::vector<int> output;
-            int temp = cur; // not reusing to for loop because we want to keep to reference clean
+            int temp = cur; //Not reusing to for loop because we want to keep to reference clean
             while (temp != -1)
             {
                 output.push_back(temp);
@@ -250,21 +244,21 @@ std::vector<int> Network::distanceUser(int from, int &to, int distance)
         {
             if (dist[neighbor] == -1)
             {
-                // assigning distance to all found nodes
+                //Assigning distance to all found nodes
                 dist[neighbor] = dist[cur] + 1;
                 prev[neighbor] = cur;
                 q.push(neighbor);
             }
         }
     }
-    // return if not found
+    //Return if not found
     to = -1;
     return {};
 }
 
 std::vector<int> Network::suggestFriends(int who, int &score)
 {
-    // find list of friends of friends
+    //Find list of friends of friends
     std::vector<int> suggestions;
     for (auto fri1 : users_[who]->getFriends())
     {
@@ -290,7 +284,7 @@ std::vector<int> Network::suggestFriends(int who, int &score)
         return {};
     }
 
-    // initialize scores vector to create a score for each friend of friend found
+    //Initialize scores vector to create a score for each friend of friend found
     std::vector<int> scores(suggestions.size(), 0);
     for (int i = 0; i < suggestions.size(); i++)
     {
@@ -303,7 +297,7 @@ std::vector<int> Network::suggestFriends(int who, int &score)
         }
     }
 
-    // find max score and process
+    //Find max score and process
     score = *std::max_element(scores.begin(), scores.end());
     std::vector<int> results;
     for (int s = 0; s < scores.size(); s++)
@@ -312,7 +306,7 @@ std::vector<int> Network::suggestFriends(int who, int &score)
             results.push_back(suggestions[s]);
     }
     return suggestions;
-}
+
 
 std::vector<std::vector<int>> Network::groups()
 {
@@ -350,6 +344,7 @@ void Network::groupsHelper(int curr, std::vector<bool> &visited, std::vector<int
 void Network::addPost(Post *post)
 {
     post->setMessageId(globalMessageId);
+    //Message ID's dynamically
     globalMessageId++;
     posts_[post->getProfileId()].push_back(post);
 }
@@ -362,6 +357,18 @@ std::vector<Post *> Network::getPosts(int id)
     }
     return posts_[id];
 }
+
+Post* Network::getPost(int messageId) {
+    for (const std::vector<Post*>& userPosts : posts_) {
+        for (Post* p : userPosts) {
+            if (p->getMessageId() == messageId) {
+                return p;
+            }
+        }
+    }
+    return nullptr;
+}
+
 
 std::string Network::postDisplayString(Post* post) {
     return users_[post->getAuthorId()]->getName() + " wrote: " + post->toString() + " [ID: " + std::to_string(post->getMessageId()) + "]";
@@ -490,14 +497,4 @@ int Network::writePosts(char* fname)
     return 0;
 }
 
-Post* Network::getPost(int messageId) {
-    for (const std::vector<Post*>& userPosts : posts_) {
-        for (Post* p : userPosts) {
-            if (p->getMessageId() == messageId) {
-                return p;
-            }
-        }
-    }
-    return nullptr;
-}
 

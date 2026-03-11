@@ -44,36 +44,34 @@ public:
     //Post: Returns a vector with the path to the found user. The variable passed by reference is set to the ID of the found user.
     std::vector<int> distanceUser(int from, int& to, int distance);
 
-    //Pre:
-    //Post:
+    //Pre: The target user for who to suggest friends, and a score variable reference to pass and return later
+    //Post: A full list of friends of friends to suggest, along with the highest score
     std::vector<int> suggestFriends(int who, int& score);
 
-    //Pre:
-    //Post:
     std::vector<std::vector<int> > groups();
 
-    //Pre:
-    //Post:
+    //Pre: A post object
+    //Post: The post object is added to the network set of posts, and a message ID is generated for the newest post.
     void addPost(Post* post);
 
-    //Pre:
-    //Post:
+    //Pre: The profile user ID
+    //Post: A vector of posts pertaining to the profile user id.
     std::vector<Post*> getPosts(int id);
 
-    //Pre:
-    //Post:
+    //Pre: The post pointer to be converted
+    //Post: A string output with all of the post's data.
     std::string postDisplayString(Post* post);
 
-    //Pre:
-    //Post:
+    //Pre: The profile ID of the user and the amount of posts to return.
+    //Post: A string formatted to show the x most recent posts of the provided user with x being the howMany.
     std::string getPostsString(int profileId, int howMany);
 
-    //Pre:
-    //Post:
+    //Pre: An existing network of posts.
+    //Post: A .txt file is written and formatted with every post in the network
     int readPosts(char* fname);
 
-    //Pre:
-    //Post:
+    //Pre: a .txt of formatted posts
+    //Post: This network's posts are populated with the posts in the .txt
     int writePosts(char* fname);
 
     //Pre: The message ID of the post

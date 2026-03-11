@@ -7,26 +7,27 @@
 class Post{
     public:
 
-        // constructors
+        //Constructors
         Post();
         Post(int profileId, int authorId, std::string message, std::vector<int> likes);
 
-        // getters and setters
+        //Getters and setters
         int getMessageId();
         void setMessageId(int id);
         int getProfileId();
         int getAuthorId();
         std::string getMessage();
         std::vector<int> getLikes();
+        //Adds the userId to the likes of the post
         void addLike(int userId);
         
-        // virtual methods
+        //Virtual methods
         virtual std::string getURL();
         virtual std::string toString();
 
     private:
 
-        //fields
+        //Fields
         int messageId_;
         int profileId_;
         int authorId_;

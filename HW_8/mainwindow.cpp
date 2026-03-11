@@ -32,8 +32,8 @@ MainWindow::MainWindow(QWidget *parent)
     ui->profileBio->setAlignment(Qt::AlignTop);
     ui->profileBio->setWordWrap(true);
 
-
-    toggleProfile(0);
+    //Make sure logged in elements are set to invisible first
+    toggleProfile(false);
 
     connect(ui->loginButton,
         &QPushButton::clicked,
@@ -69,6 +69,7 @@ MainWindow::MainWindow(QWidget *parent)
             &QPushButton::clicked,
             this,
             &MainWindow::editBio);
+    //Allows quick adding of like to post.
     connect(ui->profileLikePostButton,
             &QPushButton::clicked,
             this,
@@ -77,12 +78,13 @@ MainWindow::MainWindow(QWidget *parent)
 
 void MainWindow::loginUser(){
     std::string name = ui->loginBox->toPlainText().toStdString();
+    //Check if name is valid, then logs the user in.
     if(network_.getId(name) != -1){
         loggedInUser_ = network_.getUser(network_.getId(name));
         currentUser_ = network_.getUser(network_.getId(name));
-        toggleLogin(0);
+        toggleLogin(false);
         updateCurrentProfile();
-        toggleProfile(1);
+        toggleProfile(true);
     }
     else{
         ui->loginLabel->setText("Invalid Name.");
@@ -144,7 +146,7 @@ void MainWindow::toggleProfile(int tog){
 }
 
 void MainWindow::updateCurrentProfile(){
-    //friendlist updater
+    //Friendlist updater
     int numFriends = currentUser_->getFriends().size();
     ui->profileFriendList->setRowCount(numFriends);
     int iterator = 0;
@@ -154,6 +156,7 @@ void MainWindow::updateCurrentProfile(){
         iterator++;
     }
 
+    //Bio updater
     std::string currentBio = currentUser_->getBio();
     if(currentBio.empty()){
         currentBio = currentUser_->getName() + " hasn't set a bio yet.";
@@ -173,12 +176,11 @@ void MainWindow::updateCurrentProfile(){
             QTableWidgetItem *tempFriend = new QTableWidgetItem(QString::fromStdString(network_.getUser(friendSuggestions[i])->getName()));
             ui->profileFriendSuggest->setItem(i, 0, tempFriend);
         }
-        toggleProfile(true);
     }
     else{
         std::string title = currentUser_->getName() + "'s Profile";
-        toggleProfile(true);
     }
+    toggleProfile(true);
 
     //Debug panel stuff
     ui->debugLabel1->setText(QString::fromStdString(currentUser_->getName()));
@@ -199,10 +201,7 @@ void MainWindow::addFriend(){
 }
 
 void MainWindow::addPost(){
-    if(ui->profilePostEdit->toPlainText() == ""){
-
-    }
-    else {
+    if(ui->profilePostEdit->toPlainText() != ""){
     QString postText = ui->profilePostEdit->toPlainText();
     std::vector<int> likes;
     network_.addPost(new Post(currentUser_->getId(), loggedInUser_->getId(), postText.toStdString(), likes));
