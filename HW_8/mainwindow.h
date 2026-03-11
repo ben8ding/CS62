@@ -25,6 +25,8 @@ private slots:
     void returnToProfile();
     void addFriend();
     void addPost();
+    void editBio();
+    void likePost();
 
 private:
     Ui::MainWindow *ui;

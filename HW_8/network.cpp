@@ -81,6 +81,14 @@ int Network::numUsers()
     return users_.size();
 }
 
+
+void trimLeadingWhitespace(std::string &s) {
+    size_t first = s.find_first_not_of(" \t\r\n");
+    if (first != std::string::npos) {
+        s = s.substr(first);
+    }
+}
+
 void Network::readUsers(const char *fname)
 {
     std::ifstream ifs(fname);
@@ -99,12 +107,11 @@ void Network::readUsers(const char *fname)
         std::set<int> friends;
 
         ifs >> id;
-        ifs.ignore(); // use newline to move to next parameter
+        ifs.ignore();
 
         // read name
         std::getline(ifs, name);
-        if (!name.empty() && name[0] == '\t')
-            name = name.substr(1);
+        trimLeadingWhitespace(name);
 
         // read year and then zip
         ifs >> year >> zip;
@@ -121,11 +128,16 @@ void Network::readUsers(const char *fname)
             friends.insert(friendId);
         }
 
-        // adds new user to network
-        addUser(new User(id, name, year, zip, friends));
+        //Read bio from file
+        std::string bio;
+        std::getline(ifs, bio);
+        trimLeadingWhitespace(bio);
+
+        addUser(new User(id, name, year, zip, friends, bio));
     }
     ifs.close();
 }
+
 
 void Network::writeUsers(const char *fname)
 {
@@ -150,6 +162,7 @@ void Network::writeUsers(const char *fname)
             ofs << *it << (std::next(it) == friends.end() ? "" : " ");
         }
         ofs << std::endl;
+        ofs << "\t" << u->getBio() << std::endl;
     }
     ofs.close();
 }
@@ -350,9 +363,8 @@ std::vector<Post *> Network::getPosts(int id)
     return posts_[id];
 }
 
-std::string Network::postDisplayString(Post *post)
-{
-    return users_[post->getAuthorId()]->getName() + " wrote: " + post->toString();
+std::string Network::postDisplayString(Post* post) {
+    return users_[post->getAuthorId()]->getName() + " wrote: " + post->toString() + " [ID: " + std::to_string(post->getMessageId()) + "]";
 }
 
 std::string Network::getPostsString(int profileId, int howMany)
@@ -388,18 +400,28 @@ int Network::readPosts(char *fname)
 
     for (int i = 0; i < numPosts; ++i)
     {
-
-        int mId, pId, aId, likes;
+        int mId, pId, aId;
         std::string message, url, line;
 
         ifs >> mId;
         ifs.ignore();
 
         std::getline(ifs, message);
+        trimLeadingWhitespace(message);
 
-        ifs >> pId >> aId >> likes;
 
+        ifs >> pId >> aId;
         ifs.ignore();
+
+
+        std::getline(ifs, line);
+        std::stringstream ss(line);
+        std::vector<int> likes;
+        int likeId;
+        while (ss >> likeId)
+        {
+            likes.push_back(likeId);
+        }
 
         std::getline(ifs, url);
 
@@ -410,16 +432,15 @@ int Network::readPosts(char *fname)
         }
         else
         {
-            //remove tab from reading
-            url.erase(std::remove(url.begin(), url.end(), '\t'), url.end());
+            trimLeadingWhitespace(url);
             newPost = new LinkPost(pId, aId, message, likes, url);
         }
 
+        newPost->setMessageId(mId);
         addPost(newPost);
     }
 
     ifs.close();
-
     return 0;
 }
 
@@ -436,7 +457,6 @@ int Network::writePosts(char* fname)
 
     ofs << totalPosts << std::endl;
 
-    // move all posts into a single vector to sort
     std::vector<Post*> sortVector;
     for(int i = 0; i < posts_.size(); i++) {
         for(Post* p : posts_[i]){
@@ -448,17 +468,36 @@ int Network::writePosts(char* fname)
     for(Post* p : sortVector){
         ofs << p->getMessageId() << std::endl;
         ofs << "\t" << p->getMessage() << std::endl;
-        ofs << "\t" << p->getProfileId() << "\n\t" << p->getAuthorId() << "\n\t" << p->getLikes() << std::endl;
+        ofs << "\t" << p->getProfileId() << "\n\t" << p->getAuthorId() << std::endl;
+
+        ofs << "\t";
+        std::vector<int> likes = p->getLikes();
+        for (size_t j = 0; j < likes.size(); ++j)
+        {
+            ofs << likes[j] << (j == likes.size() - 1 ? "" : " ");
+        }
+        ofs << std::endl;
+
         std::string url = p->getURL();
         if (url.empty()) {
-        ofs << std::endl;
+            ofs << std::endl;
         } else {
             ofs << "\t" << url << std::endl;
         }
     }
-        
 
     ofs.close();
     return 0;
+}
+
+Post* Network::getPost(int messageId) {
+    for (const std::vector<Post*>& userPosts : posts_) {
+        for (Post* p : userPosts) {
+            if (p->getMessageId() == messageId) {
+                return p;
+            }
+        }
+    }
+    return nullptr;
 }
 

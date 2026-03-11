@@ -6,10 +6,10 @@ Post::Post()
     profileId_ = 0;
     authorId_ = 0;
     message_ = "";
-    likes_ = 0;
+    likes_ = std::vector<int>();
 }
 
-Post::Post(int profileId, int authorId, std::string message, int likes)
+Post::Post(int profileId, int authorId, std::string message, std::vector<int> likes)
 {
     messageId_ = -1;
     profileId_ = profileId;
@@ -38,7 +38,7 @@ std::string Post::getMessage()
 {
     return message_;
 }
-int Post::getLikes()
+std::vector<int> Post::getLikes()
 {
     return likes_;
 }
@@ -48,19 +48,24 @@ std::string Post::getURL()
     return "";
 }
 
-std::string Post::toString()
-{
-    return message_ + " (" + std::to_string(likes_) + " likes)";
+std::string Post::toString() {
+    return message_ + " (" + std::to_string(likes_.size()) + " likes)";
+}
+
+void Post::addLike(int userId) {
+    if (std::find(likes_.begin(), likes_.end(), userId) == likes_.end()) {
+        likes_.push_back(userId);
+    }
 }
 
 LinkPost::LinkPost(): Post() {
         url_ = "";
     }
 
-LinkPost::LinkPost(int profileId, int authorId, std::string message, int likes, std::string url)
+LinkPost::LinkPost(int profileId, int authorId, std::string message, std::vector<int> likes, std::string url)
     : Post(profileId, authorId, message, likes) {
-        url_ = url;
-    }
+    url_ = url;
+}
 
 std::string LinkPost::getURL()
 {
@@ -69,5 +74,5 @@ std::string LinkPost::getURL()
 
 std::string LinkPost::toString()
 {
-    return getMessage() + " (url: " + url_ + ") (" + std::to_string(getLikes()) + " likes)";
+    return getMessage() + " (url: " + url_ + ") (" + std::to_string(getLikes().size()) + " likes)";
 }

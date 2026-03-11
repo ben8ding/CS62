@@ -3,6 +3,7 @@
 #include "network.h"
 #include "user.h"
 #include "post.h"
+#include <QInputDialog>
 
 MainWindow::MainWindow(QWidget *parent)
     : QMainWindow(parent)
@@ -13,7 +14,7 @@ MainWindow::MainWindow(QWidget *parent)
 
     //Setup network
     network_.readUsers("users.txt");
-    network_.readPosts("posts.txt");
+    network_.readPosts("posts_new.txt");
 
     loggedInUser_ = nullptr;
     currentUser_ = nullptr;
@@ -63,6 +64,15 @@ MainWindow::MainWindow(QWidget *parent)
         &QPushButton::clicked,
         this,
         &MainWindow::addPost);
+    //Allows editing of the bio
+    connect(ui->profileBioEdit,
+            &QPushButton::clicked,
+            this,
+            &MainWindow::editBio);
+    connect(ui->profileLikePostButton,
+            &QPushButton::clicked,
+            this,
+            &MainWindow::likePost);
 }
 
 void MainWindow::loginUser(){
@@ -114,6 +124,7 @@ void MainWindow::toggleProfile(int tog){
     ui->profileAddPostButton->setVisible(tog);
     ui->profileBio->setVisible(tog);
     ui->profileBioLabel->setVisible(tog);
+    ui->profileLikePostButton->setVisible(tog);
 
     //Toggle other user posts (really only relevant for initializing the window)
     if(currentUser_ == loggedInUser_){
@@ -121,12 +132,14 @@ void MainWindow::toggleProfile(int tog){
         ui->profileFriendSuggest->setVisible(tog);
         ui->profileFriendSuggestLabel->setVisible(tog);
         ui->profileAddFriendButton->setVisible(false);
+        ui->profileBioEdit->setVisible(tog);
     }
     else{
         ui->profileReturnButton->setVisible(tog);
         ui->profileFriendSuggest->setVisible(false);
         ui->profileFriendSuggestLabel->setVisible(false);
         ui->profileAddFriendButton->setVisible(tog);
+        ui->profileBioEdit->setVisible(false);
     }
 }
 
@@ -141,16 +154,16 @@ void MainWindow::updateCurrentProfile(){
         iterator++;
     }
 
-    std::string testBio = currentUser_->getName() + "'s Bio";
-    ui->profileBio->setText(QString::fromStdString(testBio));
+    std::string currentBio = currentUser_->getBio();
+    if(currentBio.empty()){
+        currentBio = currentUser_->getName() + " hasn't set a bio yet.";
+    }
+    ui->profileBio->setText(QString::fromStdString(currentBio));
 
 
-    //todo unspaghetti by dedicating functions for showing/hiding non main profile stuff
     if(currentUser_ == loggedInUser_){
         //Friend suggestions updater
         ui->profileTitle->setText("My Profile");
-        ui->profileFriendSuggest->setVisible(true);
-        ui->profileFriendSuggestLabel->setVisible(true);
         int score;
         //Setup size of friendSuggestions page
         std::vector<int> friendSuggestions = network_.suggestFriends(currentUser_->getId(), score);
@@ -160,15 +173,11 @@ void MainWindow::updateCurrentProfile(){
             QTableWidgetItem *tempFriend = new QTableWidgetItem(QString::fromStdString(network_.getUser(friendSuggestions[i])->getName()));
             ui->profileFriendSuggest->setItem(i, 0, tempFriend);
         }
-        ui->profileReturnButton->setVisible(false);
+        toggleProfile(true);
     }
     else{
         std::string title = currentUser_->getName() + "'s Profile";
-        ui->profileTitle->setText(QString::fromStdString(title));
-        ui->profileFriendSuggest->setVisible(false);
-        ui->profileFriendSuggestLabel->setVisible(false);
-        ui->profileReturnButton->setVisible(true);
-        ui->profileAddFriendButton->setVisible(true);
+        toggleProfile(true);
     }
 
     //Debug panel stuff
@@ -195,9 +204,38 @@ void MainWindow::addPost(){
     }
     else {
     QString postText = ui->profilePostEdit->toPlainText();
-    network_.addPost(new Post(currentUser_->getId(), loggedInUser_->getId(), postText.toStdString(), 0));
+    std::vector<int> likes;
+    network_.addPost(new Post(currentUser_->getId(), loggedInUser_->getId(), postText.toStdString(), likes));
     updateCurrentProfile();
-    network_.writePosts("posts.txt");
+    network_.writePosts("posts_new.txt");
+    }
+}
+
+void MainWindow::editBio() {
+    bool ok;
+    QString newBio = QInputDialog::getText(this, tr("Edit Bio"),
+        tr("Enter your new bio:"), QLineEdit::Normal,
+        QString::fromStdString(loggedInUser_->getBio()), &ok);
+
+    if (ok) {
+        loggedInUser_->setBio(newBio.toStdString());
+        updateCurrentProfile();
+        network_.writeUsers("users.txt");
+    }
+}
+
+void MainWindow::likePost() {
+    bool ok;
+    int postId = QInputDialog::getInt(this, tr("Like a Post"), tr("Enter the ID of the post you want to like:"), 0, 0, 100000, 1, &ok);
+
+    if (ok) {
+        Post* targetPost = network_.getPost(postId);
+
+        if (targetPost != nullptr) {
+            targetPost->addLike(loggedInUser_->getId());
+            updateCurrentProfile();
+            network_.writePosts("posts_new.txt");
+        }
     }
 }
 

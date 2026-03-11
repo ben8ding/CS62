@@ -76,6 +76,10 @@ public:
     //Post:
     int writePosts(char* fname);
 
+    //Pre: The message ID of the post
+    //Post: Returns a pointer to the post if found
+    Post* getPost(int messageId);
+
 private:
     //Stored users and psots
     std::vector<User*> users_;

@@ -32,4 +32,5 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 DISTFILES += \
     cycle5.txt \
     posts.txt \
+    posts_new.txt \
     users.txt

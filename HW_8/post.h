@@ -2,13 +2,14 @@
 #define POST_H
 
 #include <string>
+#include <vector>
 
 class Post{
     public:
 
         // constructors
         Post();
-        Post(int profileId, int authorId, std::string message, int likes);
+        Post(int profileId, int authorId, std::string message, std::vector<int> likes);
 
         // getters and setters
         int getMessageId();
@@ -16,7 +17,8 @@ class Post{
         int getProfileId();
         int getAuthorId();
         std::string getMessage();
-        int getLikes();
+        std::vector<int> getLikes();
+        void addLike(int userId);
         
         // virtual methods
         virtual std::string getURL();
@@ -29,14 +31,14 @@ class Post{
         int profileId_;
         int authorId_;
         std::string message_;
-        int likes_;
+        std::vector<int> likes_;
 
 };
 
 class LinkPost : public Post{
     public:
         LinkPost();
-        LinkPost(int profileId, int authorId, std::string message, int likes, std::string url);
+        LinkPost(int profileId, int authorId, std::string message, std::vector<int> likes, std::string url);
 
         std::string getURL();
         std::string toString();

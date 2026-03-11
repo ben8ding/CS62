@@ -1,26 +1,31 @@
 5
 0
-	Aled Montes
+        Aled Montes
 	2009
 	47309
 	1 4
+	CS student who loves building social networks and exploring graph theory.
 1
-	Sandhya Krish
+        Sandhya Krish
 	2000
 	31153
 	0 2
+	Avid hiker and coffee enthusiast. Always looking for the next trail.
 2
-	Haaris George
+        Haaris George
 	2009
 	63181
 	1 3
+	Gamer and aspiring software developer. Current favorite language: C++.
 3
-	Alysha Gray
+        Alysha Gray
 	1983
 	08762
 	2 4
+	Historical fiction buff and world traveler. Ask me about my last trip!
 4
-	Lilly Flynn
+        Lilly Flynn
 	2009
 	14125
 	3 0
+	Exploring the intersection of digital art and technology.
