@@ -50,13 +50,12 @@ private:
     //Todo: change this to a slot
     void loginUser();
 
-    //Pre:
-    //Post:
+    //Pre: Takes into account the current viewed user
+    //Post: Updates the post section with the 5 most recent posts with the user's profile id
     void updatePosts();
 
-    //Pre:
-    //Post:
-    //Todo: Document what this does once it's less spaghetti
+    //Pre: Takes into account the current user and whether or not the current user is also the logged in user.
+    //Post: Updates all relevant user profile data.
     void updateCurrentProfile();
 };
 #endif
