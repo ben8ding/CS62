@@ -6,10 +6,10 @@ Post::Post()
     profileId_ = 0;
     authorId_ = 0;
     message_ = "";
-    likes_ = std::vector<int>();
+    likes_ = std::set<int>();
 }
 
-Post::Post(int profileId, int authorId, std::string message, std::vector<int> likes)
+Post::Post(int profileId, int authorId, std::string message, std::set<int> likes)
 {
     messageId_ = -1;
     profileId_ = profileId;
@@ -38,7 +38,7 @@ std::string Post::getMessage()
 {
     return message_;
 }
-std::vector<int> Post::getLikes()
+std::set<int> Post::getLikes()
 {
     return likes_;
 }
@@ -53,8 +53,12 @@ std::string Post::toString() {
 }
 
 void Post::addLike(int userId) {
-    if (std::find(likes_.begin(), likes_.end(), userId) == likes_.end()) {
-        likes_.push_back(userId);
+    //auto it = std::find(likes_.begin(), likes_.end(), userId);
+
+    if (likes_.count(userId)) {
+        likes_.erase(userId);
+    } else {
+        likes_.insert(userId);
     }
 }
 
@@ -62,7 +66,7 @@ LinkPost::LinkPost(): Post() {
         url_ = "";
     }
 
-LinkPost::LinkPost(int profileId, int authorId, std::string message, std::vector<int> likes, std::string url)
+LinkPost::LinkPost(int profileId, int authorId, std::string message, std::set<int> likes, std::string url)
     : Post(profileId, authorId, message, likes) {
     url_ = url;
 }

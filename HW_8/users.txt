@@ -4,7 +4,7 @@
 	2009
 	47309
 	1 4 26 28 62 71 80 81 93 106 110 113 114 125 126 129 131
-	Having the ID of 0 makes me the default test user.
+	This bio was edited for a demonstration.
 1
 	Sandhya Krish
 	2000

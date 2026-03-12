@@ -125,6 +125,10 @@ void MainWindow::toggleProfile(int tog){
     ui->profileBio->setVisible(tog);
     ui->profileBioLabel->setVisible(tog);
     ui->profileLikePostButton->setVisible(tog);
+    //Debug labels to show current user and ID. Change from false to tog to enable.
+    ui->debugLabel1->setVisible(false);
+    ui->debugLabel2->setVisible(false);
+
 
     //Toggle other user posts (really only relevant for initializing the window)
     if(currentUser_ == loggedInUser_){
@@ -204,7 +208,7 @@ void MainWindow::addPost(){
     }
     else {
     QString postText = ui->profilePostEdit->toPlainText();
-    std::vector<int> likes;
+    std::set<int> likes;
     network_.addPost(new Post(currentUser_->getId(), loggedInUser_->getId(), postText.toStdString(), likes));
     updateCurrentProfile();
     network_.writePosts("posts_new.txt");

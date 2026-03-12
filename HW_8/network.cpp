@@ -416,11 +416,11 @@ int Network::readPosts(char *fname)
 
         std::getline(ifs, line);
         std::stringstream ss(line);
-        std::vector<int> likes;
+        std::set<int> likes;
         int likeId;
         while (ss >> likeId)
         {
-            likes.push_back(likeId);
+            likes.insert(likeId);
         }
 
         std::getline(ifs, url);
@@ -471,10 +471,10 @@ int Network::writePosts(char* fname)
         ofs << "\t" << p->getProfileId() << "\n\t" << p->getAuthorId() << std::endl;
 
         ofs << "\t";
-        std::vector<int> likes = p->getLikes();
-        for (size_t j = 0; j < likes.size(); ++j)
+        std::set<int> likes = p->getLikes();
+        for (auto it = likes.begin(); it != likes.end(); ++it)
         {
-            ofs << likes[j] << (j == likes.size() - 1 ? "" : " ");
+            ofs << *it << (std::next(it) == likes.end() ? "" : " ");
         }
         ofs << std::endl;
 

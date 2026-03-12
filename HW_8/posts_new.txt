@@ -3,49 +3,49 @@
 	The llama couldn't resist trying the lemonade.
 	132
 	119
-	129 95 60
+	60 95 129
 
 1
 	He decided to live his life by the big beats manifesto.
 	53
 	48
-	3 123 45 33 71
+	3 33 45 71 123
 	http://www.example.com/1
 2
 	They wandered into a strange Tiki bar on the edge of the small beach town.
 	29
 	20
-	77 77 123 11 81
+	11 77 81 123
 
 3
 	Flash photography is best used in full sunlight.
 	132
 	6
-	113 5 58 36 97
+	5 36 58 97 113
 
 4
 	His confidence would have bee admirable if it wasn't for his stupidity.
 	106
 	13
-	89 45 43 126 43
+	43 45 89 126
 	http://www.example.com/4
 5
 	She wondered what his eyes were saying beneath his mirrored sunglasses.
 	131
 	70
-	107 101 81
+	81 101 107
 
 6
 	He quietly entered the museum as the super bowl started.
 	8
 	32
-	111 67 127 102 115
+	67 102 111 115 127
 	http://www.example.com/6
 7
 	Greetings from the real universe.
 	62
 	105
-	24 131 97 78 89
+	24 78 89 97 131
 	http://www.example.com/7
 8
 	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
@@ -57,73 +57,73 @@
 	As the rental car rolled to a stop on the dark road, her fear increased by the moment.
 	80
 	137
-	41 133 4 16 40
+	4 16 40 41 133
 
 10
 	She did a happy dance because all of the socks from the dryer matched.
 	58
 	116
-	114 98 42 128
+	42 98 114 128
 	http://www.example.com/10
 11
 	The snow-covered path was no help in finding his way out of the back-country.
 	94
 	107
-	58 24 138 139
+	24 58 138 139
 	http://www.example.com/11
 12
 	Her daily goal was to improve on yesterday.
 	27
 	133
-	129 14 83 92
+	14 83 92 129
 
 13
 	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
 	23
 	116
-	65 75 120 117 16
+	16 65 75 117 120
 	http://www.example.com/13
 14
 	Situps are a terrible way to end your day.
 	2
 	110
-	46 69 2 28
+	2 28 46 69
 	http://www.example.com/14
 15
 	She always speaks to him in a loud voice.
 	114
 	127
-	78 7 72 77
+	7 72 77 78
 
 16
 	I love bacon, beer, birds, and baboons.
 	114
 	139
-	128 127 19
+	19 127 128
 
 17
 	I met an interesting turtle while the song on the radio blasted away.
 	43
 	130
-	90 97 80
+	80 90 97
 
 18
 	Little Red Riding Hood decided to wear orange today.
 	77
 	142
-	96 16 127
+	16 96 127
 	http://www.example.com/18
 19
 	While on the first date he accidentally hit his head on the beam.
 	67
 	33
-	51 132 83 125 120
+	51 83 120 125 132
 	http://www.example.com/19
 20
 	The elephant didn't want to talk about the person in the room.
 	103
 	18
-	121 120 111 46
+	46 111 120 121
 
 21
 	The overpass went under the highway and into a secret world.
@@ -135,85 +135,85 @@
 	He played the game as if his life depended on it and the truth was that it did.
 	5
 	10
-	27 137 54
+	27 54 137
 	http://www.example.com/22
 23
 	Just go ahead and press that button.
 	106
 	113
-	135 101 58 130 123
+	58 101 123 130 135
 	http://www.example.com/23
 24
 	I'll have you know I've written over fifty novels
 	23
 	120
-	96 142 18
+	18 96 142
 	http://www.example.com/24
 25
 	Pair your designer cowboy hat with scuba gear for a memorable occasion.
 	111
 	139
-	83 38 5 27
+	5 27 38 83
 	http://www.example.com/25
 26
 	The thick foliage and intertwined vines made the hike nearly impossible.
 	61
 	54
-	59 136 108 132 70
+	59 70 108 132 136
 
 27
 	The anaconda was the greatest criminal mastermind in this part of the neighborhood.
 	120
 	37
-	114 16 15
+	15 16 114
 
 28
 	Karen believed all traffic laws should be obeyed by all except herself.
 	75
 	66
-	82 17 120
+	17 82 120
 	http://www.example.com/28
 29
 	Joyce enjoyed eating pancakes with ketchup.
 	136
 	143
-	102 30 18 37 78
+	18 30 37 78 102
 	http://www.example.com/29
 30
 	The reservoir water level continued to lower while we enjoyed our long shower.
 	111
 	139
-	112 94 34
+	34 94 112
 	http://www.example.com/30
 31
 	He's in a boy band which doesn't make much sense for a snake.
 	16
 	99
-	124 56 104 46
+	46 56 104 124
 
 32
 	He created a pig burger out of beef.
 	145
 	137
-	40 53 2 39 67
+	2 39 40 53 67
 	http://www.example.com/32
 33
 	I am never at home on Sundays.
 	16
 	103
-	42 143 19 85
+	19 42 85 143
 	http://www.example.com/33
 34
 	Two more days and all his problems would be solved.
 	142
 	20
-	19 71 5
+	5 19 71
 	http://www.example.com/34
 35
 	Siri became confused when we reused to follow her directions.
 	47
 	13
-	76 30 98 12 87
+	12 30 76 87 98
 	http://www.example.com/35
 36
 	Shakespeare was a famous 17th-century diesel mechanic.
@@ -225,19 +225,19 @@
 	Tuesdays are free if you bring a gnome costume.
 	122
 	12
-	44 86 101 30 30
+	30 44 86 101
 	http://www.example.com/37
 38
 	He found the chocolate covered beans quite tasty.
 	43
 	130
-	29 128 34 102 54
+	29 34 54 102 128
 	http://www.example.com/38
 39
 	He realized there had been several deaths on this road, but his concern rose when he saw the exact number.
 	146
 	19
-	79 47 39 43
+	39 43 47 79
 
 40
 	Tom got a small piece of pie.
@@ -249,37 +249,37 @@
 	Joe discovered that traffic cones make excellent megaphones.
 	60
 	140
-	67 124 72
+	67 72 124
 	http://www.example.com/41
 42
 	He decided water-skiing on a frozen lake wasn’t a good idea.
 	65
 	35
-	99 74 69 107 135
+	69 74 99 107 135
 
 43
 	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
 	86
 	96
-	123 65 118
+	65 118 123
 
 44
 	The trick to getting kids to eat anything is to put catchup on it.
 	106
 	38
-	129 8 4 137
+	4 8 129 137
 
 45
 	I really want to go to work, but I am too sick to drive.
 	19
 	56
-	118 1 137 136 10
+	1 10 118 136 137
 	http://www.example.com/45
 46
 	Everybody should read Chaucer to improve their everyday vocabulary.
 	35
 	102
-	97 49 97
+	49 97
 
 47
 	Please wait outside of the house.
@@ -291,7 +291,7 @@
 	Lucifer was surprised at the amount of life at Death Valley.
 	62
 	112
-	47 48 80 42
+	42 47 48 80
 	http://www.example.com/48
 49
 	There isn't enough toilet paper.
@@ -303,7 +303,7 @@
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
 	83
 	116
-	79 144 10
+	10 79 144
 
 51
 	There's no reason a hula hoop can't also be a circus ring.
@@ -315,25 +315,25 @@
 	He strives to keep the best lawn in the neighborhood.
 	127
 	38
-	118 89 141 98
+	89 98 118 141
 	http://www.example.com/52
 53
 	There were three sphered rocks congregating in a cubed room.
 	45
 	144
-	34 102 7 21 5
+	5 7 21 34 102
 
 54
 	There's probably enough glass in my cupboard to build an undersea aquarium.
 	129
 	33
-	1 14 63 57
+	1 14 57 63
 
 55
 	Choosing to do nothing is still a choice, after all.
 	50
 	31
-	83 137 54 125
+	54 83 125 137
 	http://www.example.com/55
 56
 	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
@@ -345,13 +345,13 @@
 	Take a look at this picture!
 	11
 	130
-	57 93 109 3 69
+	3 57 69 93 109
 	http://www.example.com/57
 58
 	Some bathing suits just shouldn’t be worn by some people.
 	131
 	5
-	79 122 65 106
+	65 79 106 122
 
 59
 	Combines are no longer just for farms.
@@ -363,97 +363,97 @@
 	The clock within this blog and the clock on my laptop are 1 hour different from each other.
 	128
 	68
-	50 106 145 120 12
+	12 50 106 120 145
 
 61
 	Jeanne wished she has chosen the red button.
 	124
 	44
-	50 26 5 52 106
+	5 26 50 52 106
 
 62
 	He was sure the Devil created red sparkly glitter.
 	119
 	59
-	73 147 34 46
+	34 46 73 147
 
 63
 	He had unknowingly taken up sleepwalking as a nighttime hobby.
 	60
 	132
-	147 100 71
+	71 100 147
 	http://www.example.com/63
 64
 	He dreamed of eating green apples with worms.
 	46
 	61
-	33 63 54 4
+	4 33 54 63
 	http://www.example.com/64
 65
 	There should have been a time and a place, but this wasn't it.
 	33
 	42
-	81 109 78
+	78 81 109
 	http://www.example.com/65
 66
 	Today I dressed my unicorn in preparation for the race.
 	91
 	43
-	95 68 104 131
+	68 95 104 131
 	http://www.example.com/66
 67
 	She always speaks to him in a loud voice.
 	97
 	36
-	87 96 90 105
+	87 90 96 105
 
 68
 	Mr. Montoya knows the way to the bakery even though he's never been there.
 	40
 	130
-	98 80 88
+	80 88 98
 
 69
 	It was always dangerous to drive with him since he insisted the safety cones were a slalom course.
 	74
 	17
-	31 24 34 22 50
+	22 24 31 34 50
 	http://www.example.com/69
 70
 	His mind was blown that there was nothing in space except space itself.
 	87
 	76
-	82 0 123 16
+	0 16 82 123
 
 71
 	You can't compare apples and oranges, but what about bananas and plantains?
 	43
 	130
-	3 15 49 64 54
+	3 15 49 54 64
 	http://www.example.com/71
 72
 	He decided to fake his disappearance to avoid jail.
 	100
 	28
-	108 94 0 30 101
+	0 30 94 101 108
 
 73
 	He said he was not there yesterday; however, many people saw him there.
 	2
 	110
-	32 127 69
+	32 69 127
 	http://www.example.com/73
 74
 	Don't step on the broken glass.
 	110
 	69
-	132 82 112 125
+	82 112 125 132
 
 75
 	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
 	106
 	54
-	43 52 16 58
+	16 43 52 58
 	http://www.example.com/75
 76
 	Everyone was curious about the large white blimp that appeared overnight.
@@ -465,163 +465,163 @@
 	The sky is clear; the stars are twinkling.
 	85
 	112
-	81 44 82 96 139
+	44 81 82 96 139
 	http://www.example.com/77
 78
 	The two walked down the slot canyon oblivious to the sound of thunder in the distance.
 	121
 	136
-	68 38 120 92
+	38 68 92 120
 	http://www.example.com/78
 79
 	My biggest joy is roasting almonds while stalking prey.
 	74
 	126
-	108 52 23
+	23 52 108
 	http://www.example.com/79
 80
 	There were a lot of paintings of monkeys waving bamboo sticks in the gallery.
 	29
 	20
-	91 64 126 92 98
+	64 91 92 98 126
 	http://www.example.com/80
 81
 	She was the type of girl that always burnt sugar to show she cared.
 	143
 	121
-	45 29 32 90
+	29 32 45 90
 	http://www.example.com/81
 82
 	A dead duck doesn't fly backward.
 	79
 	86
-	122 4 22 127 126
+	4 22 122 126 127
 	http://www.example.com/82
 83
 	We need to rent a room for our party.
 	50
 	103
-	139 61 16 62 69
+	16 61 62 69 139
 
 84
 	No matter how beautiful the sunset, it saddened her knowing she was one day older.
 	3
 	128
-	121 65 99 74 71
+	65 71 74 99 121
 	http://www.example.com/84
 85
 	As she walked along the street and looked in the gutter, she realized facemasks had become the new cigarette butts.
 	133
 	125
-	112 31 53 90 88
+	31 53 88 90 112
 
 86
 	Lets all be unique together until we realise we are all the same.
 	46
 	22
-	135 60 1 24
+	1 24 60 135
 
 87
 	You're good at English when you know the difference between a man eating chicken and a man-eating chicken.
 	29
 	134
-	88 23 17 44 9
+	9 17 23 44 88
 	http://www.example.com/87
 88
 	When motorists sped in and out of traffic, all she could think of was those in need of a transplant.
 	83
 	117
-	45 94 41
+	41 45 94
 
 89
 	Poison ivy grew through the fence they said was impenetrable.
 	133
 	13
-	139 104 88
+	88 104 139
 	http://www.example.com/89
 90
 	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
 	87
 	76
-	70 146 76 25 128
+	25 70 76 128 146
 	http://www.example.com/90
 91
 	He decided that the time had come to be stronger than any of the excuses he'd used until then.
 	124
 	138
-	43 12 5 92
+	5 12 43 92
 
 92
 	At that moment he wasn't listening to music, he was living an experience.
 	142
 	20
-	128 110 61 16 33
+	16 33 61 110 128
 	http://www.example.com/92
 93
 	It's important to remember to be aware of rampaging grizzly bears.
 	86
 	55
-	103 70 66 67
+	66 67 70 103
 
 94
 	He spiked his hair green to support his iguana.
 	143
 	138
-	41 56 64 40
+	40 41 56 64
 
 95
 	I think I will buy the red car, or I will lease the blue one.
 	139
 	98
-	12 11 136 131 102
+	11 12 102 131 136
 
 96
 	He knew it was going to be a bad day when he saw mountain lions roaming the streets.
 	50
 	135
-	69 88 53 70
+	53 69 70 88
 
 97
 	I was offended by the suggestion that my baby brother was a jewel thief.
 	117
 	14
-	62 2 70
+	2 62 70
 	http://www.example.com/97
 98
 	The three-year-old girl ran down the beach as the kite flew behind her.
 	13
 	17
-	55 54 26 52
+	26 52 54 55
 	http://www.example.com/98
 99
 	They say people remember important moments in their life well, yet no one even remembers their own birth.
 	39
 	127
-	137 93 128 127
+	93 127 128 137
 	http://www.example.com/99
 100
 	Poison ivy grew through the fence they said was impenetrable.
 	65
 	137
-	118 81 78 16 57
+	16 57 78 81 118
 	http://www.example.com/100
 101
 	The family’s excitement over going to Disneyland was crazier than she anticipated.
 	106
 	113
-	61 90 143 76 49
+	49 61 76 90 143
 	http://www.example.com/101
 102
 	When he asked her favorite number, she answered without hesitation that it was diamonds.
 	70
 	102
-	31 138 59
+	31 59 138
 
 103
 	He was disappointed when he found the beach to be so sandy and the sun so sunny.
 	135
 	129
-	147 72 131
+	72 131 147
 	http://www.example.com/103
 104
 	Today I dressed my unicorn in preparation for the race.
@@ -633,91 +633,91 @@
 	I've traveled all around Africa and still haven't found the gnu who stole my scarf.
 	4
 	26
-	40 1 30 93 48
+	1 30 40 48 93
 	http://www.example.com/105
 106
 	She looked into the mirror and saw another person.
 	31
 	50
-	14 131 18
+	14 18 131
 	http://www.example.com/106
 107
 	I had a friend in high school named Rick Shaw, but he was fairly useless as a mode of transport.
 	64
 	142
-	57 10 108 85
+	10 57 85 108
 
 108
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
 	95
 	51
-	16 105 96 117 57
+	16 57 96 105 117
 
 109
 	The bees decided to have a mutiny against their queen.
 	13
 	67
-	99 107 68 145 99
+	68 99 107 145
 	http://www.example.com/109
 110
 	He found a leprechaun in his walnut shell.
 	15
 	20
-	17 65 48
+	17 48 65
 
 111
 	A good example of a useful vegetable is medicinal rhubarb.
 	4
 	42
-	0 85 81
+	0 81 85
 	http://www.example.com/111
 112
 	The green tea and avocado smoothie turned out exactly as would be expected.
 	29
 	117
-	20 92 8
+	8 20 92
 
 113
 	Pat ordered a ghost pepper pie.
 	60
 	103
-	122 80 102 5 96
+	5 80 96 102 122
 	http://www.example.com/113
 114
 	The bird had a belief that it was really a groundhog.
 	124
 	126
-	16 124 56
+	16 56 124
 
 115
 	She says she has the ability to hear the soundtrack of your life.
 	126
 	124
-	114 118 83 95 135
+	83 95 114 118 135
 
 116
 	If you really strain your ears, you can just about hear the sound of no one giving a damn.
 	102
 	35
-	114 94 62 47
+	47 62 94 114
 
 117
 	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
 	13
 	42
-	55 8 114
+	8 55 114
 
 118
 	This made him feel like an old-style rootbeer float smells.
 	141
 	92
-	123 79 98 22 53
+	22 53 79 98 123
 
 119
 	The mysterious diary records the voice.
 	133
 	105
-	11 86 147 23
+	11 23 86 147
 
 120
 	I just wanted to tell you I could see the love you have for your child by the way you look at her.
@@ -729,79 +729,79 @@
 	They throw cabbage that turns your brain into emotional baggage.
 	125
 	95
-	128 24 40
+	24 40 128
 	http://www.example.com/121
 122
 	Abstraction is often one floor above you.
 	43
 	12
-	130 115 131
+	115 130 131
 	http://www.example.com/122
 123
 	He found rain fascinating yet unpleasant.
 	124
 	7
-	106 86 27
+	27 86 106
 	http://www.example.com/123
 124
 	He figured a few sticks of dynamite were easier than a fishing pole to catch fish.
 	88
 	109
-	123 98 10
+	10 98 123
 	http://www.example.com/124
 125
 	He shaved the peach to prove a point.
 	25
 	36
-	73 2 118
+	2 73 118
 
 126
 	He was sitting in a trash can with high street class.
 	15
 	141
-	29 142 4
+	4 29 142
 	http://www.example.com/126
 127
 	Despite what your teacher may have told you, there is a wrong way to wield a lasso.
 	70
 	98
-	115 95 23 20 65
+	20 23 65 95 115
 
 128
 	The underground bunker was filled with chips and candy.
 	81
 	132
-	71 80 53
+	53 71 80
 
 129
 	Red is greener than purple, for sure.
 	75
 	66
-	122 11 137
+	11 122 137
 	http://www.example.com/129
 130
 	He wondered if it could be called a beach if there was no sand.
 	136
 	14
-	36 82 8
+	8 36 82
 
 131
 	Just because the water is red doesn't mean you can't drink it.
 	43
 	83
-	110 94 143
+	94 110 143
 
 132
 	The fog was so dense even a laser decided it wasn't worth the effort.
 	106
 	125
-	49 101 101
+	49 101
 	http://www.example.com/132
 133
 	The child’s favorite Christmas gift was the large box her father’s lawnmower came in.
 	77
 	133
-	64 42 57 72
+	42 57 64 72
 
 134
 	He was sure the Devil created red sparkly glitter.
@@ -813,43 +813,43 @@
 	Of course, she loves her pink bunny slippers.
 	115
 	110
-	101 77 98 129
+	77 98 101 129
 
 136
 	Being unacquainted with the chief raccoon was harming his prospects for promotion.
 	83
 	125
-	36 118 69 73 22
+	22 36 69 73 118
 
 137
 	It isn't true that my mattress is made of cotton candy.
 	135
 	62
-	136 66 68 116 32
+	32 66 68 116 136
 
 138
 	Never underestimate the willingness of the greedy to throw you under the bus.
 	104
 	84
-	2 128 65
+	2 65 128
 	http://www.example.com/138
 139
 	I cheated while playing the darts tournament by using a longbow.
 	132
 	7
-	56 33 11
+	11 33 56
 
 140
 	Various sea birds are elegant, but nothing is as elegant as a gliding pelican.
 	107
 	115
-	130 131 107 82 132
+	82 107 130 131 132
 	http://www.example.com/140
 141
 	She lived on Monkey Jungle Road and that seemed to explain all of her strangeness.
 	57
 	84
-	127 10 38 41
+	10 38 41 127
 
 142
 	There's a reason that roses have thorns.
@@ -861,43 +861,43 @@
 	I am never at home on Sundays.
 	108
 	52
-	23 31 41 31
+	23 31 41
 	http://www.example.com/143
 144
 	She wanted a pet platypus but ended up getting a duck and a ferret instead.
 	28
 	101
-	19 73 146 63
+	19 63 73 146
 	http://www.example.com/144
 145
 	He uses onomatopoeia as a weapon of mental destruction.
 	130
 	43
-	25 77 10 17
+	10 17 25 77
 
 146
 	Nothing seemed out of place except the washing machine in the bar.
 	140
 	90
-	87 55 53
+	53 55 87
 
 147
 	The tumbleweed refused to tumble but was more than willing to prance.
 	60
 	74
-	103 81 72
+	72 81 103
 
 148
 	People generally approve of dogs eating cat food but not cats eating dog food.
 	97
 	36
-	101 109 88
+	88 101 109
 	http://www.example.com/148
 149
 	Patricia loves the sound of nails strongly pressed against the chalkboard.
 	65
 	61
-	49 29 89 66
+	29 49 66 89
 	http://www.example.com/149
 150
 	My secretary is the only person who truly understands my stamp-collecting obsession.
@@ -909,205 +909,205 @@
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
 	79
 	49
-	146 50 98 2 49
+	2 49 50 98 146
 	http://www.example.com/151
 152
 	Joyce enjoyed eating pancakes with ketchup.
 	121
 	143
-	130 21 107
+	21 107 130
 
 153
 	All they could see was the blue water surrounding their sailboat.
 	141
 	128
-	142 15 116 87 73
+	15 73 87 116 142
 	http://www.example.com/153
 154
 	I am counting my calories, yet I really want dessert.
 	139
 	60
-	0 61 31
+	0 31 61
 
 155
 	Blue sounded too cold at the time and yet it seemed to work for gin.
 	25
 	86
-	88 92 25 42 121
+	25 42 88 92 121
 	http://www.example.com/155
 156
 	Her scream silenced the rowdy teenagers.
 	83
 	88
-	6 125 106
+	6 106 125
 
 157
 	His mind was blown that there was nothing in space except space itself.
 	76
 	80
-	143 28 2 142
+	2 28 142 143
 
 158
 	Barking dogs and screaming toddlers have the unique ability to turn friendly neighbors into cranky enemies.
 	21
 	102
-	146 104 48
+	48 104 146
 
 159
 	Mary realized if her calculator had a history, it would be more embarrassing than her computer browser history.
 	6
 	61
-	10 112 39 117 7
+	7 10 39 112 117
 
 160
 	Excitement replaced fear until the final moment.
 	11
 	102
-	45 1 42 79
+	1 42 45 79
 	http://www.example.com/160
 161
 	Two seats were vacant.
 	86
 	55
-	46 109 18
+	18 46 109
 	http://www.example.com/161
 162
 	You've been eyeing me all day and waiting for your move like a lion stalking a gazelle in a savannah.
 	104
 	73
-	99 125 59
+	59 99 125
 
 163
 	Wisdom is easily acquired when hiding under the bed with a saucepan on your head.
 	122
 	12
-	121 87 17
+	17 87 121
 
 164
 	The fence was confused about whether it was supposed to keep things in or keep things out.
 	133
 	90
-	59 20 78 98
+	20 59 78 98
 
 165
 	The gloves protect my feet from excess work.
 	102
 	11
-	44 67 53 128 145
+	44 53 67 128 145
 
 166
 	25 years later, she still regretted that specific moment.
 	133
 	63
-	117 101 136 64
+	64 101 117 136
 	http://www.example.com/166
 167
 	Patricia loves the sound of nails strongly pressed against the chalkboard.
 	97
 	77
-	50 97 44 1 145
+	1 44 50 97 145
 
 168
 	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
 	140
 	90
-	66 37 65 85
+	37 65 66 85
 
 169
 	You bite up because of your lower jaw.
 	75
 	147
-	118 62 64 14
+	14 62 64 118
 	http://www.example.com/169
 170
 	Shakespeare was a famous 17th-century diesel mechanic.
 	30
 	61
-	32 123 78
+	32 78 123
 	http://www.example.com/170
 171
 	Lets all be unique together until we realise we are all the same.
 	102
 	60
-	91 5 48 5 111
+	5 48 91 111
 	http://www.example.com/171
 172
 	The shark-infested South Pine channel was the only way in or out.
 	35
 	23
-	96 132 35
+	35 96 132
 
 173
 	Erin accidentally created a new universe.
 	45
 	14
-	76 144 130 92
+	76 92 130 144
 	http://www.example.com/173
 174
 	My uncle's favorite pastime was building cars out of noodles.
 	108
 	95
-	71 144 22 78
+	22 71 78 144
 	http://www.example.com/174
 175
 	My biggest joy is roasting almonds while stalking prey.
 	122
 	44
-	0 50 32 80 30
+	0 30 32 50 80
 
 176
 	I want a giraffe, but I'm a turtle eating waffles.
 	24
 	141
-	68 93 41
+	41 68 93
 	http://www.example.com/176
 177
 	As time wore on, simple dog commands turned into full paragraphs explaining why the dog couldn’t do something.
 	34
 	140
-	89 109 22
+	22 89 109
 
 178
 	The swirled lollipop had issues with the pop rock candy.
 	60
 	71
-	26 117 95 145 29
+	26 29 95 117 145
 	http://www.example.com/178
 179
 	The truth is that you pay for your lifestyle in hours.
 	87
 	100
-	125 19 60
+	19 60 125
 
 180
 	A dead duck doesn't fly backward.
 	9
 	90
-	21 116 130 68 29
+	21 29 68 116 130
 
 181
 	She wanted to be rescued, but only if it was Tuesday and raining.
 	110
 	12
-	25 143 65 146
+	25 65 143 146
 
 182
 	A good example of a useful vegetable is medicinal rhubarb.
 	94
 	130
-	64 53 76 13
+	13 53 64 76
 	http://www.example.com/182
 183
 	I checked to make sure that he was still alive.
 	103
 	135
-	130 4 120
+	4 120 130
 	http://www.example.com/183
 184
 	On each full moon
 	41
 	62
-	21 137 50 126
+	21 50 126 137
 	http://www.example.com/184
 185
 	She always speaks to him in a loud voice.
@@ -1125,49 +1125,49 @@
 	She had a difficult time owning up to her own crazy self.
 	141
 	139
-	42 24 21 120
+	21 24 42 120
 
 188
 	They improved dramatically once the lead singer left.
 	4
 	16
-	0 13 14 94 85
+	0 13 14 85 94
 
 189
 	The tortoise jumped into the lake with dreams of becoming a sea turtle.
 	20
 	143
-	17 45 15 63 0
+	0 15 17 45 63
 	http://www.example.com/189
 190
 	The old apple revels in its authority.
 	141
 	11
-	3 115 99 16 135
+	3 16 99 115 135
 
 191
 	The apple tree is old.
 	118
 	39
-	77 53 144 110 6
+	6 53 77 110 144
 	http://www.example.com/191
 192
 	That must be the tenth time I've been arrested for selling deep-fried cigars.
 	66
 	135
-	22 115 26
+	22 26 115
 	http://www.example.com/192
 193
 	It took him a month to finish the meal.
 	31
 	118
-	91 11 63 103 35
+	11 35 63 91 103
 	http://www.example.com/193
 194
 	He looked behind the door and didn't like what he saw.
 	92
 	121
-	86 131 143 87
+	86 87 131 143
 	http://www.example.com/194
 195
 	Peanuts don't grow on trees, but cashews do.
@@ -1179,187 +1179,187 @@
 	The fog was so dense even a laser decided it wasn't worth the effort.
 	119
 	8
-	41 41 110 13
+	13 41 110
 
 197
 	There were fifty floaties in the pool.
 	141
 	88
-	135 108 66
+	66 108 135
 	http://www.example.com/197
 198
 	Plans for this weekend include turning wine into water.
 	78
 	102
-	89 18 127 26 94
+	18 26 89 94 127
 
 199
 	They did nothing as the raccoon attacked the lady’s bag of food.
 	105
 	98
-	33 57 26 32 30
+	26 30 32 33 57
 	http://www.example.com/199
 200
 	I didn't know what to wear to my best friend's funeral.
 	24
 	119
-	32 100 124 77 86
+	32 77 86 100 124
 
 201
 	There used to be a big cherry tree behind my house.
 	134
 	7
-	7 96 116 51 25
+	7 25 51 96 116
 	http://www.example.com/201
 202
 	Sometimes, books and movies made her feel things she couldn't explain.
 	33
 	6
-	98 42 55
+	42 55 98
 	http://www.example.com/202
 203
 	My bandaid wasn't sticky anymore so it fell off on the way to school.
 	38
 	106
-	134 129 56
+	56 129 134
 
 204
 	He feel asleep immediately.
 	35
 	23
-	84 120 37 144 75
+	37 75 84 120 144
 
 205
 	In Hong Kong, everyone lives stacked together.
 	118
 	76
-	82 145 71 128 21
+	21 71 82 128 145
 
 206
 	Her parents had been separated for almost three years, but she never expected them to actually go through with the divorce.
 	75
 	66
-	10 0 25 106 114
+	0 10 25 106 114
 	http://www.example.com/206
 207
 	These are the things that I want from a relationship.
 	21
 	77
-	123 55 60 31
+	31 55 60 123
 
 208
 	When one considers the issue from a different perspective, the answer seems to change.
 	79
 	86
-	42 118 38 1
+	1 38 42 118
 
 209
 	She twisted her ankle and couldn't go to soccer anymore.
 	11
 	57
-	40 68 68 16
+	16 40 68
 	http://www.example.com/209
 210
 	You can always find baked goods somewhere in my pantry.
 	91
 	112
-	110 47 138 72
+	47 72 110 138
 
 211
 	The alligator's teeth were so scary that I ran back to the car as fast as I could.
 	76
 	18
-	56 79 70 144 96
+	56 70 79 96 144
 
 212
 	They sold shampoo and conditioner, but no plain soap.
 	41
 	143
-	26 97 73 120 13
+	13 26 73 97 120
 	http://www.example.com/212
 213
 	She got a discount to buy the stickers online.
 	17
 	89
-	112 129 142 74 60
+	60 74 112 129 142
 
 214
 	Once you master cooking, you'll start tweaking popular recipes, and that's when it becomes even more fun.
 	18
 	76
-	98 83 108 143
+	83 98 108 143
 
 215
 	Checking things off the list is the best feeling.
 	84
 	102
-	126 114 60 27
+	27 60 114 126
 
 216
 	Let's all just take a moment to breathe, please.
 	24
 	64
-	104 57 73 45 76
+	45 57 73 76 104
 
 217
 	She decided to take the bus because it was supposed to be quicker, but then it ended up being twenty minutes late.
 	86
 	127
-	95 45 100 115 10
+	10 45 95 100 115
 	http://www.example.com/217
 218
 	She fell off the bull two seconds after she got on.
 	23
 	94
-	92 36 21 85 144
+	21 36 85 92 144
 	http://www.example.com/218
 219
 	Rosa crossed Mary's name off the list.
 	143
 	59
-	129 35 135 64
+	35 64 129 135
 
 220
 	She couldn't find the basket she was looking for.
 	42
 	142
-	51 55 6
+	6 51 55
 
 221
 	What he likes best is being around his friends.
 	35
 	139
-	68 105 31 6 57
+	6 31 57 68 105
 
 222
 	I found a gold coin on the playground after school today.
 	121
 	143
-	3 110 80 74 89
+	3 74 80 89 110
 	http://www.example.com/222
 223
 	She sells Christmas trees.
 	144
 	37
-	49 62 107 129 81
+	49 62 81 107 129
 
 224
 	Going to a bar is a fun thing to do.
 	120
 	28
-	47 13 138 34 87
+	13 34 47 87 138
 
 225
 	She got hiccups and couldn't get rid of them for three hours.
 	87
 	107
-	108 137 93
+	93 108 137
 
 226
 	Many big projects will be completed in the 21st century.
 	143
 	1
-	33 75 19
+	19 33 75
 	http://www.example.com/226
 227
 	They will be here shortly.
@@ -1371,13 +1371,13 @@
 	The caffeine was making her jittery.
 	3
 	128
-	73 109 38 0 43
+	0 38 43 73 109
 	http://www.example.com/228
 229
 	If you go there, you will find him.
 	132
 	111
-	71 68 89
+	68 71 89
 	http://www.example.com/229
 230
 	It's time to watch TV.
@@ -1389,265 +1389,265 @@
 	They are still edible.
 	52
 	47
-	144 131 141 66
+	66 131 141 144
 
 232
 	I didn't want to take a side in the argument.
 	56
 	58
-	3 134 19 3 32
+	3 19 32 134
 
 233
 	Captain America is my favorite Avenger.
 	8
 	98
-	42 36 3 7 49
+	3 7 36 42 49
 
 234
 	Get your act together.
 	103
 	93
-	106 106 145
+	106 145
 	http://www.example.com/234
 235
 	Over time, she realized she would never know how to cook.
 	56
 	66
-	144 62 61 3
+	3 61 62 144
 
 236
 	You'll move more than before.
 	48
 	37
-	147 147 135
+	135 147
 
 237
 	He was president from 2008 to 2016.
 	66
 	59
-	93 142 144 80
+	80 93 142 144
 
 238
 	The window looks out on a garden.
 	84
 	111
-	46 8 15 35
+	8 15 35 46
 	http://www.example.com/238
 239
 	The girl wore her hair in two braids, tied with two blue bows.
 	14
 	144
-	26 26 103 35
+	26 35 103
 	http://www.example.com/239
 240
 	Looking back, I know it was the right decision.
 	132
 	100
-	97 131 75
+	75 97 131
 
 241
 	It is going to happen on Friday.
 	104
 	130
-	42 124 105
+	42 105 124
 
 242
 	You must be happy.
 	97
 	104
-	117 128 44 67
+	44 67 117 128
 	http://www.example.com/242
 243
 	I need to clean my room.
 	34
 	115
-	97 49 92 30
+	30 49 92 97
 	http://www.example.com/243
 244
 	I want the stability of a full-time job, but I'm not interested in the rigidity of working nine to five.
 	17
 	135
-	35 128 127
+	35 127 128
 	http://www.example.com/244
 245
 	You have a big house.
 	65
 	108
-	75 116 86 138
+	75 86 116 138
 
 246
 	She wanted to be a professor when she was in high school, but then she realized how few academic jobs there are on the market.
 	114
 	69
-	57 37 41
+	37 41 57
 
 247
 	She had a big scar on her knee from falling off her bike as a kid.
 	67
 	33
-	26 107 110 59 68
+	26 59 68 107 110
 
 248
 	They may come in handy one day.
 	56
 	131
-	129 33 139 115
+	33 115 129 139
 	http://www.example.com/248
 249
 	A wet road is usually slippery.
 	11
 	141
-	125 35 139
+	35 125 139
 	http://www.example.com/249
 250
 	Insurance wouldn't cover it.
 	111
 	58
-	100 111 110
+	100 110 111
 	http://www.example.com/250
 251
 	Imagine I am deciding if I like some new, heretofore untasted food.
 	113
 	2
-	49 115 88
+	49 88 115
 	http://www.example.com/251
 252
 	He earned his PhD in physics at the age of 89.
 	66
 	136
-	129 123 126 22
+	22 123 126 129
 
 253
 	In Australia, there is a store called PieFace which sells meat pies with smiley faces on them.
 	33
 	129
-	87 4 40
+	4 40 87
 
 254
 	Don't go there.
 	81
 	135
-	81 16 17 33 102
+	16 17 33 81 102
 	http://www.example.com/254
 255
 	They make wonderful walking buddies.
 	125
 	37
-	2 85 17 24 146
+	2 17 24 85 146
 	http://www.example.com/255
 256
 	The church was white and brown and looked very old.
 	16
 	133
-	64 83 5 7
+	5 7 64 83
 	http://www.example.com/256
 257
 	Watch out, there's quicksand.
 	129
 	14
-	123 111 120 48
+	48 111 120 123
 
 258
 	She likes to play soccer.
 	27
 	114
-	138 43 134 147
+	43 134 138 147
 
 259
 	I will open the door.
 	29
 	134
-	118 12 79 128 88
+	12 79 88 118 128
 	http://www.example.com/259
 260
 	I will have a baby in the near future.
 	42
 	1
-	41 123 5
+	5 41 123
 
 261
 	That was the president on the phone.
 	19
 	118
-	101 5 45
+	5 45 101
 
 262
 	Well, that's a big surprise.
 	47
 	123
-	32 101 78 72
+	32 72 78 101
 
 263
 	Every year Americans pay half a trillion in rent.
 	138
 	136
-	9 84 88 143 109
+	9 84 88 109 143
 
 264
 	You have a beautiful home.
 	122
 	98
-	66 48 71 54 14
+	14 48 54 66 71
 	http://www.example.com/264
 265
 	I got my driver's license when I was eighteen.
 	122
 	102
-	49 35 66 46 144
+	35 46 49 66 144
 	http://www.example.com/265
 266
 	I wish I had never gone surfing that day.
 	3
 	121
-	99 132 115 62
+	62 99 115 132
 
 267
 	The professor marked down one point for every use of the word 'interesting' in a paper.
 	137
 	145
-	49 78 38 78 138
+	38 49 78 138
 
 268
 	I won't believe it unless I see it with my own eyes.
 	36
 	97
-	66 0 52
+	0 52 66
 	http://www.example.com/268
 269
 	She always worried that sings would embarrass themselves, because if she was in front of a crowd she would always be worried about embarrassing herself.
 	96
 	85
-	48 24 85
+	24 48 85
 
 270
 	I don't want to drink alcohol.
 	95
 	117
-	84 4 89 98
+	4 84 89 98
 	http://www.example.com/270
 271
 	It was so cold that no one wanted to go outside.
 	115
 	62
-	140 88 39
+	39 88 140
 
 272
 	The wind was so strong it swept her hat right away.
 	121
 	3
-	34 142 46 144 15
+	15 34 46 142 144
 
 273
 	I don't think I liked the movie.
 	86
 	79
-	61 44 129
+	44 61 129
 	http://www.example.com/273
 274
 	The wound hasn't healed yet.
 	130
 	7
-	59 105 59 95
+	59 95 105
 
 275
 	The fan is blowing in my face right now.
@@ -1659,85 +1659,85 @@
 	The footballers were very upset when they cancelled the game because of lightning threats.
 	33
 	61
-	140 37 11 87 52
+	11 37 52 87 140
 
 277
 	Elizabeth is traveling all around the country to hear directly from people like you.
 	57
 	44
-	82 87 15 50
+	15 50 82 87
 	http://www.example.com/277
 278
 	I'm always on time.
 	19
 	146
-	14 124 18 2 49
+	2 14 18 49 124
 	http://www.example.com/278
 279
 	The contents of the box are listed on the label.
 	46
 	33
-	66 37 93 12 17
+	12 17 37 66 93
 	http://www.example.com/279
 280
 	My pen broke and leaked blue ink all over my new dress.
 	37
 	117
-	104 21 60 26 104
+	21 26 60 104
 
 281
 	Historical sites are awesome to walk through.
 	81
 	135
-	138 128 90
+	90 128 138
 	http://www.example.com/281
 282
 	I love bacon, eggs, and orange juice for breakfast.
 	103
 	93
-	12 135 130
+	12 130 135
 
 283
 	Big Brother is watching.
 	38
 	53
-	17 87 13 138 9
+	9 13 17 87 138
 	http://www.example.com/283
 284
 	Pluto may not be a planet anymore, but it's a planet in my heart.
 	47
 	23
-	44 121 15
+	15 44 121
 	http://www.example.com/284
 285
 	My biggest problem is deciding what to do next.
 	85
 	6
-	12 27 82 19 5
+	5 12 19 27 82
 
 286
 	Tom asked me if he was invited to the party.
 	20
 	3
-	76 91 69 69
+	69 76 91
 	http://www.example.com/286
 287
 	Her dream is to visit Paris.
 	12
 	43
-	11 96 40
+	11 40 96
 	http://www.example.com/287
 288
 	There are eggs in the nest.
 	47
 	13
-	63 115 50 137
+	50 63 115 137
 
 289
 	My shoes are blue with yellow stripes and green stars on the front.
 	54
 	92
-	29 60 68 76 76
+	29 60 68 76
 	http://www.example.com/289
 290
 	He's as proud as a peacock.
@@ -1749,259 +1749,259 @@
 	You'd better look before you jump.
 	139
 	125
-	136 102 9 120
+	9 102 120 136
 	http://www.example.com/291
 292
 	I'm cutting down on sweets.
 	139
 	114
-	84 60 55
+	55 60 84
 
 293
 	I have a friend whose father is the captain of a big ship.
 	19
 	26
-	59 107 27
+	27 59 107
 	http://www.example.com/293
 294
 	Somebody help me.
 	51
 	76
-	144 70 78 33
+	33 70 78 144
 
 295
 	Go sit on the roof.
 	2
 	145
-	77 15 78 9
+	9 15 77 78
 
 296
 	Please, take pity on me.
 	142
 	77
-	56 120 77 102
+	56 77 102 120
 	http://www.example.com/296
 297
 	The squeaky wheel gets the oil.
 	66
 	101
-	99 128 92
+	92 99 128
 	http://www.example.com/297
 298
 	Mother doesn't make things up.
 	90
 	140
-	141 31 19 52
+	19 31 52 141
 
 299
 	I hope that a little bit of my soul dwindles away.
 	90
 	93
-	133 104 7 103 105
+	7 103 104 105 133
 
 300
 	I have a good idea.
 	52
 	70
-	77 76 89 136 29
+	29 76 77 89 136
 	http://www.example.com/300
 301
 	The President is back.
 	128
 	3
-	2 14 134 7
+	2 7 14 134
 
 302
 	My biggest problem is deciding what I should wear.
 	131
 	54
-	8 76 131 119
+	8 76 119 131
 	http://www.example.com/302
 303
 	She had to start saving in October so she could afford to buy Christmas presents for all her family and friends.
 	68
 	110
-	92 34 9 43
+	9 34 43 92
 	http://www.example.com/303
 304
 	Jessica wants a new book.
 	90
 	5
-	51 44 81 98 95
+	44 51 81 95 98
 
 305
 	You don't need 20 captains.
 	111
 	37
-	140 13 16 0
+	0 13 16 140
 	http://www.example.com/305
 306
 	I advocate military action.
 	79
 	52
-	51 100 25 16 83
+	16 25 51 83 100
 	http://www.example.com/306
 307
 	As a child, her house was surrounded by towering oak trees which she always thought were one bad storm away from toppling.
 	122
 	12
-	99 116 140 14 35
+	14 35 99 116 140
 	http://www.example.com/307
 308
 	It is illegal to buy and sell tigers and other big cats in the United States.
 	88
 	112
-	38 22 5 2
+	2 5 22 38
 	http://www.example.com/308
 309
 	All the swings are empty.
 	130
 	40
-	114 83 32
+	32 83 114
 
 310
 	that's not how you do it.
 	87
 	86
-	135 55 61 87
+	55 61 87 135
 	http://www.example.com/310
 311
 	I went to California with my mom for a weekend girl's trip.
 	108
 	36
-	94 62 48
+	48 62 94
 
 312
 	I can't swim after I drink milk.
 	91
 	127
-	131 145 87 50 124
+	50 87 124 131 145
 	http://www.example.com/312
 313
 	A balanced diet is a cookie in each hand.
 	82
 	48
-	72 105 114 56 12
+	12 56 72 105 114
 	http://www.example.com/313
 314
 	That was last week.
 	126
 	93
-	70 9 55 14
+	9 14 55 70
 
 315
 	I like geography and science.
 	139
 	141
-	20 102 98
+	20 98 102
 	http://www.example.com/315
 316
 	One morning, I found an elephant in my pajamas.
 	137
 	145
-	14 144 132
+	14 132 144
 
 317
 	My mother looks a lot like my grandmother, and I look a lot like them.
 	31
 	51
-	11 126 104 133 44
+	11 44 104 126 133
 	http://www.example.com/317
 318
 	The orange tree in her backyard was blown away by the hurricane.
 	137
 	13
-	64 16 101
+	16 64 101
 
 319
 	She had a variety of masks.
 	19
 	146
-	27 100 69 106
+	27 69 100 106
 	http://www.example.com/319
 320
 	If I could recommend anything to try, it's my chiropractor, Hernando.
 	52
 	61
-	84 127 44 4
+	4 44 84 127
 
 321
 	The bus went roaring by her window at 6 am.
 	123
 	54
-	115 10 124 35
+	10 35 115 124
 
 322
 	When you are in your twenties you read Hegel.
 	78
 	119
-	79 13 55
+	13 55 79
 	http://www.example.com/322
 323
 	Hand me the hammer.
 	108
 	6
-	101 80 77 104
+	77 80 101 104
 	http://www.example.com/323
 324
 	The pencil broke in the middle of my test.
 	146
 	104
-	87 70 0 17
+	0 17 70 87
 
 325
 	Options are limited.
 	62
 	115
-	39 125 16 59 100
+	16 39 59 100 125
 	http://www.example.com/325
 326
 	I would not want to be in that situation.
 	4
 	7
-	58 82 34 28
+	28 34 58 82
 
 327
 	She was shaking like a chihuahua.
 	143
 	100
-	17 142 19 31 118
+	17 19 31 118 142
 	http://www.example.com/327
 328
 	She had so many books that she stacked them and used them as tables.
 	125
 	37
-	51 50 97 5 17
+	5 17 50 51 97
 	http://www.example.com/328
 329
 	Tom gave Mary an obvious wink.
 	130
 	43
-	45 98 20 71 60
+	20 45 60 71 98
 	http://www.example.com/329
 330
 	It's storming outside.
 	46
 	87
-	83 118 20 51
+	20 51 83 118
 
 331
 	We know that everything we need to do is on the list.
 	89
 	59
-	67 115 26 126 138
+	26 67 115 126 138
 	http://www.example.com/331
 332
 	The box was small and wrapped in paper with tiny silver and red glitter dots.
 	20
 	52
-	33 7 124 24 69
+	7 24 33 69 124
 	http://www.example.com/332
 333
 	Hairless cats are probably cold a lot.
 	130
 	92
-	84 86 69
+	69 84 86
 
 334
 	The Earth is spherical.
@@ -2013,55 +2013,55 @@
 	You may choose what to eat from this list.
 	76
 	87
-	28 80 63
+	28 63 80
 
 336
 	You look so amazing in that red dress and heels.
 	125
 	11
-	104 0 38
+	0 38 104
 
 337
 	The dog barked at the cat.
 	86
 	53
-	33 28 53 140
+	28 33 53 140
 	http://www.example.com/337
 338
 	I was so thirsty that I couldn't wait to get a drink of water.
 	144
 	61
-	108 135 13 92 98
+	13 92 98 108 135
 
 339
 	He persuaded me to take the job.
 	77
 	31
-	17 8 127 72 135
+	8 17 72 127 135
 	http://www.example.com/339
 340
 	When I read the list of ingredients, my stomach turned.
 	32
 	37
-	23 18 83 94 79
+	18 23 79 83 94
 	http://www.example.com/340
 341
 	Keep your hands to yourself.
 	107
 	87
-	120 6 4 112 138
+	4 6 112 120 138
 	http://www.example.com/341
 342
 	I own a lot of property in Beijing.
 	27
 	98
-	67 85 83 139 6
+	6 67 83 85 139
 
 343
 	I didn't realize that the app was an invitation-only kind of thing.
 	144
 	17
-	45 107 130 14
+	14 45 107 130
 	http://www.example.com/343
 344
 	I was already sorry that you had to work with Blake.
@@ -2073,19 +2073,19 @@
 	She was constantly looking for new jobs.
 	55
 	19
-	130 104 111
+	104 111 130
 	http://www.example.com/345
 346
 	It's so expensive I want to die.
 	59
 	27
-	77 102 26
+	26 77 102
 
 347
 	They're as different as night and day.
 	52
 	47
-	144 144 48
+	48 144
 
 348
 	The siblings could help each other.zfh
@@ -2097,19 +2097,19 @@
 	You ought to do it.
 	126
 	103
-	137 52 1 70
+	1 52 70 137
 	http://www.example.com/349
 350
 	He knows English better than I do.
 	126
 	74
-	50 125 12 138 116
+	12 50 116 125 138
 	http://www.example.com/350
 351
 	She liked vintage jeans because they fit her better.
 	10
 	58
-	96 60 60 32 75
+	32 60 75 96
 
 352
 	My son has black hair.
@@ -2127,55 +2127,55 @@
 	I won't phone my friend till Bob arrives.
 	7
 	102
-	103 77 131 23 54
+	23 54 77 103 131
 
 355
 	She bought a new plant even though she already had too many.
 	32
 	136
-	15 130 5 14 123
+	5 14 15 123 130
 	http://www.example.com/355
 356
 	You took out someone you cared for.
 	37
 	76
-	53 47 5
+	5 47 53
 	http://www.example.com/356
 357
 	The book had pictures of eyes all over the cover.
 	74
 	84
-	142 74 42
+	42 74 142
 
 358
 	I'm not really a TV watcher.
 	66
 	21
-	87 70 43 11 49
+	11 43 49 70 87
 	http://www.example.com/358
 359
 	Everything has a beginning and an end.
 	30
 	20
-	15 102 20 36
+	15 20 36 102
 
 360
 	There was a point in my life when my dreams didn't seem possible.
 	107
 	111
-	14 30 128 62 36
+	14 30 36 62 128
 	http://www.example.com/360
 361
 	On her fifteenth birthday, her mom surprised her with a trip to Portugal.
 	37
 	77
-	21 5 74
+	5 21 74
 
 362
 	She's a walking encyclopedia of scientific facts.
 	27
 	97
-	6 134 134
+	6 134
 
 363
 	She wasn't sure if she liked her job or not, but she was sure it was better than being unemployed.
@@ -2187,343 +2187,343 @@
 	That box is too big to put in the trunk of the car.
 	124
 	7
-	126 43 81
+	43 81 126
 
 365
 	He drinks more water than I do.
 	117
 	5
-	15 13 104
+	13 15 104
 	http://www.example.com/365
 366
 	She cut the covers off of all of her books so people wouldn't want to steal them.
 	133
 	135
-	49 63 54 7 93
+	7 49 54 63 93
 	http://www.example.com/366
 367
 	She bought a rotisserie chicken at the grocery store and its juices spilled all over the inside of her canvas bag.
 	46
 	33
-	146 124 5 16
+	5 16 124 146
 
 368
 	I get on the bus.
 	82
 	131
-	45 39 13 48
+	13 39 45 48
 	http://www.example.com/368
 369
 	My daughter does the laundry.
 	123
 	104
-	95 86 95 19
+	19 86 95
 
 370
 	She went on a first date with the boy before she realized he was a Marxist.
 	76
 	87
-	55 107 100 23 111
+	23 55 100 107 111
 	http://www.example.com/370
 371
 	We finished the game.
 	41
 	95
-	125 122 141
+	122 125 141
 	http://www.example.com/371
 372
 	Danny drank the juice.
 	110
 	45
-	105 68 59
+	59 68 105
 
 373
 	You're running a big risk in trusting him.
 	54
 	20
-	109 82 100 113 23
+	23 82 100 109 113
 
 374
 	Any day will do.
 	107
 	48
-	48 21 8
+	8 21 48
 	http://www.example.com/374
 375
 	Cows eat grass.
 	68
 	128
-	135 93 112 73 105
+	73 93 105 112 135
 	http://www.example.com/375
 376
 	He changed his favorite color by the day.
 	36
 	119
-	31 79 21 36 13
+	13 21 31 36 79
 	http://www.example.com/376
 377
 	Also, they don't eat much.
 	114
 	92
-	37 72 96 62 24
+	24 37 62 72 96
 
 378
 	I can be greedy sometimes.
 	130
 	7
-	3 13 0 21 57
+	0 3 13 21 57
 	http://www.example.com/378
 379
 	Here he comes to save the day.
 	139
 	116
-	57 28 136 15 63
+	15 28 57 63 136
 
 380
 	Let's go to the mall today.
 	12
 	44
-	81 7 47 133 48
+	7 47 48 81 133
 
 381
 	Pam wants to play outside because it just stopped raining.
 	135
 	28
-	24 107 55 33 43
+	24 33 43 55 107
 	http://www.example.com/381
 382
 	I want chocolate.
 	141
 	6
-	77 10 3 102 51
+	3 10 51 77 102
 
 383
 	This suitcase is terrible.
 	53
 	102
-	36 26 85
+	26 36 85
 
 384
 	Tom's a lot smarter than me.
 	55
 	86
-	115 72 72 138 118
+	72 115 118 138
 	http://www.example.com/384
 385
 	You're the best person I know.
 	136
 	14
-	40 71 105 44 3
+	3 40 44 71 105
 	http://www.example.com/385
 386
 	I think you have the wrong number.
 	141
 	87
-	0 132 130 40
+	0 40 130 132
 	http://www.example.com/386
 387
 	He had an old pickup truck and a big, battered mower.
 	58
 	42
-	57 16 91 12 133
+	12 16 57 91 133
 
 388
 	We were on the lake yesterday.
 	45
 	144
-	41 87 106 27
+	27 41 87 106
 
 389
 	She really wanted Panera, but there wasn't a store near her.
 	63
 	137
-	58 18 13 106 136
+	13 18 58 106 136
 
 390
 	Paul gave me a present.
 	69
 	67
-	48 9 31 122 117
+	9 31 48 117 122
 
 391
 	My small pet mouse escaped from his cage.
 	97
 	87
-	126 25 139
+	25 126 139
 	http://www.example.com/391
 392
 	The delayed train has been an unexpected event today.
 	15
 	141
-	126 122 54 74 105
+	54 74 105 122 126
 	http://www.example.com/392
 393
 	There is a dictionary open on the table.
 	53
 	86
-	116 144 76 89 60
+	60 76 89 116 144
 	http://www.example.com/393
 394
 	I'll have to blow out my gas stove for my birthday, since I don't have any candles.
 	88
 	83
-	16 96 145 135
+	16 96 135 145
 	http://www.example.com/394
 395
 	I plan to weed the yard today.
 	19
 	121
-	88 51 103
+	51 88 103
 	http://www.example.com/395
 396
 	The baby threw up all over her new white dress.
 	76
 	18
-	135 33 86 69
+	33 69 86 135
 
 397
 	I've been able to cure my neighbor's sick cat.
 	53
 	56
-	134 62 62 81 83
+	62 81 83 134
 
 398
 	Don't even look at me.
 	15
 	141
-	27 7 107 25 107
+	7 25 27 107
 
 399
 	Eurasia has a very rich history.
 	37
 	121
-	3 116 6 10
+	3 6 10 116
 
 400
 	I have lived in Shanghai for a long time.
 	40
 	147
-	5 124 119 91
+	5 91 119 124
 
 401
 	The room had green wallpaper with yellow flowers all over it.
 	5
 	10
-	99 61 120 16
+	16 61 99 120
 	http://www.example.com/401
 402
 	I can do what you said.
 	73
 	140
-	123 88 87
+	87 88 123
 	http://www.example.com/402
 403
 	My mom went on vacation and left my dad in charge of the house.
 	19
 	118
-	127 95 123 8
+	8 95 123 127
 	http://www.example.com/403
 404
 	They could be together.
 	24
 	137
-	135 72 53 92 137
+	53 72 92 135 137
 
 405
 	She was hypercritical of all writers, even those who had been published and became successful.
 	146
 	109
-	4 29 55 41
+	4 29 41 55
 
 406
 	I saw some cool vintage chairs in a thrift store, but I really need to stop buying things.
 	21
 	87
-	92 143 36 43
+	36 43 92 143
 
 407
 	You know what I mean.
 	132
 	142
-	97 126 24 83 6
+	6 24 83 97 126
 	http://www.example.com/407
 408
 	She cancelled the date last minute because she was so stressed.
 	98
 	72
-	46 76 139 74 129
+	46 74 76 129 139
 
 409
 	Gus and Jack are selling toys outside their house.
 	42
 	116
-	136 136 25 12
+	12 25 136
 	http://www.example.com/409
 410
 	They sat in the shade of that big tree.
 	119
 	54
-	143 99 0
+	0 99 143
 
 411
 	I could help mom around here.
 	42
 	79
-	54 124 126 8 14
+	8 14 54 124 126
 	http://www.example.com/411
 412
 	Those apples are very red.
 	114
 	128
-	71 3 78 28 95
+	3 28 71 78 95
 	http://www.example.com/412
 413
 	They want to make it bigger.
 	58
 	112
-	82 102 40
+	40 82 102
 
 414
 	We can make ice cream.
 	81
 	13
-	105 62 71
+	62 71 105
 	http://www.example.com/414
 415
 	Nevermind, then.
 	105
 	101
-	120 75 141
+	75 120 141
 	http://www.example.com/415
 416
 	She was the one that got away.
 	49
 	115
-	100 122 142 47 107
+	47 100 107 122 142
 
 417
 	How beautiful she is.
 	63
 	116
-	1 102 124 80
+	1 80 102 124
 	http://www.example.com/417
 418
 	Yes, every tweet so far has been bad, but scientists are hopeful that one day we will discover a way to make good tweets.
 	61
 	46
-	136 118 112
+	112 118 136
 
 419
 	The shower was too hot when I first got into it.
 	56
 	19
-	8 33 60 109 45
+	8 33 45 60 109
 
 420
 	I also did not want to just close it down.
 	71
 	140
-	134 34 86 120 41
+	34 41 86 120 134
 
 421
 	I'll be back tomorrow, and we can decide together then.
@@ -2535,7 +2535,7 @@
 	She was born to dance.
 	134
 	130
-	79 47 95 98 43
+	43 47 79 95 98
 
 423
 	The Chicago Bulls won six championships.
@@ -2547,103 +2547,103 @@
 	I am to blame.
 	91
 	112
-	21 18 113
+	18 21 113
 
 425
 	She didn't drink, but she didn't want people to realize that, so she ordered a ginger ale at the bar.
 	110
 	2
-	78 21 51 101 23
+	21 23 51 78 101
 
 426
 	There is not much to do in South Carolina other than sit on a beach.
 	11
 	109
-	67 130 117 84 86
+	67 84 86 117 130
 	http://www.example.com/426
 427
 	I stepped into the elevator and pressed the down button.
 	7
 	104
-	30 119 82 46
+	30 46 82 119
 
 428
 	I suggest you leave here at once.
 	79
 	139
-	85 68 138 147
+	68 85 138 147
 	http://www.example.com/428
 429
 	He reminds me of your brother.
 	73
 	125
-	26 101 26 32
+	26 32 101
 	http://www.example.com/429
 430
 	She fell and got a bruise on her thigh that was shaped like Texas.
 	98
 	1
-	67 125 1
+	1 67 125
 	http://www.example.com/430
 431
 	You make me so happy.
 	49
 	52
-	42 2 110 145 129
+	2 42 110 129 145
 	http://www.example.com/431
 432
 	We will walk in the garden later.
 	130
 	104
-	28 23 60
+	23 28 60
 
 433
 	I'd be very surprised if that happened.
 	4
 	42
-	19 23 106 45
+	19 23 45 106
 
 434
 	I wanted a little more than that, to be perfectly honest, Trevor.
 	26
 	33
-	2 12 16 15 145
+	2 12 15 16 145
 
 435
 	They had a very traditional doorbell.
 	51
 	144
-	34 141 139
+	34 139 141
 
 436
 	The gang's all her.
 	129
 	64
-	69 132 9
+	9 69 132
 	http://www.example.com/436
 437
 	She kept getting distracted by her own face in the camera viewfinder.
 	117
 	95
-	101 52 100
+	52 100 101
 	http://www.example.com/437
 438
 	I spread the map on the table.
 	9
 	17
-	86 88 130 35
+	35 86 88 130
 	http://www.example.com/438
 439
 	He wanted to give his boyfriend a hug, but he was in Slovakia.
 	126
 	0
-	3 15 82 5 69
+	3 5 15 69 82
 
 440
 	We go to a gallery every Sunday.
 	3
 	147
-	106 118 104 46
+	46 104 106 118
 	http://www.example.com/440
 441
 	She found an old piece of paper under the fridge that had writing all over it.
@@ -2655,37 +2655,37 @@
 	It was a big honor to be asked to give a speech.
 	21
 	73
-	81 28 76 5 10
+	5 10 28 76 81
 
 443
 	Tom knew he'd just made a big mistake.
 	23
 	75
-	13 31 24
+	13 24 31
 
 444
 	He led them down the mountain.
 	121
 	85
-	89 79 64 40 108
+	40 64 79 89 108
 
 445
 	She started wondering if he was cheating on her when she saw the receipt for an expensive jewelry purchase.
 	48
 	4
-	22 17 41 71
+	17 22 41 71
 	http://www.example.com/445
 446
 	I can't believe how right I was back then.
 	5
 	60
-	84 26 37 118
+	26 37 84 118
 
 447
 	I just got hired at this restaurant.
 	55
 	18
-	25 58 37 70 16
+	16 25 37 58 70
 	http://www.example.com/447
 448
 	He came to the point at once.
@@ -2703,73 +2703,73 @@
 	It's adorable that you think I like you.
 	31
 	55
-	132 96 98 98
+	96 98 132
 
 451
 	He was born in Tunisia but moved to Amsterdam when he was six.
 	116
 	103
-	129 131 85 105
+	85 105 129 131
 	http://www.example.com/451
 452
 	Shape up or ship out.
 	26
 	6
-	66 121 61
+	61 66 121
 	http://www.example.com/452
 453
 	The way you said that didn't make sense.
 	24
 	144
-	37 25 64
+	25 37 64
 
 454
 	We all want to believe that hot people aren't better than everyone else, but it's surprisingly difficult to justify philosophically.
 	61
 	33
-	91 77 115
+	77 91 115
 	http://www.example.com/454
 455
 	The girl was wearing a denim jacket over a denim shirt and denim jeans.
 	30
 	144
-	70 50 123 36 29
+	29 36 50 70 123
 	http://www.example.com/455
 456
 	Their efforts embarrassed them.
 	2
 	145
-	9 134 2 51
+	2 9 51 134
 
 457
 	She could do it in her sleep.
 	144
 	133
-	85 134 145 89
+	85 89 134 145
 
 458
 	It took quite a while.
 	147
 	3
-	114 99 1
+	1 99 114
 	http://www.example.com/458
 459
 	When her boss didn't respond to her text immediately, she started to panic.
 	101
 	112
-	48 31 84 40 82
+	31 40 48 82 84
 	http://www.example.com/459
 460
 	Dozens of houses were burned down in that big fire.
 	140
 	40
-	47 22 106 114 101
+	22 47 101 106 114
 
 461
 	He has been looking for this portal for decades.
 	65
 	61
-	128 49 7 37
+	7 37 49 128
 
 462
 	I don't mess around with diets; when I'm hungry, I eat.
@@ -2781,13 +2781,13 @@
 	She had never appreciated radio news shows.
 	59
 	133
-	80 56 2 145
+	2 56 80 145
 
 464
 	I put on my slippers.
 	41
 	26
-	51 48 39 33
+	33 39 48 51
 	http://www.example.com/464
 465
 	When he decided to investigate the crime, he had no idea he'd learn so much about his family.
@@ -2799,163 +2799,163 @@
 	She's headed to the Hockey Hall of Fame.
 	6
 	48
-	50 119 27 111
+	27 50 111 119
 	http://www.example.com/466
 467
 	There's a good chance it'll rain tomorrow.
 	80
 	142
-	34 128 123 6 19
+	6 19 34 123 128
 	http://www.example.com/467
 468
 	I like crawfish but oysters suck.
 	73
 	140
-	87 53 78 101
+	53 78 87 101
 
 469
 	That is not a pencil.
 	51
 	98
-	104 81 116 6
+	6 81 104 116
 	http://www.example.com/469
 470
 	Come on down.
 	100
 	132
-	103 2 13
+	2 13 103
 	http://www.example.com/470
 471
 	Steve doesn't have to go if he doesn't want to.
 	82
 	40
-	17 130 61 128 120
+	17 61 120 128 130
 
 472
 	They tore up the football field so they could develop the area for a new science wing.
 	36
 	25
-	51 94 115 139 23
+	23 51 94 115 139
 
 473
 	She mixed up the recipes and accidentally made a beef parfait.
 	2
 	80
-	32 39 44 55 43
+	32 39 43 44 55
 	http://www.example.com/473
 474
 	Henderson started the American Communist's Club when they were in tenth grade.
 	78
 	102
-	15 115 70 84
+	15 70 84 115
 
 475
 	There is nothing about the situation I could relate to.
 	114
 	32
-	63 5 53 33
+	5 33 53 63
 	http://www.example.com/475
 476
 	They'll keep its name and French identity.
 	100
 	112
-	23 54 32 120 22
+	22 23 32 54 120
 	http://www.example.com/476
 477
 	The park has a soccer field.
 	132
 	7
-	124 16 57 69 50
+	16 50 57 69 124
 	http://www.example.com/477
 478
 	He often wished he was born in a time before social media.
 	119
 	48
-	19 124 95 91 41
+	19 41 91 95 124
 	http://www.example.com/478
 479
 	Anakin and Padme belong together.
 	112
 	88
-	68 143 117
+	68 117 143
 
 480
 	She thought she wanted to be an editor, until she got a job and realized she hated detail work.
 	90
 	64
-	109 97 79 4
+	4 79 97 109
 
 481
 	California is in America.
 	125
 	11
-	74 130 7 10
+	7 10 74 130
 	http://www.example.com/481
 482
 	We usually eat our biggest meal of the day at noon.
 	36
 	69
-	34 109 26
+	26 34 109
 	http://www.example.com/482
 483
 	She had a water bottle with  a built-in water filter.
 	128
 	31
-	117 72 102 79 125
+	72 79 102 117 125
 
 484
 	Paying your rent is not your biggest worry.
 	75
 	85
-	139 104 4 66 20
+	4 20 66 104 139
 	http://www.example.com/484
 485
 	Don't be sad, you're going to the game.
 	87
 	141
-	39 4 81 129
+	4 39 81 129
 	http://www.example.com/485
 486
 	It had been so long since she had seen him, she actually had to check the yearbook to remember his last name.
 	100
 	132
-	84 94 16 89
+	16 84 89 94
 
 487
 	She was convinced her father was a master chef.
 	147
 	40
-	106 68 30 34
+	30 34 68 106
 	http://www.example.com/487
 488
 	i really enjoyed meeting you guys and experiencing the other side of catering events, but the late hours and insufficient wages deterred me from continuing this job.
 	89
 	10
-	83 81 23
+	23 81 83
 
 489
 	I am on a very tight budget.
 	24
 	141
-	16 83 77
+	16 77 83
 	http://www.example.com/489
 490
 	The movie industry became a big business.
 	40
 	140
-	78 111 97 82
+	78 82 97 111
 	http://www.example.com/490
 491
 	Give me the big knife to cut the bread.
 	30
 	128
-	111 4 12 33 125
+	4 12 33 111 125
 
 492
 	I am looking for some pears.
 	100
 	87
-	139 57 40 90
+	40 57 90 139
 	http://www.example.com/492
 493
 	My father is in the office.
@@ -2967,175 +2967,175 @@
 	I will take you to the movies only if you wait for me outside.
 	115
 	19
-	119 106 90
+	90 106 119
 
 495
 	You have some schoolwork to do.
 	0
 	114
-	54 34 109 38
+	34 38 54 109
 	http://www.example.com/495
 496
 	Maybe he was brokering a deal.
 	103
 	116
-	7 142 80 89
+	7 80 89 142
 	http://www.example.com/496
 497
 	We are all in favor of this plan.
 	63
 	69
-	81 38 144 31 101
+	31 38 81 101 144
 	http://www.example.com/497
 498
 	It's the biggest house in the neighborhood.
 	140
 	36
-	2 21 12
+	2 12 21
 
 499
 	Tom forgot his shopping list and only got half of what he wanted to.
 	133
 	90
-	39 13 36
+	13 36 39
 
 500
 	His appearance terrified her and she screamed.
 	23
 	116
-	14 83 65 91
+	14 65 83 91
 
 501
 	We have a long day tomorrow.
 	10
 	109
-	26 128 141 107
+	26 107 128 141
 
 502
 	He didn't know who to go as for Halloween.
 	35
 	10
-	75 99 46
+	46 75 99
 	http://www.example.com/502
 503
 	Stand up straight.
 	113
 	2
-	21 140 95 45
+	21 45 95 140
 
 504
 	Don't be nervous.
 	100
 	1
-	60 108 40
+	40 60 108
 
 505
 	That is very nice of you to say.
 	15
 	141
-	93 127 27
+	27 93 127
 
 506
 	That's it, go to time-out.
 	39
 	84
-	32 144 79 60
+	32 60 79 144
 
 507
 	The coach smiled at the player who tossed the frisbee.
 	58
 	8
-	109 29 102 78 69
+	29 69 78 102 109
 
 508
 	I'm going to see a movie.
 	20
 	29
-	38 74 6
+	6 38 74
 
 509
 	I don't know how to spell a lot of things.
 	132
 	6
-	93 2 129 109
+	2 93 109 129
 	http://www.example.com/509
 510
 	There are chips that I want in that vending machine.
 	18
 	135
-	100 83 142
+	83 100 142
 	http://www.example.com/510
 511
 	The cat jumped over the fence.
 	13
 	16
-	20 27 111 106
+	20 27 106 111
 	http://www.example.com/511
 512
 	I want to ask them when their big day is.
 	146
 	26
-	27 136 24 37
+	24 27 37 136
 	http://www.example.com/512
 513
 	My mom drove me to school fifteen minutes late on Tuesday.
 	13
 	10
-	21 99 5 55 78
+	5 21 55 78 99
 
 514
 	There is nobody more powerful than someone who is extremely intelligent but also extremely humble.
 	73
 	102
-	6 80 146 136 106
+	6 80 106 136 146
 	http://www.example.com/514
 515
 	My brother's dog barks a lot.
 	79
 	86
-	123 102 78 113 22
+	22 78 102 113 123
 
 516
 	The wind was strong today in the city.
 	97
 	135
-	20 66 75 63 18
+	18 20 63 66 75
 	http://www.example.com/516
 517
 	My hat is cooler than Jim's.
 	20
 	29
-	44 26 103 78
+	26 44 78 103
 	http://www.example.com/517
 518
 	That is a great idea.
 	147
 	33
-	135 145 75 127 32
+	32 75 127 135 145
 
 519
 	I've got other problems.
 	126
 	103
-	135 43 100
+	43 100 135
 
 520
 	Sports is one outlet to let off steam.
 	1
 	53
-	101 43 64 111
+	43 64 101 111
 
 521
 	I like the Wimbledon.
 	17
 	127
-	88 67 78 70
+	67 70 78 88
 	http://www.example.com/521
 522
 	What a big house you have.
 	9
 	53
-	115 114 106 6 146
+	6 106 114 115 146
 
 523
 	Look at the blackboard.
@@ -3147,325 +3147,325 @@
 	You set me up and I don't appreciate it.
 	39
 	4
-	140 145 51 78 45
+	45 51 78 140 145
 
 525
 	He didn't know where he was supposed to go for his interview.
 	64
 	13
-	111 131 48
+	48 111 131
 	http://www.example.com/525
 526
 	There was a big party at Tom's place last weekend.
 	119
 	48
-	137 127 142 117 103
+	103 117 127 137 142
 	http://www.example.com/526
 527
 	She has a beautiful smile.
 	85
 	22
-	135 15 115 109 112
+	15 109 112 115 135
 	http://www.example.com/527
 528
 	The sirens went off in the middle of the night and woke us all up.
 	60
 	5
-	142 0 31 104
+	0 31 104 142
 
 529
 	She wants to be stronger, even if that means being meaner.
 	144
 	119
-	76 62 61
+	61 62 76
 
 530
 	Skating is so much fun.
 	117
 	5
-	110 140 104 146
+	104 110 140 146
 	http://www.example.com/530
 531
 	You can start from the basic stitches, and go from there.
 	101
 	3
-	62 142 77 143 76
+	62 76 77 142 143
 	http://www.example.com/531
 532
 	The chocolate chip cookies smelled so good that I ate one without asking.
 	22
 	115
-	71 95 144 102
+	71 95 102 144
 	http://www.example.com/532
 533
 	The earth is like a ball with a big magnet in it.
 	125
 	12
-	144 110 121 28
+	28 110 121 144
 
 534
 	She was very tired and frustrated.
 	53
 	143
-	44 40 78
+	40 44 78
 	http://www.example.com/534
 535
 	She started crying after she finished the song.
 	27
 	97
-	45 70 41 21 138
+	21 41 45 70 138
 	http://www.example.com/535
 536
 	It was very disgusting what he did to that pool.
 	105
 	22
-	28 140 75 55 76
+	28 55 75 76 140
 	http://www.example.com/536
 537
 	He hung a picture on the wall.
 	145
 	26
-	139 135 29 52
+	29 52 135 139
 
 538
 	I wonder if she dressed herself as hastily as we did: the room still dark, neither of us awake enough to remember to turn on the light switch, the echo of the telephone bells in our ears.
 	0
 	71
-	51 22 122 114
+	22 51 114 122
 
 539
 	Europe is old.
 	40
 	147
-	53 23 83 135
+	23 53 83 135
 
 540
 	The taxes are included in the price.
 	121
 	84
-	35 50 142 107
+	35 50 107 142
 
 541
 	Tom is now looking for a bigger house to live in.
 	132
 	100
-	62 88 15 36
+	15 36 62 88
 
 542
 	This carpet is big enough to cover the whole floor.
 	44
 	12
-	73 136 1 70 108
+	1 70 73 108 136
 
 543
 	You're pulling my leg.
 	78
 	21
-	34 66 14
+	14 34 66
 	http://www.example.com/543
 544
 	Mrs. Lee's class took a field trip to Austin.
 	72
 	109
-	57 8 117
+	8 57 117
 
 545
 	On her birthday, she decided to skip work, and instead got on a plane to Wisconsin.
 	78
 	119
-	97 116 75 139
+	75 97 116 139
 	http://www.example.com/545
 546
 	He got a fantastic performance review.
 	136
 	121
-	105 86 68 113 30
+	30 68 86 105 113
 	http://www.example.com/546
 547
 	He's a bit tipsy.
 	94
 	2
-	80 77 9 5 58
+	5 9 58 77 80
 
 548
 	A skirt can be fancier than jeans.
 	12
 	110
-	110 45 53 96
+	45 53 96 110
 	http://www.example.com/548
 549
 	The key he was interested in was very old.
 	17
 	52
-	64 7 134 90
+	7 64 90 134
 
 550
 	I'm taking a break from work.
 	123
 	47
-	5 76 17 22 124
+	5 17 22 76 124
 
 551
 	You're already big enough to do it by yourself.
 	81
 	3
-	52 105 87 21 134
+	21 52 87 105 134
 	http://www.example.com/551
 552
 	Last weekend, she wanted to go to the wedding, but she wasn't sure it was safe.
 	68
 	110
-	88 91 49 69
+	49 69 88 91
 	http://www.example.com/552
 553
 	Your reputation as an eccentric will rapidly grow in the neighborhood if you're seen walking a pet ostrich on a leash every morning.
 	64
 	13
-	123 116 125
+	116 123 125
 	http://www.example.com/553
 554
 	She was always worried that everyone secretly hated her.
 	59
 	89
-	114 21 20 102
+	20 21 102 114
 	http://www.example.com/554
 555
 	My German vocabulary list is up to two thousand words now.
 	91
 	18
-	24 6 83
+	6 24 83
 
 556
 	The chickens were running around and pecking worms out of the ground.
 	12
 	110
-	96 97 35 128 147
+	35 96 97 128 147
 
 557
 	She's the absolute best.
 	38
 	21
-	66 131 121 89
+	66 89 121 131
 	http://www.example.com/557
 558
 	This big sofa is really not suitable for a small room.
 	62
 	17
-	59 48 65
+	48 59 65
 
 559
 	There've been some big changes made around here recently.
 	53
 	38
-	89 1 132 47 65
+	1 47 65 89 132
 
 560
 	Moving to the next step is daunting.
 	22
 	95
-	32 146 133 25
+	25 32 133 146
 
 561
 	He does laundry in his basement.
 	55
 	102
-	9 90 86 113
+	9 86 90 113
 
 562
 	Plenty of sleep is healthful.
 	18
 	91
-	103 53 128 7 97
+	7 53 97 103 128
 
 563
 	Most big Japanese firms depend on exports.
 	146
 	135
-	118 41 59
+	41 59 118
 	http://www.example.com/563
 564
 	I can't make up my mind.
 	40
 	82
-	136 45 12
+	12 45 136
 	http://www.example.com/564
 565
 	The sponge absorbed the water quicker than the towel.
 	62
 	105
-	53 34 2
+	2 34 53
 	http://www.example.com/565
 566
 	My big brother shared his cake with me.
 	19
 	22
-	135 107 39
+	39 107 135
 	http://www.example.com/566
 567
 	Those pants are too tight.
 	104
 	97
-	33 83 17 134
+	17 33 83 134
 	http://www.example.com/567
 568
 	I was scared to go to a monster movie, but my dad said he would sit with me, so we went last night.
 	65
 	35
-	63 58 46 72 79
+	46 58 63 72 79
 
 569
 	I've got too much work to do.
 	59
 	22
-	36 106 34
+	34 36 106
 
 570
 	Sarah will throw a big party with a lot of music.
 	131
 	87
-	107 57 90 92
+	57 90 92 107
 
 571
 	I think I can hear a baby crying.
 	47
 	98
-	56 90 48
+	48 56 90
 	http://www.example.com/571
 572
 	They wrote the specials on the chalkboard in multi-colored chalks.
 	121
 	88
-	50 0 141
+	0 50 141
 
 573
 	It is all going to be all right.
 	128
 	68
-	18 71 43
+	18 43 71
 
 574
 	We would move to a nicer house if we had more money.
 	137
 	145
-	54 65 48 12
+	12 48 54 65
 	http://www.example.com/574
 575
 	We can go to the museum.
 	100
 	137
-	49 80 113 55 56
+	49 55 56 80 113
 
 576
 	A lovely day isn't it.
 	30
 	104
-	116 50 136 135
+	50 116 135 136
 	http://www.example.com/576
 577
 	Ken's uncle has a chicken farm.
 	87
 	121
-	11 43 128 113 54
+	11 43 54 113 128
 	http://www.example.com/577
 578
 	We've been making this recipe for generations.
@@ -3477,445 +3477,445 @@
 	I was so mad that I yelled at him at the top of my lungs.
 	103
 	50
-	56 114 84 58
+	56 58 84 114
 
 580
 	Your stance tells me.
 	119
 	3
-	138 30 49 81
+	30 49 81 138
 	http://www.example.com/580
 581
 	You can decide before your flight here on Thursday morning.
 	0
 	71
-	45 83 65 29 24
+	24 29 45 65 83
 
 582
 	Mr. Smith thinks that he's the best.
 	5
 	60
-	130 113 116
+	113 116 130
 
 583
 	I was excited to spend time with my wife without being interrupted by kids.
 	131
 	70
-	77 61 51 15
+	15 51 61 77
 
 584
 	We will make a snowman this winter.
 	124
 	138
-	128 75 140 129 62
+	62 75 128 129 140
 	http://www.example.com/584
 585
 	Blood is thicker than water.
 	41
 	51
-	81 103 0 39 77
+	0 39 77 81 103
 	http://www.example.com/585
 586
 	The snake in the grass made me jump.
 	120
 	132
-	30 101 78
+	30 78 101
 	http://www.example.com/586
 587
 	You're making a big fuss about nothing.
 	4
 	120
-	105 105 49 27
+	27 49 105
 	http://www.example.com/587
 588
 	It was raining so badly that she skidded on the pavement.
 	97
 	66
-	65 127 98 96
+	65 96 98 127
 
 589
 	Good heavens you've grown.
 	138
 	124
-	59 2 143 101
+	2 59 101 143
 
 590
 	I broke my phone.
 	145
 	2
-	126 2 40 96
+	2 40 96 126
 	http://www.example.com/590
 591
 	I wouldn't bet on going to the fair today.
 	99
 	77
-	46 47 27
+	27 46 47
 
 592
 	The White House is important.
 	34
 	93
-	35 59 134 105 119
+	35 59 105 119 134
 	http://www.example.com/592
 593
 	I am a football fan.
 	16
 	117
-	40 116 40
+	40 116
 	http://www.example.com/593
 594
 	I am going to make my bed first.
 	19
 	60
-	24 87 121 62 33
+	24 33 62 87 121
 	http://www.example.com/594
 595
 	He wished that time would pass faster.
 	71
 	61
-	99 42 89
+	42 89 99
 	http://www.example.com/595
 596
 	She was scared by the earthquake.
 	33
 	42
-	108 82 73 37
+	37 73 82 108
 
 597
 	He was very excited to see her, after two months away.
 	137
 	65
-	60 119 87
+	60 87 119
 
 598
 	The Communists are considered bad because they failed in carrying out their ideal of ending inequality.
 	135
 	18
-	117 112 125
+	112 117 125
 	http://www.example.com/598
 599
 	I prefer to go rather than to stay.
 	74
 	99
-	6 147 26 97 0
+	0 6 26 97 147
 	http://www.example.com/599
 600
 	Bigger doesn't always mean better.
 	12
 	125
-	144 19 39 110 73
+	19 39 73 110 144
 
 601
 	When she got her new ID, they hole-punched her old one.
 	105
 	98
-	128 108 11 29
+	11 29 108 128
 	http://www.example.com/601
 602
 	Today is Sunday, which means tomorrow is Monday and yesterday was Saturday.
 	38
 	134
-	6 2 13
+	2 6 13
 	http://www.example.com/602
 603
 	She graduated high school in 2003.
 	103
 	97
-	63 6 103 125 50
+	6 50 63 103 125
 	http://www.example.com/603
 604
 	I thought I wanted to work in an office, but now I'm not so sure.
 	138
 	55
-	17 103 109 34 106
+	17 34 103 106 109
 	http://www.example.com/604
 605
 	Cry all you want.
 	28
 	117
-	52 128 101 42
+	42 52 101 128
 
 606
 	She didn't know if it was an ethical issue that she wasn't disclosing certain information.
 	43
 	62
-	117 11 146 108 96
+	11 96 108 117 146
 	http://www.example.com/606
 607
 	His mom was so upset that he knew he couldn't tell her the truth.
 	21
 	73
-	103 20 2 58
+	2 20 58 103
 
 608
 	He has quite a few friends.
 	51
 	41
-	70 97 93 86
+	70 86 93 97
 
 609
 	You're making the biggest mistake of your life.
 	67
 	30
-	134 5 4 125
+	4 5 125 134
 	http://www.example.com/609
 610
 	Michael doesn't work.
 	114
 	127
-	85 11 42 113
+	11 42 85 113
 
 611
 	I have a feeling that something big is about to happen.
 	88
 	33
-	8 49 2 3 33
+	2 3 8 33 49
 
 612
 	She often exaggerates certain events to sound cool.
 	90
 	85
-	66 35 77
+	35 66 77
 
 613
 	The volume was up too high on the television.
 	39
 	22
-	129 54 114 110 102
+	54 102 110 114 129
 	http://www.example.com/613
 614
 	This is the biggest bookstore in town.
 	114
 	32
-	56 85 141 65
+	56 65 85 141
 	http://www.example.com/614
 615
 	He is bigger than all the other boys.
 	12
 	52
-	119 83 45 24 100
+	24 45 83 100 119
 
 616
 	I was so thirsty I couldn't wait to get a drink of water.
 	125
 	45
-	50 130 60 6
+	6 50 60 130
 	http://www.example.com/616
 617
 	He writes meaningless letters.
 	94
 	107
-	28 34 102 46 42
+	28 34 42 46 102
 	http://www.example.com/617
 618
 	He didn't want to go to the party, but he had already said he would go.
 	28
 	101
-	95 90 138
+	90 95 138
 	http://www.example.com/618
 619
 	Tom is taller than you are.
 	39
 	42
-	110 96 145 119 4
+	4 96 110 119 145
 	http://www.example.com/619
 620
 	She is with another man.
 	56
 	14
-	76 44 104 121
+	44 76 104 121
 
 621
 	You must have a huge family.
 	54
 	37
-	80 145 133 69 8
+	8 69 80 133 145
 
 622
 	I like cucumbers and olives.
 	4
 	7
-	144 82 11 126 129
+	11 82 126 129 144
 
 623
 	We have a big oak tree in our backyard.
 	108
 	6
-	139 9 143 75 130
+	9 75 130 139 143
 	http://www.example.com/623
 624
 	Bad news travels fast.
 	124
 	125
-	78 103 31
+	31 78 103
 	http://www.example.com/624
 625
 	One of the big issues in the campaign was taxes.
 	139
 	26
-	122 140 138 93
+	93 122 138 140
 
 626
 	Tragedy brings hope.
 	92
 	130
-	145 89 37
+	37 89 145
 	http://www.example.com/626
 627
 	He asked if she wanted room for cream in her coffee.
 	79
 	52
-	51 108 88 67
+	51 67 88 108
 	http://www.example.com/627
 628
 	They will arrive in half an hour.
 	120
 	37
-	76 82 84 36 141
+	36 76 82 84 141
 	http://www.example.com/628
 629
 	She was determined to summit Mount Everest before she turned twenty-nine.
 	2
 	113
-	94 10 10 72 143
+	10 72 94 143
 	http://www.example.com/629
 630
 	I was thinking of going round your place.
 	22
 	135
-	51 77 56 96
+	51 56 77 96
 
 631
 	I love eating toasted cheese and tuna sandwiches.
 	41
 	92
-	62 35 106 50 146
+	35 50 62 106 146
 
 632
 	If you like tuna and tomato sauce- try combining the two. It's really not as bad as it sounds.
 	131
 	87
-	131 56 91
+	56 91 131
 
 633
 	Someone I know recently combined Maple Syrup & buttered Popcorn thinking it would taste like caramel popcorn. It didn't and they don't recommend anyone else do it either.
 	138
 	124
-	54 6 62 51
+	6 51 54 62
 	http://www.example.com/633
 634
 	Sometimes, all you need to do is completely make an ass of yourself and laugh it off to realise that life isn't so bad after all.
 	19
 	146
-	58 126 96 49 6
+	6 49 58 96 126
 
 635
 	When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
 	69
 	63
-	122 146 146
+	122 146
 
 636
 	The clock within this blog and the clock on my laptop are 1 hour different from each other.
 	142
 	80
-	69 123 108
+	69 108 123
 	http://www.example.com/636
 637
 	They were excited to see their first sloth.
 	29
 	117
-	80 114 90 86 12
+	12 80 86 90 114
 
 638
 	The wake behind the boat told of the past while the open sea for told life in the unknown future.
 	145
 	26
-	79 42 146
+	42 79 146
 
 639
 	Even though he thought the world was flat he didn't see the irony of wanting to travel around the world.
 	90
 	133
-	26 95 116 13 126
+	13 26 95 116 126
 	http://www.example.com/639
 640
 	He wondered if it could be called a beach if there was no sand.
 	140
 	40
-	144 36 3 102 56
+	3 36 56 102 144
 	http://www.example.com/640
 641
 	Thigh-high in the water, the fisherman's hope for dinner soon turned to despair.
 	85
 	130
-	105 8 119 91
+	8 91 105 119
 	http://www.example.com/641
 642
 	Combines are no longer just for farms.
 	31
 	137
-	56 27 81 97 39
+	27 39 56 81 97
 
 643
 	The small white buoys marked the location of hundreds of crab pots.
 	34
 	140
-	120 100 103
+	100 103 120
 
 644
 	The snow-covered path was no help in finding his way out of the back-country.
 	95
 	51
-	27 132 111 116 97
+	27 97 111 116 132
 
 645
 	The waitress was not amused when he ordered green eggs and ham.
 	16
 	107
-	7 135 110 106 71
+	7 71 106 110 135
 
 646
 	Buried deep in the snow, he hoped his batteries were fresh in his avalanche beacon.
 	18
 	103
-	14 75 53 58 120
+	14 53 58 75 120
 	http://www.example.com/646
 647
 	Courage and stupidity were all he had.
 	34
 	93
-	83 116 28 36
+	28 36 83 116
 
 648
 	I don't respect anybody who can't tell the difference between Pepsi and Coke.
 	126
 	93
-	87 84 108 143 56
+	56 84 87 108 143
 	http://www.example.com/648
 649
 	As the years pass by, we all know owners look more and more like their dogs.
 	10
 	53
-	90 46 90
+	46 90
 	http://www.example.com/649
 650
 	In hopes of finding out the truth, he entered the one-room library.
 	125
 	37
-	63 30 13 55
+	13 30 55 63
 
 651
 	As he entered the church he could hear the soft voice of someone whispering into a cell phone.
 	130
 	52
-	100 115 70
+	70 100 115
 	http://www.example.com/651
 652
 	He quietly entered the museum as the super bowl started.
 	26
 	103
-	12 146 48
+	12 48 146
 
 653
 	He had concluded that pigs must be able to fly in Hog Heaven.
@@ -3927,103 +3927,103 @@
 	The rain pelted the windshield as the darkness engulfed us.
 	146
 	22
-	46 76 140 0
+	0 46 76 140
 
 655
 	Beach-combing replaced wine tasting as his new obsession.
 	59
 	27
-	72 99 30 101 46
+	30 46 72 99 101
 
 656
 	The blinking lights of the antenna tower came into focus just as I heard a loud snap.
 	12
 	113
-	110 78 0
+	0 78 110
 	http://www.example.com/656
 657
 	People generally approve of dogs eating cat food but not cats eating dog food.
 	141
 	28
-	59 119 45 101 82
+	45 59 82 101 119
 
 658
 	Car safety systems have come a long way, but he was out to prove they could be outsmarted.
 	70
 	102
-	96 128 144 67
+	67 96 128 144
 	http://www.example.com/658
 659
 	They looked up at the sky and saw a million stars.
 	86
 	22
-	14 123 126 76 23
+	14 23 76 123 126
 
 660
 	She opened up her third bottle of wine of the night.
 	3
 	49
-	138 101 16
+	16 101 138
 	http://www.example.com/660
 661
 	With a single flip of the coin, his life changed forever.
 	6
 	103
-	107 101 98 136 7
+	7 98 101 107 136
 	http://www.example.com/661
 662
 	The tart lemonade quenched her thirst, but not her longing.
 	93
 	104
-	62 124 65 64 53
+	53 62 64 65 124
 	http://www.example.com/662
 663
 	Flying fish few by the space station.
 	130
 	104
-	56 147 77
+	56 77 147
 	http://www.example.com/663
 664
 	He colored deep space a soft yellow.
 	146
 	135
-	18 36 7 97 81
+	7 18 36 81 97
 	http://www.example.com/664
 665
 	Dan ate the clouds like cotton candy.
 	125
 	11
-	78 110 50
+	50 78 110
 	http://www.example.com/665
 666
 	He found a leprechaun in his walnut shell.
 	142
 	20
-	95 17 72 60
+	17 60 72 95
 
 667
 	Bill ran from the giraffe toward the dolphin.
 	100
 	112
-	134 44 129 10 89
+	10 44 89 129 134
 	http://www.example.com/667
 668
 	It didn't make sense unless you had the power to eat colors.
 	9
 	53
-	147 113 111 111
+	111 113 147
 	http://www.example.com/668
 669
 	Patricia loves the sound of nails strongly pressed against the chalkboard.
 	51
 	60
-	36 16 66 134 120
+	16 36 66 120 134
 
 670
 	He didn't understand why the bird wanted to ride the bicycle.
 	48
 	130
-	2 38 37 78 125
+	2 37 38 78 125
 
 671
 	Garlic ice-cream was her favorite.
@@ -4041,37 +4041,37 @@
 	Pat ordered a ghost pepper pie.
 	112
 	139
-	25 72 7 40 2
+	2 7 25 40 72
 
 674
 	You have every right to be angry, but that doesn't give you the right to be mean.
 	16
 	133
-	122 59 81
+	59 81 122
 
 675
 	Andy loved to sleep on a bed of nails.
 	18
 	91
-	54 26 143 137
+	26 54 137 143
 
 676
 	Her daily goal was to improve on yesterday.
 	0
 	62
-	132 65 136 67
+	65 67 132 136
 	http://www.example.com/676
 677
 	She had a habit of taking showers in lemonade.
 	95
 	76
-	125 26 140
+	26 125 140
 
 678
 	The elephant didn't want to talk about the person in the room.
 	87
 	96
-	103 133 49 93 89
+	49 89 93 103 133
 	http://www.example.com/678
 679
 	The skeleton had skeletons of his own in the closet.
@@ -4083,25 +4083,25 @@
 	The Oscar ceremonies are Hollywood's biggest extravaganza.
 	8
 	131
-	60 120 103 116
+	60 103 116 120
 
 681
 	She learned the different types of clouds in second grade.
 	31
 	105
-	10 139 40 27
+	10 27 40 139
 	http://www.example.com/681
 682
 	Sometimes I get confused where the ball went.
 	49
 	81
-	95 93 112 12
+	12 93 95 112
 
 683
 	We go to the gym club together.
 	42
 	88
-	26 122 63
+	26 63 122
 	http://www.example.com/683
 684
 	We've been trying to go there for so long.
@@ -4113,7 +4113,7 @@
 	I haven't been invited.
 	60
 	74
-	7 82 146 61
+	7 61 82 146
 	http://www.example.com/685
 686
 	This room is just about big enough.
@@ -4125,169 +4125,169 @@
 	The giraffe licked the tree and spat at the gorilla.
 	59
 	22
-	59 125 81
+	59 81 125
 
 688
 	That will do.
 	96
 	77
-	98 35 37
+	35 37 98
 	http://www.example.com/688
 689
 	She doesn't see Peter every day.
 	19
 	55
-	30 68 55 73 146
+	30 55 68 73 146
 
 690
 	The conversion rate of USD to Chinese RMB is approximately 1:6.
 	126
 	103
-	44 53 97 26
+	26 44 53 97
 
 691
 	We cook every day.
 	122
 	55
-	59 108 89
+	59 89 108
 
 692
 	I'm left wondering if she understood the joke.
 	92
 	88
-	10 38 2
+	2 10 38
 
 693
 	Wiggle your fingers.
 	145
 	53
-	44 8 2 22
+	2 8 22 44
 
 694
 	Tokyo is bigger than Rome.
 	103
 	143
-	78 89 52 141 100
+	52 78 89 100 141
 
 695
 	He plays the violin as well as the fiddle.
 	23
 	47
-	14 117 126 7
+	7 14 117 126
 
 696
 	His speech covered many subjects.
 	66
 	131
-	130 55 67
+	55 67 130
 
 697
 	My hands are too big to fit into these gloves.
 	59
 	113
-	64 58 117 135
+	58 64 117 135
 	http://www.example.com/697
 698
 	People are really out there thinking we can stop fascism by pointing out that they made factually inaccurate statements somewhere along the way.
 	22
 	141
-	115 106 90
+	90 106 115
 
 699
 	Robert tends to talk big.
 	66
 	20
-	37 115 140 84 68
+	37 68 84 115 140
 	http://www.example.com/699
 700
 	I have a whole list of people to call.
 	68
 	83
-	66 9 121
+	9 66 121
 	http://www.example.com/700
 701
 	He wore a red shirt and khakis to Target and was mistaken for an employee.
 	12
 	77
-	128 70 119
+	70 119 128
 	http://www.example.com/701
 702
 	It could possibly become a big problem.
 	125
 	11
-	104 111 86
+	86 104 111
 	http://www.example.com/702
 703
 	She wanted to be a tutor but had a hard time getting started.
 	49
 	127
-	43 131 103 46 82
+	43 46 82 103 131
 
 704
 	The kids were smiling from ear to ear.
 	11
 	70
-	82 43 86
+	43 82 86
 	http://www.example.com/704
 705
 	The nurse asked me which medications I was taking.
 	64
 	24
-	74 144 91
+	74 91 144
 	http://www.example.com/705
 706
 	Tom didn't want to take such a big risk.
 	22
 	59
-	75 40 49 79
+	40 49 75 79
 
 707
 	She told him to grow up.
 	83
 	125
-	12 42 35 20
+	12 20 35 42
 
 708
 	Albert is so cute.
 	39
 	127
-	131 74 29
+	29 74 131
 
 709
 	She thought squirrels tasted gross, but if she complained, her parents would yell at her.
 	117
 	95
-	39 118 37 112 69
+	37 39 69 112 118
 
 710
 	She meant to go to Gaborone, but mixed up Botswana and Zimbabwe and ended up in Harare instead.
 	28
 	19
-	96 119 102
+	96 102 119
 	http://www.example.com/710
 711
 	I've never seen a whale that big.
 	86
 	20
-	11 104 115 83
+	11 83 104 115
 	http://www.example.com/711
 712
 	We weren't in the best place.
 	85
 	90
-	114 42 118 57
+	42 57 114 118
 
 713
 	Good location choice.
 	45
 	58
-	57 53 110 20 121
+	20 53 57 110 121
 
 714
 	People love Chicago.
 	1
 	127
-	113 90 18 79
+	18 79 90 113
 	http://www.example.com/714
 715
 	He looked like a candy cane.
@@ -4299,7 +4299,7 @@
 	She froze at the sight of the big spider.
 	44
 	12
-	30 138 107
+	30 107 138
 
 717
 	They called each other over the iPad each morning during breakfast.
@@ -4317,109 +4317,109 @@
 	Every store around her seemed to have retail space for lease.
 	12
 	33
-	63 4 145 121
+	4 63 121 145
 	http://www.example.com/719
 720
 	Tom just got that big promotion he's been waiting for.
 	32
 	136
-	10 75 63
+	10 63 75
 	http://www.example.com/720
 721
 	I don't hate you.
 	36
 	127
-	60 126 59 65 8
+	8 59 60 65 126
 	http://www.example.com/721
 722
 	The dog chased the cat around the block four times.
 	133
 	144
-	44 104 14 98 75
+	14 44 75 98 104
 
 723
 	Mary is a fan of theirs.
 	71
 	62
-	6 30 23
+	6 23 30
 	http://www.example.com/723
 724
 	The job was bigger than I anticipated.
 	11
 	70
-	44 41 137
+	41 44 137
 	http://www.example.com/724
 725
 	The papers say that there was a big fire in Nagoya.
 	26
 	6
-	90 59 136 124 21
+	21 59 90 124 136
 
 726
 	When I ripped the tape off, it hurt.
 	103
 	50
-	133 120 33
+	33 120 133
 	http://www.example.com/726
 727
 	This dress is too big for me.
 	41
 	134
-	114 32 115 104
+	32 104 114 115
 	http://www.example.com/727
 728
 	I can make my own decisions.
 	31
 	137
-	85 21 46
+	21 46 85
 
 729
 	I don't think the house is as big as we hoped.
 	2
 	40
-	49 31 135 81 74
+	31 49 74 81 135
 
 730
 	The chandelier swayed in the breeze, sending dust drifting over the tables.
 	140
 	17
-	36 43 140 107 2
+	2 36 43 107 140
 
 731
 	There's a big package on the desk for you.
 	36
 	113
-	89 130 6 55 57
+	6 55 57 89 130
 
 732
 	He resolved to give up smoking.
 	127
 	102
-	139 70 76 20 59
+	20 59 70 76 139
 	http://www.example.com/732
 733
 	The big fire reduced the whole town to ashes.
 	43
 	62
-	110 133 25 40
+	25 40 110 133
 	http://www.example.com/733
 734
 	This is my younger brother.
 	18
 	48
-	118 100 12
+	12 100 118
 
 735
 	I will not open the door.
 	121
 	87
-	78 51 70
+	51 70 78
 
 736
 	The bigger they are, the harder they fall.
 	32
 	37
-	44 69 123 54 68
+	44 54 68 69 123
 
 737
 	I want a big happy family.
@@ -4437,133 +4437,133 @@
 	She became homeless after she was evicted.
 	86
 	96
-	79 79 66 50 126
+	50 66 79 126
 	http://www.example.com/739
 740
 	She regretted not going until she saw the pictures they posted of the meet-up and realized she would have been the only woman there.
 	112
 	71
-	141 109 123 91 101
+	91 101 109 123 141
 
 741
 	We're leaving in ten minutes, whether you're dressed or not.
 	128
 	141
-	15 30 122 45
+	15 30 45 122
 
 742
 	I am a little mad right now.
 	80
 	0
-	102 137 70 3
+	3 70 102 137
 
 743
 	I am having his baby.
 	58
 	14
-	6 78 9 54
+	6 9 54 78
 
 744
 	Animal print adds a nice touch to plain outfits.
 	86
 	147
-	94 41 58 114
+	41 58 94 114
 	http://www.example.com/744
 745
 	I am on the phone.
 	11
 	48
-	104 30 14
+	14 30 104
 
 746
 	She didn't understand the appeal of hardwood floors.
 	74
 	33
-	104 13 53 12
+	12 13 53 104
 
 747
 	I check off each task on my list as soon as I complete it.
 	40
 	94
-	135 64 37 27
+	27 37 64 135
 
 748
 	His story is fishy.
 	66
 	138
-	32 28 145 119
+	28 32 119 145
 
 749
 	He didn't mean to smash the window.
 	78
 	21
-	52 130 7 26 135
+	7 26 52 130 135
 	http://www.example.com/749
 750
 	he has skipped school on many occasions.
 	102
 	41
-	127 79 97
+	79 97 127
 
 751
 	We're no different from anyone else.
 	80
 	127
-	44 130 83 104
+	44 83 104 130
 
 752
 	I have a feeling the boss won't be happy about this.
 	1
 	91
-	70 117 102 30
+	30 70 102 117
 	http://www.example.com/752
 753
 	Wearing long sleeves in the winter is a good idea.
 	104
 	128
-	8 137 19 68
+	8 19 68 137
 	http://www.example.com/753
 754
 	You're a fantastic cook.
 	139
 	125
-	118 48 16
+	16 48 118
 
 755
 	I had a beta fish.
 	120
 	37
-	66 142 127 99
+	66 99 127 142
 
 756
 	I'm on the list.
 	137
 	42
-	97 34 104
+	34 97 104
 	http://www.example.com/756
 757
 	It's so sunny outside.
 	133
 	77
-	56 80 75 145
+	56 75 80 145
 	http://www.example.com/757
 758
 	Nobody ever believed her when she told them how big her family was.
 	121
 	37
-	15 140 31 36 81
+	15 31 36 81 140
 	http://www.example.com/758
 759
 	She went to Oktoberfest and got drunk on half a stein of beer.
 	83
 	44
-	25 123 115 35
+	25 35 115 123
 	http://www.example.com/759
 760
 	We all live in a yellow submarine.
 	5
 	20
-	29 138 35 95 93
+	29 35 93 95 138
 
 761
 	A candle can be fake or real.
@@ -4575,55 +4575,55 @@
 	You would somehow manage to make yourself understood.
 	120
 	63
-	72 87 107 17
+	17 72 87 107
 
 763
 	It could be the biggest mistake you ever make.
 	54
 	139
-	143 64 118 83 55
+	55 64 83 118 143
 	http://www.example.com/763
 764
 	We have group fitness classes.
 	70
 	98
-	140 59 68 41
+	41 59 68 140
 
 765
 	One day, maybe, she'd be interested, but not right now.
 	64
 	142
-	19 26 106 51 9
+	9 19 26 51 106
 
 766
 	I thought about possibly taking it over myself.
 	33
 	99
-	30 63 53
+	30 53 63
 	http://www.example.com/766
 767
 	The woman wasn't replying to her emails.
 	120
 	4
-	13 35 115 137 63
+	13 35 63 115 137
 	http://www.example.com/767
 768
 	Tom had big money problems.
 	29
 	117
-	25 105 131 91
+	25 91 105 131
 	http://www.example.com/768
 769
 	They saw giraffes.
 	147
 	94
-	75 75 92
+	75 92
 
 770
 	I've asked you a thousand times not to leave your dirty socks on the floor.
 	132
 	142
-	138 81 128
+	81 128 138
 	http://www.example.com/770
 771
 	It is very useful to listen to Lesson One again.
@@ -4641,37 +4641,37 @@
 	I'm reconsidering my decision to get such an expensive car.
 	90
 	71
-	139 66 48 56 66
+	48 56 66 139
 
 774
 	He snuck into the house after midnight to investigate.
 	88
 	10
-	26 80 41 110
+	26 41 80 110
 	http://www.example.com/774
 775
 	Tom recognized three of the names on the list.
 	89
 	69
-	88 91 2 145
+	2 88 91 145
 
 776
 	The bike shop had special bike racks out front, which were shaped like bicycle wheels.
 	112
 	131
-	73 147 3 147 89
+	3 73 89 147
 	http://www.example.com/776
 777
 	I want to be married.
 	114
 	139
-	9 121 54
+	9 54 121
 
 778
 	She hated the taste of butter so much that it made her gag.
 	107
 	111
-	67 133 56 125
+	56 67 125 133
 	http://www.example.com/778
 779
 	We are starting to enter a new chapter.
@@ -4683,577 +4683,577 @@
 	You'll get a chance to come closer to nature, meet lots of different animals, birds, and plants.
 	30
 	104
-	141 6 135 80
+	6 80 135 141
 	http://www.example.com/780
 781
 	When you enter a room, smile and say hello.
 	86
 	53
-	142 55 146 51
+	51 55 142 146
 	http://www.example.com/781
 782
 	You need to look at the big picture here.
 	109
 	59
-	82 67 119
+	67 82 119
 
 783
 	Yesterday's board meeting was a big success.
 	48
 	45
-	60 93 15
+	15 60 93
 
 784
 	He recommended the scary book to me.
 	12
 	77
-	105 80 18 138 37
+	18 37 80 105 138
 	http://www.example.com/784
 785
 	I had to check Facebook to figure out her last name.
 	61
 	145
-	105 70 51
+	51 70 105
 
 786
 	He used a big piece of paper to make the bag.
 	109
 	100
-	102 8 78 1
+	1 8 78 102
 	http://www.example.com/786
 787
 	They painted the coffee shop ceiling black.
 	52
 	108
-	111 134 51
+	51 111 134
 	http://www.example.com/787
 788
 	I expect to be there this evening.
 	90
 	37
-	134 64 131 27
+	27 64 131 134
 	http://www.example.com/788
 789
 	We generally sing songs all together.
 	122
 	49
-	96 142 142
+	96 142
 
 790
 	She felt bad about constantly complaining about her friends but they were driving her insane.
 	23
 	90
-	4 105 67
+	4 67 105
 
 791
 	She sat next to a mom with a baby on the train, and the baby threw up on her.
 	142
 	64
-	110 64 67 78 26
+	26 64 67 78 110
 
 792
 	He wanted to go for a walk but it was too cold to go outside.
 	126
 	74
-	92 27 147 101 79
+	27 79 92 101 147
 	http://www.example.com/792
 793
 	In Japan, there is no lake bigger than Lake Biwa.
 	96
 	113
-	39 13 132 130 30
+	13 30 39 130 132
 	http://www.example.com/793
 794
 	I'm always late and I don't care.
 	115
 	122
-	140 97 58
+	58 97 140
 
 795
 	Grief is a ritual.
 	15
 	20
-	123 109 135 110
+	109 110 123 135
 	http://www.example.com/795
 796
 	Peter ate french fries.
 	78
 	21
-	65 48 80 71
+	48 65 71 80
 
 797
 	It's a big country, Tom.
 	76
 	48
-	102 124 6
+	6 102 124
 
 798
 	She got Taco Bell for lunch to try to cheer herself up, but it only made her more upset.
 	82
 	48
-	88 146 29 119
+	29 88 119 146
 	http://www.example.com/798
 799
 	There's a big bottle of aspirin in the medicine cabinet.
 	98
 	27
-	62 8 142 10
+	8 10 62 142
 	http://www.example.com/799
 800
 	The clock was ticking and kept me awake all night.
 	36
 	37
-	133 101 70
+	70 101 133
 
 801
 	Judith Jarvis Thompson is the best philosopher of all time.
 	117
 	129
-	7 74 39 18 144
+	7 18 39 74 144
 	http://www.example.com/801
 802
 	He said the telegram had arrived at noon.
 	66
 	117
-	6 100 14 99
+	6 14 99 100
 
 803
 	She liked the wallpaper in her room, but her mom insisted they remove it and put up paint instead.
 	49
 	81
-	13 80 30 43 69
+	13 30 43 69 80
 
 804
 	He was a horrible dancer.
 	126
 	103
-	10 12 122 87
+	10 12 87 122
 	http://www.example.com/804
 805
 	That's a great job, Kimberly.
 	43
 	30
-	83 96 130 119
+	83 96 119 130
 	http://www.example.com/805
 806
 	I don't care how long your socks are.
 	28
 	120
-	20 98 18 5
+	5 18 20 98
 
 807
 	Aluminum helps to keep your food fresh for longer.
 	145
 	2
-	67 62 138
+	62 67 138
 
 808
 	Technology makes us forget our past.
 	34
 	93
-	96 113 104 0
+	0 96 104 113
 	http://www.example.com/808
 809
 	At the coffee shop, she couldn't tell if they were annoyed with her or not.
 	36
 	125
-	127 82 7
+	7 82 127
 	http://www.example.com/809
 810
 	I accidentally left my money in my pants pocket and it got ruined in the washer.
 	44
 	122
-	105 99 40
+	40 99 105
 	http://www.example.com/810
 811
 	The girl had very long, very pretty hair and round glasses.
 	108
 	6
-	8 103 35 116
+	8 35 103 116
 	http://www.example.com/811
 812
 	Chocolate covered crickets were his favorite snack.
 	50
 	117
-	54 121 58 2 61
+	2 54 58 61 121
 
 813
 	The secret code they created made no sense, even to them.
 	92
 	41
-	141 71 110
+	71 110 141
 	http://www.example.com/813
 814
 	Three years later, the coffin was still full of Jello.
 	130
 	43
-	65 120 106
+	65 106 120
 	http://www.example.com/814
 815
 	His mind was blown that there was nothing in space except space itself.
 	106
 	59
-	141 31 121 68 87
+	31 68 87 121 141
 	http://www.example.com/815
 816
 	They're playing the piano while flying in the plane.
 	50
 	7
-	53 145 81
+	53 81 145
 	http://www.example.com/816
 817
 	The hand sanitizer was actually clear glue.
 	29
 	20
-	91 132 111 57 60
+	57 60 91 111 132
 
 818
 	The lyrics of the song sounded like fingernails on a chalkboard.
 	94
 	119
-	113 52 1 126
+	1 52 113 126
 
 819
 	It took him a month to finish the meal.
 	127
 	76
-	74 32 129 38
+	32 38 74 129
 	http://www.example.com/819
 820
 	Seek success, but always be prepared for random cats.
 	26
 	146
-	112 133 105
+	105 112 133
 
 821
 	Having no hair made him look even hairier.
 	78
 	21
-	102 16 98 103
+	16 98 102 103
 
 822
 	He poured rocks in the dungeon of his mind.
 	82
 	131
-	146 27 44 122
+	27 44 122 146
 
 823
 	The blue parrot drove by the hitchhiking mongoose.
 	31
 	50
-	126 142 8 4
+	4 8 126 142
 
 824
 	Happiness can be found in the depths of chocolate pudding.
 	88
 	1
-	110 51 66 115
+	51 66 110 115
 	http://www.example.com/824
 825
 	There are no heroes in a punk rock band.
 	129
 	14
-	61 40 94 98
+	40 61 94 98
 	http://www.example.com/825
 826
 	He shaved the peach to prove a point.
 	145
 	79
-	141 33 137 35 85
+	33 35 85 137 141
 	http://www.example.com/826
 827
 	Peanuts don't grow on trees, but cashews do.
 	96
 	1
-	113 27 12 65 76
+	12 27 65 76 113
 
 828
 	It's difficult to understand the lengths he'd go to remain short.
 	49
 	115
-	10 126 144 7 96
+	7 10 96 126 144
 	http://www.example.com/828
 829
 	He created a pig burger out of beef.
 	40
 	144
-	89 74 107
+	74 89 107
 	http://www.example.com/829
 830
 	His thought process was on so many levels that he gave himself a phobia of heights.
 	2
 	145
-	11 84 34 70
+	11 34 70 84
 
 831
 	He liked to play with words in the bathtub.
 	136
 	32
-	11 140 115
+	11 115 140
 
 832
 	There were three sphered rocks congregating in a cubed room.
 	51
 	60
-	39 120 58
+	39 58 120
 	http://www.example.com/832
 833
 	There was no telling what thoughts would come from the machine.
 	2
 	80
-	4 83 139 45 69
+	4 45 69 83 139
 
 834
 	He put heat on the wound to see what would grow.
 	72
 	93
-	30 126 58 49
+	30 49 58 126
 
 835
 	She used her own hair in the soup to give it more flavor.
 	139
 	29
-	16 146 136 9
+	9 16 136 146
 
 836
 	Sometimes you have to just give up and win by cheating.
 	39
 	84
-	115 123 103
+	103 115 123
 	http://www.example.com/836
 837
 	She was amazed by the large chunks of ice washing up on the beach.
 	90
 	85
-	38 141 18 140 34
+	18 34 38 140 141
 	http://www.example.com/837
 838
 	Gary didn't understand why Doug went upstairs to get one dollar bills when he invited him to go cow tipping.
 	78
 	21
-	91 77 3 109 138
+	3 77 91 109 138
 
 839
 	The beach was crowded with snow leopards.
 	71
 	61
-	9 69 35
+	9 35 69
 	http://www.example.com/839
 840
 	As the asteroid hurtled toward earth, Becky was upset her dentist appointment had been canceled.
 	117
 	28
-	86 90 136 75 96
+	75 86 90 96 136
 
 841
 	She looked at the masterpiece hanging in the museum but all she could think is that her five-year-old could do better.
 	93
 	90
-	73 2 9 123
+	2 9 73 123
 
 842
 	The white water rafting trip was suddenly halted by the unexpected brick wall.
 	92
 	41
-	115 69 32
+	32 69 115
 
 843
 	She always had an interesting perspective on why the world must be flat.
 	9
 	17
-	11 60 60 16
+	11 16 60
 
 844
 	There are many things that confuse me about that.
 	98
 	4
-	129 140 12 125
+	12 125 129 140
 
 845
 	He is my grandfather.
 	5
 	72
-	47 18 75 87 47
+	18 47 75 87
 
 846
 	You shouldn't go swimming after eating a big meal.
 	41
 	37
-	0 51 32 68 37
+	0 32 37 51 68
 
 847
 	They have a big lunch and a small dinner.
 	114
 	27
-	51 112 71
+	51 71 112
 
 848
 	She attended kindergarten in 2013.
 	59
 	143
-	26 130 58 28 64
+	26 28 58 64 130
 
 849
 	I'm taking a little road trip to Oklahoma City this morning.
 	56
 	19
-	76 36 59
+	36 59 76
 
 850
 	He admitted defeat.
 	107
 	115
-	143 66 27 133
+	27 66 133 143
 	http://www.example.com/850
 851
 	You, as the maker, get to decide the design.
 	51
 	96
-	111 48 106 144 48
+	48 106 111 144
 
 852
 	She thought she was very special, and not like other girls.
 	6
 	61
-	36 120 97
+	36 97 120
 
 853
 	The man at the coffeeshop had been sitting there alone for some time before he was joined by a very beautiful woman.
 	93
 	126
-	69 115 144 125
+	69 115 125 144
 	http://www.example.com/853
 854
 	I do not want to smoke.
 	32
 	117
-	130 94 110 124 88
+	88 94 110 124 130
 
 855
 	Those are big watermelons.
 	26
 	139
-	118 34 105 92 129
+	34 92 105 118 129
 	http://www.example.com/855
 856
 	We shall devote today's lesson to the study of the English verb 'to get'.
 	40
 	117
-	39 39 30 86
+	30 39 86
 	http://www.example.com/856
 857
 	There's not much chance of that actually happening.
 	44
 	12
-	133 73 108 9 139
+	9 73 108 133 139
 
 858
 	You are more than just your shopping cart.
 	119
 	95
-	56 6 125
+	6 56 125
 
 859
 	She had always harbored a secret jealousy for Youtubers, even those who appeared outwardly dumb and were often mocked on Twitter.
 	105
 	133
-	123 146 99 94
+	94 99 123 146
 
 860
 	It makes me forget all my problems.
 	141
 	93
-	109 9 140
+	9 109 140
 
 861
 	He bonded with his father over music.
 	54
 	36
-	33 141 105 112 93
+	33 93 105 112 141
 	http://www.example.com/861
 862
 	She paid over a thousand dollars a month for her tiny studio apartment, which did not have a dishwasher or consistent heating.
 	30
 	20
-	78 31 108 77
+	31 77 78 108
 	http://www.example.com/862
 863
 	There is a lot of crime in big cities.
 	113
 	12
-	80 40 14
+	14 40 80
 	http://www.example.com/863
 864
 	With these headphones, I can't hear anything.
 	130
 	134
-	19 113 101 19
+	19 101 113
 
 865
 	She wanted her grandmother's old bike, but the tires were worn out and she couldn't find a shop that could replace them.
 	12
 	22
-	146 28 18
+	18 28 146
 	http://www.example.com/865
 866
 	Today, I met a vampire who liked to eat beets.
 	58
 	45
-	34 62 53 88 51
+	34 51 53 62 88
 
 867
 	Alex works for 4 hours every day.
 	129
 	1
-	64 115 3 72 32
+	3 32 64 72 115
 
 868
 	I got a smoothie while I was waiting for my plane to arrive.
 	33
 	42
-	49 103 136 112 147
+	49 103 112 136 147
 	http://www.example.com/868
 869
 	The old man liked to watch birds and go hunting for squirrels.
 	54
 	10
-	19 14 19 8
+	8 14 19
 	http://www.example.com/869
 870
 	It rather suprised me.
 	28
 	109
-	17 130 1 36
+	1 17 36 130
 	http://www.example.com/870
 871
 	Tom wanted to live in a city like Boston.
 	98
 	115
-	114 117 98
+	98 114 117
 	http://www.example.com/871
 872
 	The red van was pulling a trailer with a beat-up lawn mower on it.
 	116
 	25
-	46 19 120
+	19 46 120
 
 873
 	Nobody is out there trying to be happy.
 	31
 	105
-	87 30 122
+	30 87 122
 
 874
 	Most of the people who agreed to sell their livers had already sold one of their kidneys.
 	124
 	20
-	107 74 105 2 43
+	2 43 74 105 107
 
 875
 	This would be a fun place to get married.
 	108
 	52
-	107 98 6
+	6 98 107
 	http://www.example.com/875
 876
 	The kid had made it his mission to pee in every pool he swam in.
@@ -5265,7 +5265,7 @@
 	There is nothing else to do today.
 	40
 	64
-	2 137 96
+	2 96 137
 	http://www.example.com/877
 878
 	She will buy the red sweater.
@@ -5277,85 +5277,85 @@
 	She gave me a dirty look.
 	145
 	99
-	22 17 20 92 94
+	17 20 22 92 94
 	http://www.example.com/879
 880
 	I just made it.
 	108
 	52
-	29 137 71
+	29 71 137
 
 881
 	The package will arrive six days late.
 	145
 	88
-	50 52 123 91
+	50 52 91 123
 	http://www.example.com/881
 882
 	He kept telling himself that one day it would all somehow make sense.
 	28
 	21
-	143 29 59 95 17
+	17 29 59 95 143
 
 883
 	She moved forward only because she trusted that the ending she now was going through must be followed by a new beginning.
 	75
 	40
-	135 74 77 105 94
+	74 77 94 105 135
 	http://www.example.com/883
 884
 	While all her friends were positive that Mary had a sixth sense, she knew she actually had a seventh sense.
 	99
 	74
-	82 53 107 85 106
+	53 82 85 106 107
 
 885
 	He had a wall full of masks so she could wear a different face every day.
 	117
 	50
-	118 104 60 30
+	30 60 104 118
 
 886
 	The group quickly understood that toxic waste was the most effective barrier to use against the zombies.
 	15
 	20
-	121 29 5 95
+	5 29 95 121
 
 887
 	There have been days when I wished to be separated from my body, but today wasn't one of those days.
 	111
 	84
-	34 22 138 139 71
+	22 34 71 138 139
 	http://www.example.com/887
 888
 	To the surprise of everyone, the Rapture happened yesterday but it didn't quite go as expected.
 	104
 	97
-	87 115 88 126 101
+	87 88 101 115 126
 	http://www.example.com/888
 889
 	The bullet pierced the window shattering it before missing Danny's head by mere millimeters.
 	54
 	36
-	40 71 49 95 98
+	40 49 71 95 98
 
 890
 	The complicated school homework left the parents trying to help their kids quite confused.
 	134
 	132
-	19 85 114 17 37
+	17 19 37 85 114
 	http://www.example.com/890
 891
 	Too many prisons have become early coffins.
 	94
 	130
-	136 138 17 60 39
+	17 39 60 136 138
 	http://www.example.com/891
 892
 	I often wish for good luck and receive bad luck.
 	145
 	79
-	69 137 119 41
+	41 69 119 137
 
 893
 	I got a new cat.
@@ -5367,19 +5367,19 @@
 	I was born a very grumpy baby.
 	62
 	115
-	31 146 77 102 92
+	31 77 92 102 146
 
 895
 	These dogs are so sweet.
 	106
 	113
-	91 115 81 82
+	81 82 91 115
 	http://www.example.com/895
 896
 	You need therapy.
 	119
 	75
-	72 96 64 22 141
+	22 64 72 96 141
 
 897
 	The price just covers the pre-tax cost.
@@ -5391,103 +5391,103 @@
 	Utensils are useful.
 	59
 	143
-	129 0 147 127 51
+	0 51 127 129 147
 
 899
 	She knew as soon as she rejected the job that it was the wrong decision to make.
 	122
 	25
-	89 116 77
+	77 89 116
 	http://www.example.com/899
 900
 	As a kid, she thought that dinosaurs were still alive and lived in the woods behind her house.
 	1
 	100
-	72 147 16 66 91
+	16 66 72 91 147
 	http://www.example.com/900
 901
 	In Shanghai, there is a tower called the Pearl Tower which has a big round base and a pointed tip.
 	29
 	36
-	125 13 129 55 54
+	13 54 55 125 129
 	http://www.example.com/901
 902
 	She found a cool vintage sweatshirt while thrifting.
 	34
 	99
-	104 64 28
+	28 64 104
 	http://www.example.com/902
 903
 	I'll make a list and give it to Samantha.
 	123
 	45
-	115 63 72 128 85
+	63 72 85 115 128
 	http://www.example.com/903
 904
 	She got bent out of shape.
 	131
 	66
-	93 62 35
+	35 62 93
 	http://www.example.com/904
 905
 	Therapy seems helpful.
 	12
 	52
-	64 147 124 93 84
+	64 84 93 124 147
 
 906
 	I bought these boots at Goodwill.
 	34
 	93
-	76 56 130 15 10
+	10 15 56 76 130
 
 907
 	He is tough, but I am even tougher.
 	132
 	58
-	9 50 33 114
+	9 33 50 114
 
 908
 	The external scars tell only part of the story.
 	26
 	33
-	118 23 107
+	23 107 118
 
 909
 	Excitement replaced fear until the final moment.
 	5
 	90
-	19 116 55 53
+	19 53 55 116
 	http://www.example.com/909
 910
 	The tattered work gloves speak of the many hours of hard labor he endured throughout his life.
 	48
 	103
-	28 119 78
+	28 78 119
 
 911
 	The hummingbird's wings blurred while it eagerly sipped the sugar water from the feeder.
 	90
 	5
-	119 63 122 23 53
+	23 53 63 119 122
 	http://www.example.com/911
 912
 	Poison ivy grew through the fence they said was impenetrable.
 	76
 	2
-	68 103 80 126 83
+	68 80 83 103 126
 	http://www.example.com/912
 913
 	She forgot to water the plant for two months.
 	34
 	115
-	18 112 96
+	18 96 112
 	http://www.example.com/913
 914
 	This car is in good condition.
 	123
 	3
-	42 132 9
+	9 42 132
 
 915
 	The tape was so sticky that, when it got stuck to my eyebrows, it wouldn't come off.
@@ -5499,49 +5499,49 @@
 	I am Loki.
 	64
 	29
-	82 11 14
+	11 14 82
 
 917
 	She is my grandmother.
 	134
 	107
-	103 34 83
+	34 83 103
 	http://www.example.com/917
 918
 	It's as flat as a pancake.
 	143
 	41
-	115 1 126
+	1 115 126
 
 919
 	I like rice and beans for dinner.
 	96
 	94
-	76 11 16 12
+	11 12 16 76
 
 920
 	No burglar would ever have the heart to hurt a pet pig.
 	106
 	85
-	94 129 30 109 56
+	30 56 94 109 129
 	http://www.example.com/920
 921
 	I had a bad feeling the morning after drinking too much.
 	0
 	113
-	48 73 16 116
+	16 48 73 116
 
 922
 	He had always wanted to be a Youtuber but never thought it would actually happen.
 	101
 	7
-	146 146 27
+	27 146
 	http://www.example.com/922
 923
 	I like veggies too.
 	94
 	23
-	39 51 27
+	27 39 51
 	http://www.example.com/923
 924
 	She's trying to drown her sorrows.
@@ -5553,151 +5553,151 @@
 	His shirt is covered in sweat.
 	30
 	79
-	97 96 65
+	65 96 97
 	http://www.example.com/925
 926
 	The Grand Canyon got snow for the first time in decades, and all the tourists were very excited.
 	61
 	30
-	142 16 43 34
+	16 34 43 142
 	http://www.example.com/926
 927
 	She has blue eyes.
 	67
 	30
-	138 71 110 37 116
+	37 71 110 116 138
 
 928
 	That woman is creepy.
 	132
 	6
-	147 53 131 109
+	53 109 131 147
 
 929
 	I wish Star Wars had a happier plot.
 	132
 	60
-	41 147 108 49
+	41 49 108 147
 	http://www.example.com/929
 930
 	Tom stood alone under a clock in the deserted train station.
 	138
 	103
-	117 95 29 108 86
+	29 86 95 108 117
 	http://www.example.com/930
 931
 	We look forward to your visit.
 	96
 	87
-	107 144 65
+	65 107 144
 	http://www.example.com/931
 932
 	She had a hard time finding laundry detergent when she was traveling.
 	130
 	118
-	25 108 96 142 15
+	15 25 96 108 142
 	http://www.example.com/932
 933
 	I want white teeth.
 	144
 	51
-	77 144 67
+	67 77 144
 
 934
 	I have a question I need to ask everyone.
 	104
 	61
-	22 13 52 83 93
+	13 22 52 83 93
 
 935
 	Racecar backwards is racecar.
 	12
 	122
-	81 128 108 19
+	19 81 108 128
 	http://www.example.com/935
 936
 	I don't want to live in a mansion.
 	127
 	63
-	145 32 74 5
+	5 32 74 145
 	http://www.example.com/936
 937
 	Tom started a list so he wouldn't forget anything.
 	48
 	107
-	44 50 47
+	44 47 50
 
 938
 	School violence is a major problem.
 	41
 	51
-	43 25 52 90
+	25 43 52 90
 	http://www.example.com/938
 939
 	Big men are not always strong.
 	69
 	63
-	84 96 54
+	54 84 96
 	http://www.example.com/939
 940
 	He uses the snorkel to breathe under water.
 	77
 	133
-	138 96 130
+	96 130 138
 	http://www.example.com/940
 941
 	They had been dating for seven years by the time they got engaged.
 	21
 	144
-	45 63 98 86
+	45 63 86 98
 	http://www.example.com/941
 942
 	She wanted to get a master's degree because she missed school.
 	40
 	147
-	58 142 120 11 71
+	11 58 71 120 142
 
 943
 	I can't find the page you're talking about.
 	63
 	51
-	124 141 126
+	124 126 141
 
 944
 	He strives to keep the best lawn in the neighborhood.
 	100
 	137
-	121 29 85
+	29 85 121
 
 945
 	The spa attendant applied the deep cleaning mask to the gentleman's back.
 	36
 	48
-	111 75 10 38
+	10 38 75 111
 
 946
 	Shingle color was not something the couple had ever talked about.
 	97
 	87
-	29 54 103 41 34
+	29 34 41 54 103
 
 947
 	The sunblock was handed to the girl before practice, but the burned skin was proof she did not apply it.
 	58
 	47
-	146 68 91 5 4
+	4 5 68 91 146
 	http://www.example.com/947
 948
 	The virus had powers none of us knew existed.
 	82
 	40
-	2 114 5 52
+	2 5 52 114
 
 949
 	A quiet house is nice until you are ordered to stay in it for months.
 	34
 	118
-	75 3 104 17
+	3 17 75 104
 	http://www.example.com/949
 950
 	If there is a big earthquake, the alarm will sound.
@@ -5709,193 +5709,193 @@
 	Tom didn't tell us how big your house was.
 	6
 	61
-	100 92 102 66
+	66 92 100 102
 
 952
 	The coffee shop didn't have liquid sugar for her iced tea, so she had to use sugar packets.
 	62
 	112
-	57 62 120 6
+	6 57 62 120
 	http://www.example.com/952
 953
 	Her mother offered to send her money every month, but she was too embarrassed to accept it.
 	86
 	127
-	57 41 146
+	41 57 146
 	http://www.example.com/953
 954
 	He's as mad as a hornet.
 	144
 	110
-	29 120 115 114
+	29 114 115 120
 	http://www.example.com/954
 955
 	Tommy lost the shopping list his mother had given him and just bought things he wanted to eat.
 	68
 	16
-	113 67 29
+	29 67 113
 
 956
 	Tom answered all the questions on the list.
 	60
 	40
-	42 117 47
+	42 47 117
 
 957
 	I wish I had met my uncle yesterday like I was supposed to.
 	139
 	26
-	101 64 20
+	20 64 101
 
 958
 	All the names are listed in alphabetical order.
 	91
 	111
-	63 83 27
+	27 63 83
 	http://www.example.com/958
 959
 	we won't be taking you with us.
 	69
 	33
-	83 125 28 33 55
+	28 33 55 83 125
 	http://www.example.com/959
 960
 	Glazed donuts are amazing.
 	90
 	93
-	85 31 124 62
+	31 62 85 124
 
 961
 	He has a very interesting looking face.
 	95
 	76
-	142 54 3 134
+	3 54 134 142
 	http://www.example.com/961
 962
 	No woman would buy that.
 	95
 	111
-	32 109 14 123 37
+	14 32 37 109 123
 
 963
 	She liked the feeling of the keyboard under her fingers.
 	143
 	116
-	122 42 138 65
+	42 65 122 138
 	http://www.example.com/963
 964
 	Democracy over what we work on is called socialist.
 	44
 	83
-	36 110 41
+	36 41 110
 	http://www.example.com/964
 965
 	She learned that water bottles are no longer just to hold liquid, but they're also status symbols.
 	27
 	73
-	101 140 85 102
+	85 101 102 140
 	http://www.example.com/965
 966
 	Their argument could be heard across the parking lot.
 	79
 	86
-	74 66 96 13 10
+	10 13 66 74 96
 	http://www.example.com/966
 967
 	Giving directions that the mountains are to the west only works when you can see them.
 	45
 	63
-	45 132 126
+	45 126 132
 	http://www.example.com/967
 968
 	Traveling became almost extinct during the pandemic.
 	76
 	118
-	137 109 11 1 104
+	1 11 104 109 137
 
 969
 	It was obvious she was hot, sweaty, and tired.
 	55
 	138
-	52 137 98 45
+	45 52 98 137
 	http://www.example.com/969
 970
 	The Great Dane looked more like a horse than a dog.
 	18
 	103
-	137 50 143 111
+	50 111 137 143
 	http://www.example.com/970
 971
 	He played the game as if his life depended on it and the truth was that it did.
 	131
 	82
-	24 0 80 64
+	0 24 64 80
 
 972
 	It's not possible to convince a monkey to give you a banana by promising it infinite bananas when they die.
 	39
 	26
-	21 126 33 26 55
+	21 26 33 55 126
 	http://www.example.com/972
 973
 	He went on a whiskey diet and immediately lost three days.
 	78
 	102
-	45 48 6 147 20
+	6 20 45 48 147
 
 974
 	He watched the dancing piglets with panda bear tummies in the swimming pool.
 	70
 	18
-	29 135 57 117
+	29 57 117 135
 
 975
 	Martha came to the conclusion that shake weights are a great gift for any occasion.
 	125
 	37
-	84 141 44
+	44 84 141
 	http://www.example.com/975
 976
 	The stained glass window had slivers of yellow, orange, and red.
 	132
 	7
-	105 135 146 28 65
+	28 65 105 135 146
 
 977
 	Hayley Wickenheiser is an incredible human being.
 	107
 	48
-	145 74 3 125 44
+	3 44 74 125 145
 
 978
 	My boyfriend loves this song.
 	28
 	122
-	114 87 74 75
+	74 75 87 114
 	http://www.example.com/978
 979
 	She wasn't sure if she had made a stupid decision or not.
 	18
 	134
-	139 0 27 67
+	0 27 67 139
 	http://www.example.com/979
 980
 	She took offense at his comment.
 	81
 	13
-	9 22 92 63
+	9 22 63 92
 
 981
 	You can decide which smoothie place we go to.
 	82
 	131
-	90 127 136 107
+	90 107 127 136
 	http://www.example.com/981
 982
 	A big car drew up and a tall lady got out.
 	4
 	48
-	32 90 31
+	31 32 90
 	http://www.example.com/982
 983
 	There were so many cookies leftover.
@@ -5907,49 +5907,49 @@
 	That movie franchise sucks.
 	71
 	140
-	113 81 26 34 43
+	26 34 43 81 113
 	http://www.example.com/984
 985
 	I'm a fan of American cooking.
 	71
 	90
-	106 90 36 41 0
+	0 36 41 90 106
 	http://www.example.com/985
 986
 	My family just got home.
 	131
 	88
-	38 97 97 54 42
+	38 42 54 97
 	http://www.example.com/986
 987
 	Tom could be a big help to you, I think.
 	58
 	42
-	45 49 116 103 88
+	45 49 88 103 116
 	http://www.example.com/987
 988
 	The train does not leave at 8AM.
 	6
 	141
-	139 48 36 97
+	36 48 97 139
 	http://www.example.com/988
 989
 	Bobsled is a sporting event.
 	140
 	114
-	139 68 129 51
+	51 68 129 139
 
 990
 	The car crash was so instantaneous that I barely had time to process it.
 	48
 	10
-	97 28 38 38
+	28 38 97
 
 991
 	I always list what I need before I go shopping.
 	121
 	94
-	64 56 77 137 25
+	25 56 64 77 137
 	http://www.example.com/991
 992
 	The businessman had many important meetings.
@@ -5961,79 +5961,79 @@
 	She promised she would reserve a room for me.
 	12
 	22
-	134 69 72
+	69 72 134
 
 994
 	I want your life to be better than mine was.
 	23
 	35
-	23 26 70 98 82
+	23 26 70 82 98
 	http://www.example.com/994
 995
 	You go on a holiday every summer.
 	88
 	10
-	87 18 4
+	4 18 87
 	http://www.example.com/995
 996
 	The risk is higher if you wait to go to the hospital.
 	146
 	119
-	62 91 5
+	5 62 91
 	http://www.example.com/996
 997
 	Odds are that he is cheating on her.
 	17
 	52
-	2 70 32 102 112
+	2 32 70 102 112
 
 998
 	Tokyo is a very large city.
 	52
 	64
-	29 59 51 119 121
+	29 51 59 119 121
 	http://www.example.com/998
 999
 	I especially appreciate how helpful and kind you've been throughout this entire process.
 	101
 	112
-	12 119 34 83
+	12 34 83 119
 	http://www.example.com/999
 1000
 	I'm having second thoughts about getting married so soon.
 	79
 	145
-	79 106 12 3
+	3 12 79 106
 	http://www.example.com/1000
 1001
 	The technology is unbeatable.
 	129
 	117
-	10 46 2
+	2 10 46
 	http://www.example.com/1001
 1002
 	She thought the new Dune movie was dull, but her boss loved it.
 	16
 	99
-	64 30 112 40
+	30 40 64 112
 	http://www.example.com/1002
 1003
 	I am afraid of tornados.
 	96
 	142
-	11 86 97 90
+	11 86 90 97
 
 1004
 	She resolved to stop speaking out people when she was out on her walks.
 	9
 	53
-	55 66 101 57
+	55 57 66 101
 	http://www.example.com/1004
 1005
 	Today is a great day.
 	98
 	105
-	77 41 98 85
+	41 77 85 98
 	http://www.example.com/1005
 1006
 	A man from my future came to me today.
@@ -6045,55 +6045,55 @@
 	The peanut butter jar was hard to open.
 	44
 	135
-	98 29 95 73
+	29 73 95 98
 	http://www.example.com/1007
 1008
 	I had just gotten the face where I wanted it when my classmate bumped into me and the clay fell over.
 	113
 	59
-	79 116 134 128 147
+	79 116 128 134 147
 	http://www.example.com/1008
 1009
 	They were afraid of the black dog.
 	91
 	111
-	141 13 108 91 64
+	13 64 91 108 141
 	http://www.example.com/1009
 1010
 	Since the moment I first put on the suit, it's been the greatest gig of my life.
 	144
 	14
-	74 16 73
+	16 73 74
 
 1011
 	I entered Tom's name on the list of candidates.
 	116
 	63
-	82 70 82
+	70 82
 	http://www.example.com/1011
 1012
 	The big ugly tree destroys the beauty of the house.
 	60
 	40
-	112 39 102 86 43
+	39 43 86 102 112
 	http://www.example.com/1012
 1013
 	On her seventeenth birthday, she jumped from her house's third-floor balcony.
 	53
 	67
-	29 91 132 5
+	5 29 91 132
 
 1014
 	This could become a problem.
 	57
 	11
-	128 50 67 134 92
+	50 67 92 128 134
 
 1015
 	She hated first dates.
 	70
 	128
-	39 14 122 137
+	14 39 122 137
 	http://www.example.com/1015
 1016
 	In China, they eat watermelon with salt on it, because they say it makes things taste sweeter.
@@ -6105,31 +6105,31 @@
 	I got my hair cut today, and they cut it way too short.
 	100
 	87
-	30 41 72 121 3
+	3 30 41 72 121
 	http://www.example.com/1017
 1018
 	I put on my underclothes, shirt and trousers.
 	93
 	90
-	111 19 25 5 93
+	5 19 25 93 111
 	http://www.example.com/1018
 1019
 	The mother read a story to her son.
 	133
 	125
-	147 146 83 23 19
+	19 23 83 146 147
 
 1020
 	Tom's one main ambition in life was to become a race car driver.
 	67
 	61
-	139 108 67
+	67 108 139
 
 1021
 	There was a big earthquake last night.
 	76
 	37
-	103 5 132 119
+	5 103 119 132
 	http://www.example.com/1021
 1022
 	The first baseman caught the fly ball.
@@ -6141,61 +6141,61 @@
 	Karl Marx actually thought that under capitalism poets would be able to find work that paid wages.
 	126
 	135
-	144 17 143
+	17 143 144
 
 1024
 	I'm sorry to interrupt you.
 	83
 	125
-	42 83 39 16
+	16 39 42 83
 
 1025
 	My favorite snack is pretzels.
 	14
 	117
-	140 85 90
+	85 90 140
 
 1026
 	She dreamed an evil henchman was forcing her to count every single hair on her head.
 	90
 	73
-	13 109 99
+	13 99 109
 
 1027
 	Our house is a historic building and protected monument.
 	42
 	13
-	55 28 7
+	7 28 55
 	http://www.example.com/1027
 1028
 	You don't need to leave so early.
 	1
 	84
-	85 90 40 102 121
+	40 85 90 102 121
 
 1029
 	I have been trying to say this for awhile.
 	127
 	38
-	104 55 83
+	55 83 104
 	http://www.example.com/1029
 1030
 	He bought Traveler's Choice instant coffee because it was cheaper than the other brands.
 	33
 	99
-	102 98 119
+	98 102 119
 	http://www.example.com/1030
 1031
 	Northwestern is a great school.
 	24
 	94
-	42 93 26 118 64
+	26 42 64 93 118
 	http://www.example.com/1031
 1032
 	He ordered a latte.
 	79
 	145
-	38 63 39 5 43
+	5 38 39 43 63
 
 1033
 	I have the flowers.
@@ -6207,73 +6207,73 @@
 	My biggest problem is deciding what I should do next.
 	7
 	104
-	48 81 79 22 66
+	22 48 66 79 81
 
 1035
 	I've made a list of people I need to talk to.
 	141
 	88
-	90 104 133 30
+	30 90 104 133
 
 1036
 	She's as white as a sheet.
 	142
 	111
-	5 101 1 82
+	1 5 82 101
 	http://www.example.com/1036
 1037
 	We are completely in love.
 	85
 	112
-	28 22 14 18
+	14 18 22 28
 	http://www.example.com/1037
 1038
 	Today is the day I'll finally know what brick tastes like.
 	17
 	9
-	62 82 20 15
+	15 20 62 82
 	http://www.example.com/1038
 1039
 	People keep telling me "orange" but I still prefer "pink".
 	115
 	49
-	95 64 4
+	4 64 95
 
 1040
 	Hang on, my kittens are scratching at the bathtub and they'll upset by the lack of biscuits.
 	64
 	142
-	95 20 55
+	20 55 95
 
 1041
 	The tears of a clown make my lipstick run, but my shower cap is still intact.
 	72
 	73
-	137 115 97
+	97 115 137
 
 1042
 	The gloves protect my feet from excess work.
 	131
 	88
-	84 26 114 58 112
+	26 58 84 112 114
 	http://www.example.com/1042
 1043
 	The fog was so dense even a laser decided it wasn't worth the effort.
 	123
 	45
-	49 29 79 17
+	17 29 49 79
 
 1044
 	He was an introvert that extroverts seemed to love.
 	60
 	141
-	45 92 28 45
+	28 45 92
 
 1045
 	The golden retriever loved the fireworks each Fourth of July.
 	96
 	1
-	127 27 110 67
+	27 67 110 127
 	http://www.example.com/1045
 1046
 	I want a giraffe, but I'm a turtle eating waffles.
@@ -6285,55 +6285,55 @@
 	Henry couldn't decide if he was an auto mechanic or a priest.
 	116
 	58
-	39 10 124 109
+	10 39 109 124
 	http://www.example.com/1047
 1048
 	100 years old is such a young age if you happen to be a bristlecone pine.
 	54
 	10
-	14 14 73 81 17
+	14 17 73 81
 
 1049
 	When he asked her favorite number, she answered without hesitation that it was diamonds.
 	3
 	136
-	138 135 38 41 133
+	38 41 133 135 138
 
 1050
 	My biggest joy is roasting almonds while stalking prey.
 	144
 	14
-	39 19 108 36
+	19 36 39 108
 
 1051
 	Edith could decide if she should paint her teeth or brush her nails.
 	109
 	84
-	136 133 46
+	46 133 136
 
 1052
 	It was the first time he had ever seen someone cook dinner on an elephant.
 	32
 	117
-	89 65 37
+	37 65 89
 	http://www.example.com/1052
 1053
 	Purple is the best city in the forest.
 	45
 	95
-	115 74 119
+	74 115 119
 	http://www.example.com/1053
 1054
 	There is no better feeling than staring at a wall with closed eyes.
 	131
 	0
-	80 23 28 82 73
+	23 28 73 80 82
 
 1055
 	She couldn't understand why nobody else could see that the sky is full of cotton candy.
 	20
 	15
-	131 76 102 147 121
+	76 102 121 131 147
 	http://www.example.com/1055
 1056
 	He decided to count all the sand on the beach as a hobby.
@@ -6345,133 +6345,133 @@
 	My uncle's favorite pastime was building cars out of noodles.
 	90
 	93
-	132 112 21 69 63
+	21 63 69 112 132
 
 1058
 	The best part of marriage is animal crackers with peanut butter.
 	41
 	95
-	127 6 75 99
+	6 75 99 127
 	http://www.example.com/1058
 1059
 	I'll talk you through every step of the aquatic soccer game.
 	34
 	93
-	76 92 128 49 129
+	49 76 92 128 129
 	http://www.example.com/1059
 1060
 	It's difficult to say, but I think our customers are more satisfied.
 	5
 	20
-	19 84 53
+	19 53 84
 
 1061
 	He is my father.
 	59
 	31
-	25 32 76 30 23
+	23 25 30 32 76
 
 1062
 	I have no doubt that you're going to nail this interview.
 	16
 	133
-	16 117 87 9
+	9 16 87 117
 	http://www.example.com/1062
 1063
 	The train was forty-seven minutes late.
 	90
 	5
-	133 46 6 8 135
+	6 8 46 133 135
 
 1064
 	He was so surprised that he dropped the dumbbells right on his foot.
 	86
 	22
-	41 142 93 88 131
+	41 88 93 131 142
 	http://www.example.com/1064
 1065
 	She had always wanted to be a boxer, but was so weak that she never made it more than a class or two before giving up.
 	24
 	144
-	44 57 118 6
+	6 44 57 118
 
 1066
 	She meant the world to me.
 	98
 	4
-	86 85 92 84 70
+	70 84 85 86 92
 
 1067
 	I'm also too poor to afford a real office.
 	43
 	62
-	57 124 13 42 1
+	1 13 42 57 124
 	http://www.example.com/1067
 1068
 	I drink less water than him.
 	111
 	91
-	74 16 57 43 125
+	16 43 57 74 125
 
 1069
 	She spent over $300 on masks alone in 2020.
 	75
 	38
-	48 45 28
+	28 45 48
 	http://www.example.com/1069
 1070
 	Whitening your teeth can be bad for them.
 	90
 	89
-	65 27 115 48
+	27 48 65 115
 
 1071
 	English Speaking Courses are the hardest ones.
 	75
 	17
-	126 106 92 146
+	92 106 126 146
 
 1072
 	My home is bright pink and has yellow flowers growing all around it.
 	79
 	42
-	55 27 65
+	27 55 65
 	http://www.example.com/1072
 1073
 	I just saw the most eccentric brick.
 	140
 	142
-	34 85 14
+	14 34 85
 	http://www.example.com/1073
 1074
 	She tried to make chicken but she must have put the wrong thing in because it came out of the oven bright green.
 	69
 	89
-	82 24 60 140 103
+	24 60 82 103 140
 
 1075
 	Yes, you can have a carry on.
 	122
 	35
-	27 30 141 51 81
+	27 30 51 81 141
 	http://www.example.com/1075
 1076
 	I have 30 jackets.
 	108
 	36
-	22 141 26 98 142
+	22 26 98 141 142
 	http://www.example.com/1076
 1077
 	They'll show you the way home when you're drunk.
 	85
 	130
-	46 144 4
+	4 46 144
 	http://www.example.com/1077
 1078
 	She threw her back out.
 	97
 	71
-	121 3 15
+	3 15 121
 	http://www.example.com/1078
 1079
 	Tom Jackson was one of the names I recognized on that list.
@@ -6483,85 +6483,85 @@
 	It's not such a big problem You're worrying way too much.
 	118
 	31
-	62 85 48
+	48 62 85
 	http://www.example.com/1080
 1081
 	I want someone who is going to inspire me.
 	80
 	147
-	16 100 119 7
+	7 16 100 119
 	http://www.example.com/1081
 1082
 	The beekeeper was so confident that she didn't bother to wear protective gear.
 	113
 	12
-	59 16 119
+	16 59 119
 	http://www.example.com/1082
 1083
 	No, I can't clean your house It's too big..
 	66
 	95
-	78 35 143
+	35 78 143
 
 1084
 	I can't believe you went skydiving last week.
 	87
 	141
-	7 7 66 35 37
+	7 35 37 66
 
 1085
 	She was very tired as a general rule.
 	33
 	99
-	2 92 58 71 115
+	2 58 71 92 115
 
 1086
 	She painted her face purple for Halloween, so she could go as a grape.
 	102
 	122
-	19 91 57
+	19 57 91
 	http://www.example.com/1086
 1087
 	I will never forget that day.
 	41
 	143
-	131 45 25 53
+	25 45 53 131
 
 1088
 	He is my elder brother.
 	97
 	14
-	115 8 125 40
+	8 40 115 125
 	http://www.example.com/1088
 1089
 	Her mom was a musical theater actress, which got her interested in singing.
 	45
 	123
-	111 22 142 45 62
+	22 45 62 111 142
 	http://www.example.com/1089
 1090
 	Selling hand-made objects is the main source of income for locals.
 	120
 	136
-	53 111 28
+	28 53 111
 	http://www.example.com/1090
 1091
 	You're not looking at the big picture.
 	100
 	109
-	53 0 50
+	0 50 53
 	http://www.example.com/1091
 1092
 	I do not like zoos.
 	49
 	81
-	72 106 16 104 69
+	16 69 72 104 106
 	http://www.example.com/1092
 1093
 	I've been a big fan of yours for a long time.
 	27
 	73
-	136 72 81 67
+	67 72 81 136
 
 1094
 	Everyone who got eliminated in red-light green-light got to go inside and eat cookies.
@@ -6573,121 +6573,121 @@
 	I could eat avocados for thee rest of my life.
 	44
 	80
-	128 6 100 61 37
+	6 37 61 100 128
 	http://www.example.com/1095
 1096
 	Juan watched TV.
 	32
 	117
-	76 15 25
+	15 25 76
 
 1097
 	It's a significant part of history.
 	9
 	104
-	131 9 8
+	8 9 131
 
 1098
 	My mom is from China.
 	108
 	37
-	32 133 64 4
+	4 32 64 133
 
 1099
 	His grandmother loved his paintings so much that she tried to sell them to her friends.
 	139
 	98
-	143 20 34 47 137
+	20 34 47 137 143
 	http://www.example.com/1099
 1100
 	My brother just got home.
 	62
 	100
-	132 70 37 45
+	37 45 70 132
 	http://www.example.com/1100
 1101
 	She became more and more beautiful.
 	79
 	49
-	41 139 68 140
+	41 68 139 140
 
 1102
 	I don't like close spaces.
 	113
 	96
-	38 27 79
+	27 38 79
 
 1103
 	I'm going to crash at your place.
 	21
 	144
-	38 90 91 21
+	21 38 90 91
 	http://www.example.com/1103
 1104
 	These shoes are just way too large.
 	124
 	44
-	86 98 75 60 106
+	60 75 86 98 106
 
 1105
 	We didn't sleep all night because we were talking.
 	32
 	26
-	138 32 5 89 73
+	5 32 73 89 138
 
 1106
 	You might want to consider how cute they look in pajamas.
 	93
 	141
-	63 140 113 133 89
+	63 89 113 133 140
 	http://www.example.com/1106
 1107
 	I had to put a pin in his femur.
 	15
 	125
-	93 19 96 114 135
+	19 93 96 114 135
 
 1108
 	Being fashionable is easy.
 	42
 	58
-	71 40 34 145 120
+	34 40 71 120 145
 
 1109
 	I've got rough hands.
 	27
 	97
-	25 34 106 15
+	15 25 34 106
 
 1110
 	I just passed the funniest bridge.
 	107
 	16
-	111 41 130
+	41 111 130
 	http://www.example.com/1110
 1111
 	I made very short work of the big steak.
 	104
 	123
-	146 88 91 9 19
+	9 19 88 91 146
 
 1112
 	Knowledge is power.
 	112
 	139
-	55 143 41
+	41 55 143
 
 1113
 	She's as sick as a dog.
 	51
 	60
-	62 134 73
+	62 73 134
 	http://www.example.com/1113
 1114
 	She wasn't as productive as she was hoping, partially because she didn't have much work to do.
 	30
 	102
-	102 21 130 52 77
+	21 52 77 102 130
 	http://www.example.com/1114
 1115
 	You have to take the good with the bad.
@@ -6699,73 +6699,73 @@
 	Everybody is expecting a bonus.
 	80
 	95
-	130 24 55 54 86
+	24 54 55 86 130
 	http://www.example.com/1116
 1117
 	Water damage sucks.
 	88
 	92
-	71 77 36 111
+	36 71 77 111
 	http://www.example.com/1117
 1118
 	The broken leg isn't Tom's biggest problem.
 	105
 	146
-	72 132 55
+	55 72 132
 
 1119
 	I owe you a big one for getting me out of the jam.
 	96
 	134
-	4 138 81
+	4 81 138
 	http://www.example.com/1119
 1120
 	what I remember is that she was with us at 8 pm.
 	53
 	9
-	79 86 54
+	54 79 86
 
 1121
 	I feel like I am going to pass out.
 	115
 	34
-	140 85 56
+	56 85 140
 	http://www.example.com/1121
 1122
 	I had dinner with George Washington last night.
 	108
 	36
-	127 109 107
+	107 109 127
 
 1123
 	This ship is too big to pass through the canal.
 	101
 	28
-	40 6 26 139
+	6 26 40 139
 
 1124
 	I added his name to the book.
 	35
 	139
-	84 41 22 23
+	22 23 41 84
 
 1125
 	He liked chocolate and banana milkshakes because his mom used to make them when he was sick.
 	95
 	117
-	92 134 6 8 100
+	6 8 92 100 134
 	http://www.example.com/1125
 1126
 	This lasagna is delicious.
 	72
 	137
-	73 7 46 101
+	7 46 73 101
 
 1127
 	Naps make me feel lazy.
 	130
 	125
-	98 63 99
+	63 98 99
 
 1128
 	We have a big stove which keeps us very toasty.
@@ -6777,235 +6777,235 @@
 	She created an app to match zombies with willing victims.
 	0
 	125
-	56 78 136 14
+	0 14 56 78 136
 	http://www.example.com/1129
 1130
 	He has a weird mouth.
 	1
 	42
-	76 3 110
+	3 76 110
 
 1131
 	Ask no questions and hear no lies.
 	73
 	112
-	30 28 133 141
+	28 30 133 141
 
 1132
 	It's bound to happen eventually.
 	42
 	4
-	71 15 81
+	15 71 81
 	http://www.example.com/1132
 1133
 	I go back to bedroom.
 	30
 	67
-	16 26 145 54
+	16 26 54 145
 	http://www.example.com/1133
 1134
 	I made some steak.
 	56
 	58
-	129 97 79 115 41
+	41 79 97 115 129
 
 1135
 	Her mom asked her to come home for Christmas.
 	28
 	30
-	22 104 59 136 65
+	22 59 65 104 136
 	http://www.example.com/1135
 1136
 	She likes to swing at the playground.
 	16
 	116
-	13 11 123
+	11 13 123
 	http://www.example.com/1136
 1137
 	Thank you very much for your hospitality.
 	30
 	102
-	104 41 49
+	41 49 104
 	http://www.example.com/1137
 1138
 	There used to be a big cherry tree in the garden.
 	63
 	98
-	95 18 79 26
+	18 26 79 95
 	http://www.example.com/1138
 1139
 	She constantly worried about accidentally burning her house down.
 	79
 	49
-	1 77 42 42
+	1 42 77
 	http://www.example.com/1139
 1140
 	Daya chose a song from the list to sing.
 	60
 	105
-	104 65 88
+	65 88 104
 	http://www.example.com/1140
 1141
 	I think I could fall asleep really quickly.
 	74
 	35
-	3 84 53 147 121
+	3 53 84 121 147
 
 1142
 	You may take either the big box or the small one.
 	92
 	88
-	90 131 82 51
+	51 82 90 131
 	http://www.example.com/1142
 1143
 	She was dressed like a rabbit.
 	85
 	128
-	18 83 32
+	18 32 83
 
 1144
 	Mary enjoys cooking.
 	83
 	116
-	81 128 96 3 30
+	3 30 81 96 128
 
 1145
 	It was a maze of rubber wiring.
 	75
 	40
-	57 111 132 2
+	2 57 111 132
 	http://www.example.com/1145
 1146
 	I can't get this lift to work.
 	27
 	98
-	16 2 47
+	2 16 47
 
 1147
 	He has a nice restaurant near the lake.
 	8
 	58
-	84 20 86 134 63
+	20 63 84 86 134
 	http://www.example.com/1147
 1148
 	Here is David with his guitar.
 	137
 	63
-	32 137 137 80 119
+	32 80 119 137
 
 1149
 	He went fast down the slide.
 	57
 	71
-	137 10 146 111
+	10 111 137 146
 
 1150
 	She hated chocolate chip cookies, but she loved gingersnaps.
 	61
 	46
-	88 16 23 123 79
+	16 23 79 88 123
 
 1151
 	She bought a massive pack of toilet paper from Costco, which lasted her three months.
 	106
 	141
-	137 131 72 14 97
+	14 72 97 131 137
 
 1152
 	She went over to see if her name was there.
 	7
 	101
-	101 60 120 6 108
+	6 60 101 108 120
 
 1153
 	As luck would have it I found a pen at the bottom of my bag.
 	28
 	117
-	41 126 18 17 49
+	17 18 41 49 126
 	http://www.example.com/1153
 1154
 	I imagine you think of this activity as something characters from a Jane Austin novel did.
 	22
 	39
-	140 136 105 37
+	37 105 136 140
 
 1155
 	She desperately wanted to meet an alien before she died.
 	89
 	69
-	20 146 104
+	20 104 146
 
 1156
 	I am extra ticklish for some reason.
 	95
 	111
-	75 18 41 63 73
+	18 41 63 73 75
 	http://www.example.com/1156
 1157
 	She likes parties.
 	130
 	7
-	45 115 27 64 144
+	27 45 64 115 144
 	http://www.example.com/1157
 1158
 	I seriously doubt she actually believes you.
 	73
 	125
-	26 74 33 98
+	26 33 74 98
 
 1159
 	I am the biggest Ariana Grande fan on the planet.
 	127
 	37
-	96 137 71 137 132
+	71 96 132 137
 	http://www.example.com/1159
 1160
 	I know that there was a big church here.
 	29
 	20
-	92 136 93
+	92 93 136
 	http://www.example.com/1160
 1161
 	The enemy destroyed the city.
 	96
 	51
-	7 56 9 102
+	7 9 56 102
 
 1162
 	We see them every week.
 	19
 	146
-	5 132 29 99 110
+	5 29 99 110 132
 	http://www.example.com/1162
 1163
 	There are many theories regarding the origins of language.
 	127
 	93
-	100 147 133
+	100 133 147
 
 1164
 	I just walked on thee coolest pillow.
 	106
 	0
-	80 47 104
+	47 80 104
 
 1165
 	Dad is going to work.
 	92
 	121
-	107 117 91 146 98
+	91 98 107 117 146
 
 1166
 	I have a bunch of things I need to do.
 	35
 	122
-	109 30 39 50
+	30 39 50 109
 	http://www.example.com/1166
 1167
 	She is a composer for the harp.
 	131
 	66
-	117 0 19 86
+	0 19 86 117
 	http://www.example.com/1167
 1168
 	The cat coughed up a hairball that was almost the same size as she was.
@@ -7017,115 +7017,115 @@
 	My lunch included a peanut butter sandwich, crackers, juice, and a cheese stick.
 	12
 	43
-	90 133 22 32 46
+	22 32 46 90 133
 	http://www.example.com/1169
 1170
 	The cruise cut through the Bermuda Triangle.
 	114
 	139
-	1 30 12 37
+	1 12 30 37
 
 1171
 	He was very scared when he saw this big snake.
 	24
 	64
-	89 63 127
+	63 89 127
 
 1172
 	I put my headphones on and listened to some smooth jazz.
 	38
 	28
-	130 45 111
+	45 111 130
 	http://www.example.com/1172
 1173
 	You need to be able to justify why you're wearing yellow socks in a formal environment.
 	90
 	89
-	33 38 95 43 98
+	33 38 43 95 98
 	http://www.example.com/1173
 1174
 	The Pearl Tower in Shanghai is one of the most memorable sites in China.
 	36
 	63
-	59 31 43
+	31 43 59
 	http://www.example.com/1174
 1175
 	I couldn't tear myself away from you even if I tried.
 	95
 	44
-	124 67 44 120
+	44 67 120 124
 	http://www.example.com/1175
 1176
 	Tom has some pretty big shoes to fill.
 	146
 	33
-	5 62 75 19
+	5 19 62 75
 
 1177
 	He wears suspenders instead of a belt.
 	34
 	99
-	23 29 47 44 26
+	23 26 29 44 47
 	http://www.example.com/1177
 1178
 	We are buzzing on this espresso.
 	127
 	129
-	127 103 141
+	103 127 141
 	http://www.example.com/1178
 1179
 	She waited until the elevator was full to clear her throat and say, â€œYou guys might be wondering why I called this meeting.
 	64
 	129
-	63 113 98 141
+	63 98 113 141
 	http://www.example.com/1179
 1180
 	He goes to football every day.
 	90
 	37
-	12 58 139 63
+	12 58 63 139
 
 1181
 	They go to a gallery every Saturday.
 	131
 	88
-	49 101 77
+	49 77 101
 
 1182
 	I want to have my name taken off the list.
 	58
 	56
-	84 54 127
+	54 84 127
 	http://www.example.com/1182
 1183
 	The advanced technology is what sold me.
 	102
 	16
-	72 146 95 139
+	72 95 139 146
 	http://www.example.com/1183
 1184
 	I just think he didn't execute it the way he needed to today.
 	25
 	141
-	98 80 129 108 95
+	80 95 98 108 129
 	http://www.example.com/1184
 1185
 	Her face turned red because she was embarrassed.
 	32
 	37
-	96 145 109 99
+	96 99 109 145
 	http://www.example.com/1185
 1186
 	I have one big brother and two little sisters.
 	34
 	61
-	7 38 89 14
+	7 14 38 89
 	http://www.example.com/1186
 1187
 	The hockey rink was on the other side of the campus.
 	96
 	85
-	88 142 111 120
+	88 111 120 142
 	http://www.example.com/1187
 1188
 	Sam felt sick after eating five huge candy bars.
@@ -7137,25 +7137,25 @@
 	It's the size of a golf ball.
 	10
 	88
-	104 84 135 97 4
+	4 84 97 104 135
 
 1190
 	Nothing beats a big glass of beer in summer.
 	92
 	54
-	144 127 62 121 13
+	13 62 121 127 144
 
 1191
 	My cat runs very fast.
 	146
 	104
-	127 22 69
+	22 69 127
 
 1192
 	Tom lives in a white house.
 	69
 	18
-	90 91 77 60
+	60 77 90 91
 	http://www.example.com/1192
 1193
 	He had a sore throat so I gave him my bottle of water and told him to keep it.
@@ -7167,41 +7167,41 @@
 	He was wearing a vest.
 	101
 	112
-	65 109 139 27 99
+	27 65 99 109 139
 	http://www.example.com/1194
 1195
 	Her hat was green, her mittens were yellow, and her coat was orange.
 	121
 	92
-	104 79 65 79 31
+	31 65 79 104
 	http://www.example.com/1195
 1196
 	Lions and tigers are called big cats.
 	47
 	10
-	81 32 66 68 79
+	32 66 68 79 81
 
 1197
 	Nikita is a perfectly respectable businessman.
 	31
 	5
-	42 63 138 118
+	42 63 118 138
 
 1198
 	What you're suggesting is just not practical.
 	72
 	89
-	131 78 132 33 59
+	33 59 78 131 132
 
 1199
 	she's lying or at least not telling the entire truth.
 	68
 	128
-	74 114 2
+	2 74 114
 
 1200
 	This post is a test
 	0
 	0
-	114 9 63 24 138
+	9 24 63 114 138
 
